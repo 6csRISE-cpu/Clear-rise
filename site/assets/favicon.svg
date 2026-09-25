@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="archInk" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#D8CBFF" />
+      <stop offset="1" stop-color="#5B47FF" />
+    </linearGradient>
+    <radialGradient id="archGlow">
+      <stop offset="0" stop-color="#FFF3D6" />
+      <stop offset="1" stop-color="#FFF3D6" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect width="32" height="32" rx="7" fill="#150F33" />
+  <g transform="translate(6.5,2.5) scale(0.78)">
+    <path d="M3,29 L3,13 A10,10 0 0 1 23,13 L23,29 L17.5,29 L17.5,14 A4.5,4.5 0 0 0 8.5,14 L8.5,29 Z" fill="url(#archInk)" />
+    <circle cx="13" cy="23" r="4.2" fill="url(#archGlow)" />
+  </g>
+</svg>

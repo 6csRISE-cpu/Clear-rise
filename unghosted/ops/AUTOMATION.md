@@ -6,7 +6,7 @@
                  │ Communities · Pinterest                          │
                  └──────────────────────┬──────────────────────────┘
                                         ▼
-               unghosted.vercel.app (Cloudflare Pages, auto-deploys from GitHub)
+               unghostedhq.vercel.app (Cloudflare Pages, auto-deploys from GitHub)
                sales page · calculator · guides · support · legal
                     │                                   │
         "Free guide" │                           "Buy" │

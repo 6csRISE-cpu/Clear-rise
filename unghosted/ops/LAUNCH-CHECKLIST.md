@@ -22,7 +22,7 @@ Legend: ✅ done and verified · 🟡 built, waiting on an owner account step ·
 | 6 SEO guides + guides index + sitemap + robots | ✅ | `site/guides/`, `site/sitemap.xml` |
 | Support page, Terms, Privacy, Refund policy | ✅ | `site/support.html`, `site/legal/` |
 | Legal name / address / state filled in | 🟡 | Needs owner Step 4 |
-| Free domain | ✅ | https://unghosted.vercel.app (preview; Vercel Hobby is non-commercial, so move to free Cloudflare Pages or a paid domain before selling) |
+| Free domain | ✅ | https://unghostedhq.vercel.app (preview; Vercel Hobby is non-commercial, so move to free Cloudflare Pages or a paid domain before selling) |
 | Custom domain `unghostedhq.com` | 🟡 | Available Nov 22, 2026 (~$12/yr). Optional, owner purchase |
 | Hosting live | ✅ | Vercel deployment (see README for the deployment check) |
 | Analytics | 🟡 | Code in place; needs the Cloudflare token |

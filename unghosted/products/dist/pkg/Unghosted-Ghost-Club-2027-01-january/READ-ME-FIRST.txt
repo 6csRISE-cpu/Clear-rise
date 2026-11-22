@@ -6,6 +6,6 @@ Thanks for buying Unghosted!
 4. Templates-Import CSV = every template in one list, for bulk import into your texting/CRM app.
 
 Need help? Reply to your purchase email. We answer within 2 business days.
-Refunds: 30-day money-back guarantee, see unghosted.vercel.app/legal/refunds.html
+Refunds: 30-day money-back guarantee, see unghostedhq.vercel.app/legal/refunds.html
 
 License: for use in one business. Please don't resell or share the files.

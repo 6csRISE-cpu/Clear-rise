@@ -10,7 +10,7 @@ When you finish a step, paste the link or ID it produces into a message to Claud
 
 ## Step 1 — Domain & hosting
 
-**Right now (free, done for you):** the site is live at **https://unghosted.vercel.app**, deployed from this repo. No action needed to look at it or share it.
+**Right now (free, done for you):** the site is live at **https://unghostedhq.vercel.app**, deployed from this repo (`unghosted.vercel.app` was already taken by someone else). No action needed to look at it or share it.
 
 **Before you take real payments (pick one, ~15 min):**
 - **Option A, free forever:** create a free **Cloudflare** account → Workers & Pages → Create → Pages → Connect to Git → repo `Clear-rise`, branch `claude/autonomous-digital-business-qdjpdr`, build command *none*, output directory `unghosted/site`. You get a free `unghosted.pages.dev` address that allows commercial use. *(Vercel's free Hobby plan is for non-commercial use, so it's fine for a preview but not for selling.)*

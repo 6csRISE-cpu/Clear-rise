@@ -16,7 +16,7 @@ for (const f of readdirSync(join(dist, 'html')).filter(f => f.endsWith('.html'))
     path: join(dist, 'pdf', f.replace('.html', '.pdf')),
     format: 'Letter', printBackground: true, displayHeaderFooter: true,
     headerTemplate: '<span></span>',
-    footerTemplate: '<div style="font-family:Inter,sans-serif;font-size:7.5pt;color:#7A8B96;width:100%;padding:0 0.8in;display:flex;justify-content:space-between"><span>Unghosted · unghosted.vercel.app</span><span><span class="pageNumber"></span> / <span class="totalPages"></span></span></div>',
+    footerTemplate: '<div style="font-family:Inter,sans-serif;font-size:7.5pt;color:#7A8B96;width:100%;padding:0 0.8in;display:flex;justify-content:space-between"><span>Unghosted · unghostedhq.vercel.app</span><span><span class="pageNumber"></span> / <span class="totalPages"></span></span></div>',
     margin: { top: '0.7in', bottom: '0.75in', left: '0.8in', right: '0.8in' },
   });
   console.log('pdf', f);

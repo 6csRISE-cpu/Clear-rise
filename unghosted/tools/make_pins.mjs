@@ -2,7 +2,7 @@
 import { createRequire } from 'module'; import { fileURLToPath } from 'url'; import { join, dirname } from 'path'; import { writeFileSync } from 'fs';
 const require = createRequire(import.meta.url); const { chromium } = require('playwright');
 const out = join(dirname(fileURLToPath(import.meta.url)), '..', 'marketing', 'pinterest');
-const S = 'https://unghosted.vercel.app/guides/';
+const S = 'https://unghostedhq.vercel.app/guides/';
 const pins = [
   ['7 Missed Call Text Templates', 'for plumbers, HVAC & cleaners', 'missed-call-text-back-templates'],
   ['The Text That Revives "Dead" Quotes', 'copy & paste for contractors', 'quote-follow-up-templates'],

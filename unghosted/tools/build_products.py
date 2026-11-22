@@ -81,7 +81,7 @@ def render_html(meta, body_md):
 <section class="cover"><div class="brand"><svg viewBox="0 0 24 24"><path d="M12 2C7.6 2 4 5.6 4 10v11.2c0 .7.8 1 1.3.5l1.9-1.9 1.9 1.9c.4.4 1 .4 1.4 0L12 20l1.5 1.7c.4.4 1 .4 1.4 0l1.9-1.9 1.9 1.9c.5.5 1.3.2 1.3-.5V10c0-4.4-3.6-8-8-8z" fill="#D7FF3A"/><circle cx="9.2" cy="10" r="1.7" fill="#111"/><circle cx="14.8" cy="10" r="1.7" fill="#111"/></svg>unghosted</div>
 <div><div class="product">{t(meta.get('product',''))}</div><div class="title">{t(meta.get('title',''))}</div>
 <div class="sub">{t(meta.get('subtitle',''))}</div></div>
-<div class="foot">© 2026 Unghosted · unghosted.vercel.app · Licensed for one business. Don't resell it, don't share it. Ghosting us isn't cool either.<br>
+<div class="foot">© 2026 Unghosted · unghostedhq.vercel.app · Licensed for one business. Don't resell it, don't share it. Ghosting us isn't cool either.<br>
 This guide is practical business guidance, not legal advice.</div></section>
 <main class="content">{body}</main></body></html>"""
 

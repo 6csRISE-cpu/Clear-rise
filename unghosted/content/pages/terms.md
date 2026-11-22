@@ -7,7 +7,7 @@ slug: legal/terms
 
 *Last updated: November 22, 2026*
 
-These terms apply to unghosted.vercel.app and to products sold under the Unghosted name by <span data-cfg="legalName"></span> ("Unghosted," "we," "us"). By buying or using a product, you agree to them.
+These terms apply to unghostedhq.vercel.app and to products sold under the Unghosted name by <span data-cfg="legalName"></span> ("Unghosted," "we," "us"). By buying or using a product, you agree to them.
 
 ## 1. Checkout and payment
 Orders are processed by our e-commerce provider, Payhip, and its payment processors (such as Stripe and PayPal). Prices are in U.S. dollars unless shown otherwise. Applicable taxes may be added at checkout.

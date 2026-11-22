@@ -19,7 +19,7 @@ Ghost Club: $19/month, about $17 net per member per month after fees.
 
 | Item | Cost | When |
 |---|---|---|
-| Domain (unghosted.vercel.app) | ~$12/year | Now |
+| Domain (unghostedhq.vercel.app) | ~$12/year | Now |
 | Hosting, email forwarding, analytics (Cloudflare) | $0 | Now |
 | Store & checkout (Payhip Free) | $0/mo + 5% per sale | Now |
 | Payment processing (Stripe/PayPal) | ~2.9% + $0.30 per sale | Per sale |

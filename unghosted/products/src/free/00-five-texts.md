@@ -51,4 +51,4 @@ Three touches, then stop.
 
 These five texts plug the first leak. The **Unghosted Ghost-Proof Kit** ($27) adds the full 21-day quote follow-up sequence, phone scripts and a tracker. The **Unghosted System** adds rebooking, cancellation recovery, reviews, referrals and maintenance plans.
 
-→ See everything at **unghosted.vercel.app** *(you'll also get one useful email a week. Unsubscribe any time.)*
+→ See everything at **unghostedhq.vercel.app** *(you'll also get one useful email a week. Unsubscribe any time.)*

@@ -63,7 +63,15 @@ Most tools have this built in. Search your app's help center for **"missed call 
 
 ## Stay on the right side of the rules
 
-Replying to someone who just called *you* about their own request is conversational. Promotional texts (offers, seasonal reminders) are different and need the customer's prior written consent. Always honor STOP. U.S. business texting apps also require a one-time "10DLC" registration, and your provider walks you through it. *(Practical guidance, not legal advice.)*
+Replying to someone who just called *you*, about their own request, is the lowest-risk kind of business text. Keep it that way:
+
+- **Stay on their request.** No offers or promotions in a missed-call reply. An offer turns it into a marketing message, which needs the customer's prior **written** consent.
+- **Three touches, then stop.**
+- **Quiet hours:** 8 a.m.–8 p.m. in the caller's time zone (some states stop at 8 p.m.), except an immediate reply to an emergency.
+- **Any request to stop means stop,** immediately.
+- **Register your number:** U.S. business texting apps require a one-time "10DLC" registration, and your provider walks you through it.
+
+*(Practical guidance, not legal advice.)*
 
 ## What to do next
 

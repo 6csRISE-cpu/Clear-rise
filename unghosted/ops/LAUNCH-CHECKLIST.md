@@ -2,13 +2,22 @@
 
 Legend: ✅ done and verified · 🟡 built, waiting on an owner account step · ⬜ not started
 
+## Launch gates (all three must be green before buy buttons go live)
+| Gate | Status | How |
+|---|---|---|
+| 1. Texting guidance reviewed by a TCPA/advertising attorney | 🔴 Not started | `ops/COMPLIANCE-REVIEW-PACKET.md` |
+| 2. End-to-end customer journey tested on live accounts (tests A1–L1) | 🔴 Blocked until Payhip/MailerLite exist | `ops/E2E-TEST-PLAN.md` |
+| 3. Automated site + package checks pass | ✅ 248/248 site, 63/63 package (Nov 22, 2026) | `node tools/test_site.mjs && python3 tools/test_packages.py` |
+
 **Overall status: BUILT, NOT YET LAUNCHED.** The business can't take money until the owner creates the Payhip/Stripe accounts (identity and bank verification can't be done on your behalf). Nothing below is claimed as live unless it says verified.
 
 ## Product
 | Item | Status | Evidence |
 |---|---|---|
+| The Texting Rules (4 message types, consent, opt-outs, quiet hours), included in every paid product | ✅ Written; **awaiting attorney review** | `products/dist/pdf/00-texting-rules.pdf` |
+| Every template labeled by message type (CSV `message_type` column) | ✅ | `tools/test_packages.py` checks it |
 | Free guide (4-page PDF) | ✅ | `products/dist/pkg/Unghosted-5-Texts-Free-Guide.pdf` |
-| Ghost-Proof Kit ($27): 10-page PDF, DOCX, XLSX, CSV | ✅ | `Unghosted-Ghost-Proof-Kit.zip` |
+| Ghost-Proof Kit for HVAC & Plumbing ($27): Kit PDF + Texting Rules + DOCX, XLSX, CSV | ✅ | `Unghosted-Ghost-Proof-Kit.zip` |
 | Unghosted System ($67): 2 PDFs (25 pages), DOCX, XLSX, CSVs | ✅ | `Unghosted-System.zip` |
 | Pro Bundle ($127): 4 PDFs + bonus pack, DOCX, XLSX, CSVs | ✅ | `Unghosted-Pro-Bundle.zip` |
 | Ghost Club packs: Dec 2026, Jan 2027, Feb 2027 | ✅ | `Unghosted-Ghost-Club-*.zip` |
@@ -47,6 +56,8 @@ Legend: ✅ done and verified · 🟡 built, waiting on an owner account step ·
 ## Support
 | Item | Status | Evidence |
 |---|---|---|
+| Partner application form (Tally) | ✅ Published | https://tally.so/r/KpVJZX |
+| Partner page + Partner & Affiliate Terms (FTC disclosure rules) | ✅ Live | `site/partners.html`, `site/legal/affiliates.html` |
 | Support form (Tally) | ✅ Published | https://tally.so/r/db9DvD: published via the Tally API in your account. (This sandbox's network blocks tally.so, so open it once yourself to confirm.) |
 | Feedback survey (Tally) | ✅ Published | https://tally.so/r/Yj4Mkz (same note) |
 | Support email `support@unghostedhq.com` | 🟡 | Cloudflare Email Routing after domain purchase |

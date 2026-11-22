@@ -88,28 +88,38 @@ This guide is practical business guidance, not legal advice.</div></section>
 
 def extract_templates(name, body_md):
     """Pull every blockquote template, named by its nearest heading."""
-    rows, heading, buf = [], "", []
+    rows, heading, buf, mtype = [], "", [], ""
     skip_prefixes = ("**Fill-Ins", "**Before you", "**Why", "**Consent", "**Seasons", "**Fill-ins")
 
     def flush():
         if buf:
             txt = " ".join(s.strip() for s in buf).strip()
-            if txt and not txt.startswith(skip_prefixes):
+            if txt and not txt.startswith(skip_prefixes) and not txt.startswith("**") and heading != "AI Prompt Pack" and name != "The Texting Rules":
                 low = (heading + " " + txt).lower()
                 channel = "Email" if ("email" in low or "subject" in low) else ("Phone" if "call" in heading.lower() or "script" in low or "voicemail" in low else "Text")
-                rows.append({"source": name, "name": heading, "channel": channel, "text": txt})
+                rows.append({"source": name, "name": heading, "channel": channel, "message_type": mtype, "text": txt})
             buf.clear()
 
     for line in body_md.splitlines():
-        if line.startswith("#"):
+        if line.startswith("# "):
+            flush(); heading = line.lstrip("#").strip(); mtype = ""
+            if heading.startswith("Part 1"): mtype = "1 Reply"
+            if "Phone Scripts" in heading or "Staff Scripts" in heading: mtype = "Live call"
+        elif line.startswith("#"):
             flush(); heading = line.lstrip("#").strip()
+        elif line.startswith("**Message type →"):
+            flush(); m2 = re.match(r"\*\*Message type → (\d) · (\w+)", line); mtype = f"{m2.group(1)} {m2.group(2)}" if m2 else mtype
         elif line.startswith(">"):
             buf.append(line[1:].strip() or "\n")
         else:
             flush()
+            low = line.strip().lower()
+            if low.startswith("**missed-call text"): mtype = "1 Reply"
+            elif low.startswith("**quote angle") or low.startswith("**top objections"): mtype = "2 Service"
+            elif low.startswith("**seasonal campaign"): mtype = "3 Marketing"
             m = re.match(r"- \*(Text|Email subject)\:\*\s*[\"“]([^\"”]*)", line.strip())
             if m:
-                rows.append({"source": name, "name": heading, "channel": "Text" if m.group(1) == "Text" else "Email", "text": m.group(2).strip()})
+                rows.append({"source": name, "name": heading, "channel": "Text" if m.group(1) == "Text" else "Email", "message_type": "3 Marketing", "text": m.group(2).strip()})
     flush()
     return rows
 
@@ -224,7 +234,7 @@ def main():
     tiers = {"Starter": {"starter"}, "System": {"starter", "system"}, "Pro": {"starter", "system", "pro"}}
     for label, keep in tiers.items():
         with open(DIST / f"Templates-Import-{label}.csv", "w", newline="") as f:
-            w = csv.DictWriter(f, fieldnames=["source", "name", "channel", "text"], extrasaction="ignore"); w.writeheader()
+            w = csv.DictWriter(f, fieldnames=["source", "name", "channel", "message_type", "text"], extrasaction="ignore"); w.writeheader()
             w.writerows(r for r in all_templates if r["tier"] in keep)
     with open(DIST / "Customer-List-Template.csv", "w", newline="") as f:
         w = csv.writer(f)

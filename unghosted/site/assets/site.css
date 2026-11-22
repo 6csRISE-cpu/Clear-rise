@@ -188,3 +188,7 @@ footer { background: var(--ink); border-top: 2px solid var(--ink); }
 a { color: var(--teal); text-underline-offset: 3px; }
 h1 { line-height: 1.04; }
 h1 .hl { display: inline-block; margin-top: .12em; line-height: 1.08; padding: 0 .12em .04em; }
+.tagline { font-size: clamp(18px, 2.2vw, 22px); margin: 4px 0 14px; color: var(--ink-2); }
+.tagline b { background: var(--ink); color: var(--sun); padding: 1px 8px; border-radius: 4px; font-weight: 800; }
+.offer { max-width: 560px; margin: 0 auto; }
+.offer .price .amt { font-size: 56px; }

@@ -1,10 +1,16 @@
 # Maintenance Schedule (minimum owner involvement)
 
+## Weekly: partner outreach, about 2 hours (owner or VA) while launching
+- ☐ Send 15 new partner emails from `marketing/partners/PARTNER-KIT.md` (use the prospects Claude researched in `marketing/partners/outreach/`).
+- ☐ Send due follow-ups (max 2 per prospect), and answer every reply within 1 business day.
+- ☐ Onboard new partners (review-copy coupon, affiliate link, this month's Partner Drop).
+
 ## Weekly: 15 minutes (pick one day, e.g. Monday)
 - ☐ Check the support inbox + Tally submissions. Reply using `ops/SUPPORT-MACROS.md`. Process any refund requests in Payhip.
 - ☐ Glance at Payhip sales. Anything odd (a spike of refunds, failed payments)?
 
 ## Monthly: about 45 minutes (on the 1st)
+- ☐ **Partner Drop:** email this month's `marketing/partners/drops/` file to active partners.
 - ☐ **Club pack:** download the new pack Claude committed (`products/dist/pkg/Unghosted-Ghost-Club-YYYY-MM-*.zip`), upload it to the Payhip membership, send the MailerLite broadcast (template D2). *(Or let Claude do it if MailerLite/Payhip are connected.)*
 - ☐ **Dashboard:** enter last month's numbers in `ops/Owner-Dashboard.xlsx` (Payhip → Analytics; MailerLite → Reports; Cloudflare → Web Analytics). Or paste screenshots to Claude and ask it to fill them in.
 - ☐ **Affiliates:** Payhip → Affiliates → pay balances by PayPal.

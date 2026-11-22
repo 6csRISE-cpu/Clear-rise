@@ -15,6 +15,8 @@ The Unghosted System works for any trade. These packs make it *specific*: the ri
 5. **Maintenance plan example**, with numbers to adjust
 6. **Top 3 objections**, with honest replies
 
+**Message types:** missed-call texts are **1 · Reply**; quote angles and objection replies are used inside **2 · Service** conversations; every seasonal campaign is **3 · Marketing** (text only with written marketing consent, otherwise email), or **4 · Automated** if software sends it. See *The Texting Rules*.
+
 Fill-ins are the same as the main system: `{Business}`, `{You}`, `{First}`, `{Link}`, `{ReviewLink}`, `{Offer}`.
 
 > **Seasons:** calendars assume a typical U.S. four-season climate. In the Sun Belt, shift cooling campaigns about a month earlier and shorten heating ones. In the Southern Hemisphere, flip them.

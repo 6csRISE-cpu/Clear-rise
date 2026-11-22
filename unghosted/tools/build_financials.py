@@ -32,7 +32,7 @@ A = [
     ("processor_pct", .029, .029, .029, "%", "Stripe/PayPal card fee"),
     ("processor_fixed", .30, .30, .30, "$", "Per order"),
     ("refund_rate", .06, .05, .04, "%", "Share of revenue refunded"),
-    ("affiliate_share", .15, .25, .30, "%", "Share of sales via affiliates"),
+    ("affiliate_share", .30, .40, .50, "%", "Share of sales via partners/affiliates (partner-led launch)"),
     ("affiliate_rate", .30, .30, .30, "%", "Commission"),
     ("fixed_monthly", 2, 12, 25, "$", "Domain ($1) + email tool once list grows + misc"),
 ]

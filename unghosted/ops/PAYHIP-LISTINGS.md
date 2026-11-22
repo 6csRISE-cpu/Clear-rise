@@ -21,18 +21,20 @@ For HVAC, plumbing, electrical, cleaning, lawn care, pest control and more.
 
 ---
 
-## Unghosted Ghost-Proof Kit ($27)
-**Tagline:** Plug the two biggest leaks today: missed calls and quiet quotes.
+## Ghost-Proof Kit for HVAC & Plumbing ($27) · THE FRONT DOOR
+**Tagline:** Stop losing jobs because you didn't follow up.
 
 **Description:**
-A ready-to-use follow-up kit for small home-service businesses.
+A ready-to-use follow-up kit built for HVAC and plumbing shops.
 
 **What's inside**
-- 7 missed-call text-back templates (business hours, after hours, weekend, emergency, booking link, second and final touch)
+- 7 missed-call text-back templates, plus no-heat, no-AC and active-leak emergency versions
+- Plays for the quotes that go quiet most: AC/furnace replacement, water heater, sewer/repipe, postponed repairs
+- Honest replies to the objections HVAC and plumbing shops hear every week
 - A voicemail greeting script that tells callers to expect your text
 - The 5-touch, 21-day quote follow-up sequence (text + email), plus a big-ticket version
 - Phone scripts and replies to "too expensive" and "we went with someone else"
-- Plain-English texting consent guide (TCPA basics, 10DLC, STOP)
+- **The Texting Rules:** every template labeled by message type (Reply / Service / Marketing / Automated) with the permission each needs, quiet hours and opt-outs
 - Follow-up tracker spreadsheet (Excel / Google Sheets) + CSV of every template
 
 **Formats:** PDF guide, editable Word file, XLSX tracker, CSV.
@@ -92,3 +94,13 @@ Never plan a marketing campaign again. On the 1st of every month you get a new C
 Works with or without the other Unghosted products. Cancel anytime; you keep every pack you've received.
 
 **Welcome post (membership content):** "Welcome to Ghost Club! This month's pack is attached below. New packs arrive by email on the 1st of every month. Cancel anytime from your receipt."
+
+---
+
+## Partner License ($297), hidden from the storefront; linked from the partners page
+**Tagline:** Implement Unghosted for your clients.
+
+**Description:**
+For agencies, consultants and virtual assistants who set up follow-up systems for HVAC and plumbing shops. Includes everything in the Pro Bundle, licensed for use with up to 10 client businesses you actively serve. Adapt the templates and load them into your clients' tools under your brand. Not for resale or redistribution of the files. Full terms: unghostedhq.vercel.app/legal/affiliates.html
+
+**File:** `Unghosted-Partner-License.zip`

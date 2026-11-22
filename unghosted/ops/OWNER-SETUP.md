@@ -1,6 +1,6 @@
 # Owner Setup: Your Only Required Actions
 
-Everything that *can* be built without your identity, money or signature is already built. These are the steps that legally or practically need **you**: account ownership, identity verification, payouts and a purchase. Total time is about **2 hours**, once.
+Everything that *can* be built without your identity, money or signature is already built. These are the steps that legally or practically need **you**: account ownership, identity verification, payouts and a purchase. Total time is about **2 hours** of setup, plus the two launch gates (attorney review and end-to-end tests), once.
 
 When you finish a step, paste the link or ID it produces into a message to Claude (or into `site/config.js` yourself), and the rest is wired up for you.
 
@@ -38,6 +38,14 @@ When you finish a step, paste the link or ID it produces into a message to Claud
 8. **Marketing → Affiliates** → ON, **30%** commission, cookie 60 days.
 9. **Make a $0 test purchase of the free guide, and a real $27 purchase with a 100%-off test coupon** to confirm delivery works. (Create a temporary coupon `TEST100`, then delete it.)
 10. Send Claude the 6 product URLs + the affiliate sign-up URL. They go into `site/config.js`, and every "Opening soon" button becomes a live "Buy" button.
+
+### Also in Payhip
+- Create the hidden **Partner License** product ($297, `Unghosted-Partner-License.zip`, text in `ops/PAYHIP-LISTINGS.md`). Send Claude its link for the partners page.
+- For each approved partner: a single-use 100%-off coupon for the System (their review copy) and their affiliate sign-up link.
+
+## Step 2b — Launch gates (before any buy button goes live)
+1. **Attorney review** of *The Texting Rules*: send `ops/COMPLIANCE-REVIEW-PACKET.md` and the PDFs to a TCPA/advertising attorney for a flat-fee review.
+2. **End-to-end tests:** run every test in `ops/E2E-TEST-PLAN.md` (about 2 hours, mostly waiting for emails). Claude can walk through it with you.
 
 ## Step 3 — Email: MailerLite · 30 min · $0/month to start
 1. Sign up at **mailerlite.com** (free plan). Until you own a domain, send from your own email address; once you buy `unghostedhq.com`, verify it in MailerLite (it shows DNS records to paste into Cloudflare → DNS).

@@ -1,135 +1,77 @@
-# Unghosted Customer Acquisition Plan
+# Unghosted Customer Acquisition Plan (v2: partner-led, HVAC & plumbing first)
 
-**Goal:** get the first 100 paying customers without paid ads, using channels that keep working after the content is created.
+**Goal:** the first 25 paying HVAC and plumbing customers within ~60 days, through people who already have their trust, while slower channels build in the background.
 
-## Channel priority (ranked by expected return for *this* audience)
+## What changed from v1, and why
+- **SEO is no longer the lead channel.** It can take 6–12 months to produce meaningful traffic. It stays as a low-effort background channel (1 guide/month).
+- **Partners are the lead channel.** Consultants, contractor bookkeepers, agencies and VAs already reach our buyers.
+- **One market, one promise.** All marketing targets **HVAC and plumbing** owners with a single promise: **"Stop losing jobs because you didn't follow up."** The $27 Ghost-Proof Kit is the front door. The System, Pro and Ghost Club are upgrades. Other trades aren't marketed until HVAC/plumbing shows traction.
+- **Content isn't acquisition.** The monthly automation now produces *partner-ready* content and a researched prospect list, not just blog posts.
 
-Our buyer is a small home-service business owner (1–15 staff). They search Google when they have a problem, hang out in trade Facebook groups and on YouTube, and trust peers and their industry's coaches more than ads.
+## Channel priority
 
-| Rank | Channel | Why | Owner time | Status |
+| Rank | Channel | What's ready | Weekly time | First-60-day target |
 |---|---|---|---|---|
-| 1 | **SEO guides** (Google) | High purchase intent ("missed call text template"). Evergreen: keeps compounding. | 0 | 6 guides written; 24 more topics queued below |
-| 2 | **Affiliates & partners** | Trade coaches, CSR trainers and software consultants already have the audience. 30% commission costs nothing until a sale. | 0 (automated in Payhip) | Program designed; outreach emails written |
-| 3 | **Faceless short video** (YouTube Shorts, TikTok, FB Reels) | "Text this, not that" format is easy to make without a face and spreads in trade circles. | 0 if outsourced/AI-made; ~1 hr/week if self-posting | 12 scripts written |
-| 4 | **Communities** (trade Facebook groups, Reddit) | Where owners ask "how do I get more reviews?" Value-first answers convert. Must not be spam. | 15 min/week, optional | Answer bank written |
-| 5 | **Email list** | Converts free-guide downloaders into buyers. Fully automated. | 0 | Sequences written |
-| 6 | **Pinterest** | Lower fit (more homeowners than owners), but free, scheduled once and evergreen. Use for SEO-guide traffic only. | 0 | 12 pins generated |
+| 1 | **Partners:** HVAC/plumbing consultants, contractor bookkeepers, small-business agencies, VAs/CSR services | Partner page + application form (live), partner kit with 4 outreach scripts, Partner License, monthly Partner Drop, terms with FTC disclosure rules | ~2 hrs (VA or owner) | 60 contacts → 4–6 active partners |
+| 2 | **Direct founder-style outreach in trade communities** | Answer bank (value-first, no spam) for HVAC/plumbing owner groups and forums | 15–30 min | Helpful answers in 3–5 communities weekly |
+| 3 | **Email list** | Free HVAC & plumbing guide + 7-email nurture | 0 | Every partner and community touch points here |
+| 4 | **Short faceless video** | 12 scripts (HVAC/plumbing hooks first) | 0 if outsourced | Optional in months 1–2 |
+| 5 | **SEO (background)** | 6 guides live; 1 new HVAC/plumbing guide per month | 0 | Compounds from month 6+ |
+| 6 | Pinterest | 12 pins | 0 | Optional, lowest priority |
 
-**Not recommended yet:** paid ads (wait until the conversion rate is known), cold DMs (spammy, brand risk), marketplaces like Etsy (price race to the bottom).
+Paid ads: not before the end-to-end tests pass, the compliance review is done, and 25+ sales show a real conversion rate.
 
----
+## Funnel math (planning estimates)
+| Step | Assumption |
+|---|---|
+| Partner contacts → replies | 15–25% |
+| Replies → active partners | 40–50% |
+| Active partner → client sales in first 60 days | 2–8 each |
+| Partner-driven share of early sales | 50–70% (commission 30%) |
 
-## 1. SEO: the compounding engine
+**What has to be true for 25 sales in 60 days:** about 5 active partners averaging 4–5 sales each, plus a handful from communities and email. If partners stall, the dashboard will show it by week 4: fewer than 2 active partners means rewriting the outreach, not adding channels.
 
+## 1. Partners
+See `marketing/partners/PARTNER-KIT.md`: who, where to find them, outreach scripts, onboarding, tracking. Monthly Partner Drops live in `marketing/partners/drops/`.
+
+## 2. Trade communities (value first)
+- **Where:** HVAC and plumbing *business-owner* groups on Facebook, r/HVAC and r/Plumbing business threads, r/sweatystartup, trade association member forums.
+- **Rules:** read each group's rules, answer fully in the post, link only where allowed and only to free resources, never post the same text twice, never use fake accounts or invent results. Answer bank: `marketing/community/answer-bank.md`.
+
+## 3. Email
+The free guide (*5 Texts That Win Back Missed Calls: HVAC & Plumbing edition*) feeds the nurture sequence (`marketing/emails/email-sequences.md`). Partners and community answers point there.
+
+## 4. Short video
+Scripts in `marketing/video/short-video-scripts.md`. Lead with HVAC and plumbing hooks (no-heat missed call, the $9k quote that went quiet, water heater speed reply).
+
+## 5. SEO (background, 1 guide/month)
 **Live guides (6):** missed-call text back · quote follow-up · Google reviews · rebooking reminders · maintenance plan pricing · referral programs.
 
-**Publishing rule:** 2 new guides per month. Each targets one search phrase, gives the real answer for free, and links to the free guide plus one product.
-
-**Next 24 topics (in order):**
+**Next 24 topics (in order; HVAC & plumbing first):**
 1. HVAC tune-up reminder text templates
 2. Plumbing estimate follow-up email
-3. House cleaning rebooking text templates
-4. Lawn care spring cleanup reminder email
-5. How to respond to a negative Google review (contractor)
-6. Appointment reminder text templates for home services
-7. How to handle "your price is too high" (contractor scripts)
-8. Cancellation text templates for service businesses
-9. Pest control quarterly service reminder template
-10. Text message consent for contractors (plain English)
-11. Google Business Profile checklist for contractors
-12. How to get a Google review link
-13. Jobber follow-up templates (how to load them)
-14. Housecall Pro review request templates
-15. After-hours answering: voicemail scripts for plumbers
-16. How to price house cleaning recurring plans
-17. Referral card templates for contractors
-18. Window cleaning reminder texts
-19. Slow season marketing ideas for HVAC
-20. Holiday marketing ideas for cleaning businesses
-21. How to win back old customers (service business)
-22. Thank-you text after service templates
-23. Estimate vs quote follow-up: what to say
-24. Electrician marketing: EV charger campaign templates
+3. How to follow up on an HVAC replacement quote
+4. Water heater replacement follow-up texts
+5. Text message consent for HVAC and plumbing companies (plain English)
+6. After-hours voicemail scripts for plumbers
+7. How to handle "your price is too high" (HVAC & plumbing scripts)
+8. Appointment reminder text templates for HVAC and plumbing
+9. Repair vs. replace: how to present both options to homeowners
+10. HVAC maintenance agreement pricing
+11. Slow season marketing ideas for HVAC
+12. How to respond to a negative Google review (HVAC/plumbing)
+13. Google Business Profile checklist for HVAC and plumbing
+14. How to get a Google review link
+15. Cancellation text templates for service businesses
+16. Jobber follow-up templates (how to load them)
+17. Housecall Pro review request templates
+18. ServiceTitan follow-up: what to automate
+19. Sewer line and repipe quote follow-up
+20. How to win back old customers (HVAC & plumbing)
+21. Thank-you text after service templates
+22. Estimate vs. quote follow-up: what to say
+23. Referral card templates for contractors
+24. CSR phone scripts for HVAC and plumbing
 
-**How new guides get written without the owner:** the monthly scheduled Claude task (see `ops/AUTOMATION.md`) drafts the next two guides, builds them into the site and commits them for review.
-
-**Submit once:** Google Search Console + Bing Webmaster Tools → add `sitemap.xml` (owner step, 5 minutes).
-
----
-
-## 2. Affiliates & partners
-
-**Program:** Payhip built-in affiliate program. **30% commission** on all products, 60-day cookie. Affiliates sign up from the footer link. Payhip tracks sales; payouts are monthly by PayPal (Payhip's affiliate payouts are handled by the seller, so this is a 10-minute monthly task, listed in the maintenance schedule).
-
-**Who to recruit (in order):**
-1. **Trade business coaches & consultants** (HVAC/plumbing/cleaning coaching programs, "sweaty startup" style creators)
-2. **CSR / call-handling trainers**
-3. **Field-service software consultants** (people who set up Jobber/Housecall Pro for clients)
-4. **Trade bloggers & YouTubers** with how-to-run-your-business content
-5. **Bookkeepers who specialize in trades**
-6. **Trade associations' local chapters** (offer a member discount code instead of commission)
-
-**Outreach email (send from the support inbox; personalize line 1):**
-
-Subject: A resource for your {trade} audience (30% affiliate)
-> Hi {Name},
->
-> {One genuine sentence about their content.}
->
-> I run Unghosted, plain-English text and email templates that help small home-service businesses win back missed calls, follow up on quotes and rebook past customers. It's a practical fit for the owners you work with.
->
-> If you'd like to share it, our affiliate program pays **30% on every sale** (products are $27–$127, plus a $19/mo club). Happy to send you the full System free so you can see whether it's worth recommending first.
->
-> {Affiliate link}
->
-> Either way, thanks for what you put out there.
-
-**Follow-up (7 days later, once):** "Just bumping this in case it got buried. Happy to send the System over for a look, no strings."
-
-**Target:** 40 outreach emails in month 1 → expect roughly 4–8 replies and 2–4 active affiliates. A list-building template is in `marketing/partners/partner-prospects.csv`.
-
-*Owner time: optional. These can be sent by a virtual assistant, or by Claude through a connected email account if you approve that.*
-
----
-
-## 3. Faceless short video
-
-Format: screen-recorded text messages + captions + voiceover (AI voice or text-to-speech is fine). 20–40 seconds. Same video posted to YouTube Shorts, TikTok, Instagram Reels and Facebook Reels.
-
-Scripts: `marketing/video/short-video-scripts.md` (12 ready). Post 3/week. Batch-produce 12 at a time with a free editor (CapCut or Canva). Every video ends with "Free templates: link in bio" → the free guide.
-
----
-
-## 4. Communities (value first, never spam)
-
-**Where:** trade-owner Facebook groups (search "HVAC business owners," "cleaning business owners," "lawn care business owners"), r/sweatystartup, r/smallbusiness, trade-specific subreddits' business threads.
-
-**Rules we follow:**
-- Read each group's rules first. Many ban self-promotion, so respect that.
-- Answer the question fully *in the post*. Link only if the group allows it and it genuinely helps (and to a free guide, not a sales page).
-- Never post the same text twice. Never use fake accounts. Never invent results.
-
-Answer bank: `marketing/community/answer-bank.md`.
-
----
-
-## 5. Email list
-
-Every guide, video and community answer points to **one** free offer: *5 Texts That Win Back Missed Calls.* The nurture sequence (7 emails, 14 days) converts it into sales. Then a weekly newsletter keeps the list warm. See `marketing/emails/email-sequences.md`.
-
-## 6. Pinterest (low priority, zero maintenance)
-
-12 pin images in `marketing/pinterest/`. Upload once with Pinterest's built-in scheduler (2/week over 6 weeks), each linking to a guide. Don't spend more time on it unless analytics show Pinterest referrals.
-
----
-
-## Funnel math (what has to be true)
-
-| Step | Assumption (starting estimate) |
-|---|---|
-| Visitors → free-guide signup | 4–8% |
-| Visitors → direct purchase | 0.5–1.5% |
-| Free-guide subscribers → purchase within 30 days | 3–6% |
-| Average order value | ~$65 (after upsells) |
-
-**To reach 100 sales/month** you need roughly 4,000–8,000 visitors/month. That's realistic from SEO by about months 6–12 and affiliates sooner. Months 1–3 will be slower. **These are estimates to test, not promises.** The scorecard in `ops/Owner-Dashboard.xlsx` replaces them with real numbers.
+## Measurement (weekly, from the dashboard)
+Partner contacts sent · replies · active partners · partner-attributed sales · free-guide signups · Kit sales · Kit → System upgrades. **Decision rule:** fix the weakest step before adding a channel.

@@ -21,7 +21,9 @@ Give the *new* customer something too, like $25 off their first job. Two-sided r
 
 *Referral rewards are fine. Rewards for **reviews** are not. Keep the two separate.*
 
-## The referral text
+## The referral message
+
+A referral ask promotes your business, so send it by email, by card or in person, and by text only to customers who gave written consent to marketing texts.
 
 > Thank you so much for the kind words, {First}. It made our week! If you know a neighbor, friend or family member who needs {trade}, we'd love to help them too. Anyone you send our way gets {offer}, and you get {reward} when they book. Just have them mention your name.
 

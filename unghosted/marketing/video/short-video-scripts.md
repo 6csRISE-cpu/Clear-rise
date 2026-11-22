@@ -29,9 +29,9 @@
 - **VO:** "Past customers trust you. They just forget. Send them a reminder when the job's due."
 
 ### 5. "One sentence = more Google reviews"
-- **Hook:** "How plumbers get 5 reviews a week."
-- **Body:** caption of the in-person ask → text with review link.
-- **VO:** "Ask out loud at the end of the job, then text the link. Never offer a discount for reviews. Google doesn't allow it."
+- **Hook:** "The honest way plumbers get more Google reviews."
+- **Body:** caption of the in-person ask ("Would you mind leaving us an honest Google review?") → text with review link.
+- **VO:** "Ask every customer, same words, then text the link. Never offer anything for a review, and never ask only the happy ones. Google doesn't allow either."
 
 ### 6. "Voicemail greeting fix"
 - **Hook:** "Your voicemail greeting is losing you jobs."

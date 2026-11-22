@@ -1,0 +1,1247 @@
+{
+ "ran": "2026-11-22T23:34:18.871Z",
+ "total": 248,
+ "failed": 0,
+ "results": [
+  {
+   "name": "guides/customer-rebooking-reminders.html: no JS errors",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/customer-rebooking-reminders.html: no horizontal scroll at 390px",
+   "pass": true,
+   "detail": "scrollWidth=390"
+  },
+  {
+   "name": "guides/customer-rebooking-reminders.html: link ../index.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/customer-rebooking-reminders.html: link ../guides/",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/customer-rebooking-reminders.html: link ../partners.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/customer-rebooking-reminders.html: link ../support.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/customer-rebooking-reminders.html: link ../index.html#pricing",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/customer-rebooking-reminders.html: link ./",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/customer-rebooking-reminders.html: link ../index.html#pricing",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/customer-rebooking-reminders.html: link maintenance-plan-pricing.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/customer-rebooking-reminders.html: link ../index.html#pricing",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/customer-rebooking-reminders.html: link ../index.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/customer-rebooking-reminders.html: link ../support.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/customer-rebooking-reminders.html: link ../legal/refunds.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/customer-rebooking-reminders.html: link ../legal/terms.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/customer-rebooking-reminders.html: link ../legal/privacy.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/customer-rebooking-reminders.html: link ../legal/affiliates.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/customer-rebooking-reminders.html: has title",
+   "pass": true,
+   "detail": "Rebooking Reminders by Trade: When to Contact Past Customers (With Templates) | Unghosted"
+  },
+  {
+   "name": "guides/customer-rebooking-reminders.html: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/get-more-google-reviews-home-service.html: no JS errors",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/get-more-google-reviews-home-service.html: no horizontal scroll at 390px",
+   "pass": true,
+   "detail": "scrollWidth=390"
+  },
+  {
+   "name": "guides/get-more-google-reviews-home-service.html: link ../index.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/get-more-google-reviews-home-service.html: link ../guides/",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/get-more-google-reviews-home-service.html: link ../partners.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/get-more-google-reviews-home-service.html: link ../support.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/get-more-google-reviews-home-service.html: link ../index.html#pricing",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/get-more-google-reviews-home-service.html: link ./",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/get-more-google-reviews-home-service.html: link ../index.html#pricing",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/get-more-google-reviews-home-service.html: link ../index.html#pricing",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/get-more-google-reviews-home-service.html: link ../index.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/get-more-google-reviews-home-service.html: link ../support.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/get-more-google-reviews-home-service.html: link ../legal/refunds.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/get-more-google-reviews-home-service.html: link ../legal/terms.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/get-more-google-reviews-home-service.html: link ../legal/privacy.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/get-more-google-reviews-home-service.html: link ../legal/affiliates.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/get-more-google-reviews-home-service.html: has title",
+   "pass": true,
+   "detail": "How to Get More Google Reviews for a Home Service Business (Without Breaking the Rules) | Unghosted"
+  },
+  {
+   "name": "guides/get-more-google-reviews-home-service.html: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/index.html: no JS errors",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/index.html: no horizontal scroll at 390px",
+   "pass": true,
+   "detail": "scrollWidth=390"
+  },
+  {
+   "name": "guides/index.html: link ../index.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/index.html: link ../guides/",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/index.html: link ../partners.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/index.html: link ../support.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/index.html: link ../index.html#pricing",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/index.html: link customer-rebooking-reminders.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/index.html: link get-more-google-reviews-home-service.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/index.html: link maintenance-plan-pricing.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/index.html: link missed-call-text-back-templates.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/index.html: link quote-follow-up-templates.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/index.html: link referral-program-for-contractors.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/index.html: link ../index.html#pricing",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/index.html: link ../index.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/index.html: link ../support.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/index.html: link ../legal/refunds.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/index.html: link ../legal/terms.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/index.html: link ../legal/privacy.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/index.html: link ../legal/affiliates.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/index.html: has title",
+   "pass": true,
+   "detail": "Free Guides for Home Service Business Owners | Unghosted"
+  },
+  {
+   "name": "guides/index.html: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/maintenance-plan-pricing.html: no JS errors",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/maintenance-plan-pricing.html: no horizontal scroll at 390px",
+   "pass": true,
+   "detail": "scrollWidth=390"
+  },
+  {
+   "name": "guides/maintenance-plan-pricing.html: link ../index.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/maintenance-plan-pricing.html: link ../guides/",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/maintenance-plan-pricing.html: link ../partners.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/maintenance-plan-pricing.html: link ../support.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/maintenance-plan-pricing.html: link ../index.html#pricing",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/maintenance-plan-pricing.html: link ./",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/maintenance-plan-pricing.html: link ../index.html#pricing",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/maintenance-plan-pricing.html: link ../#inside",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/maintenance-plan-pricing.html: link ../index.html#pricing",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/maintenance-plan-pricing.html: link ../index.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/maintenance-plan-pricing.html: link ../support.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/maintenance-plan-pricing.html: link ../legal/refunds.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/maintenance-plan-pricing.html: link ../legal/terms.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/maintenance-plan-pricing.html: link ../legal/privacy.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/maintenance-plan-pricing.html: link ../legal/affiliates.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/maintenance-plan-pricing.html: has title",
+   "pass": true,
+   "detail": "How to Price a Maintenance Plan for a Small Home Service Business | Unghosted"
+  },
+  {
+   "name": "guides/maintenance-plan-pricing.html: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/missed-call-text-back-templates.html: no JS errors",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/missed-call-text-back-templates.html: no horizontal scroll at 390px",
+   "pass": true,
+   "detail": "scrollWidth=390"
+  },
+  {
+   "name": "guides/missed-call-text-back-templates.html: link ../index.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/missed-call-text-back-templates.html: link ../guides/",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/missed-call-text-back-templates.html: link ../partners.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/missed-call-text-back-templates.html: link ../support.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/missed-call-text-back-templates.html: link ../index.html#pricing",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/missed-call-text-back-templates.html: link ./",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/missed-call-text-back-templates.html: link ../index.html#pricing",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/missed-call-text-back-templates.html: link quote-follow-up-templates.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/missed-call-text-back-templates.html: link ../index.html#pricing",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/missed-call-text-back-templates.html: link ../index.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/missed-call-text-back-templates.html: link ../support.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/missed-call-text-back-templates.html: link ../legal/refunds.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/missed-call-text-back-templates.html: link ../legal/terms.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/missed-call-text-back-templates.html: link ../legal/privacy.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/missed-call-text-back-templates.html: link ../legal/affiliates.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/missed-call-text-back-templates.html: has title",
+   "pass": true,
+   "detail": "Missed Call Text Back Templates for Home Service Businesses (Copy & Paste) | Unghosted"
+  },
+  {
+   "name": "guides/missed-call-text-back-templates.html: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/quote-follow-up-templates.html: no JS errors",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/quote-follow-up-templates.html: no horizontal scroll at 390px",
+   "pass": true,
+   "detail": "scrollWidth=390"
+  },
+  {
+   "name": "guides/quote-follow-up-templates.html: link ../index.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/quote-follow-up-templates.html: link ../guides/",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/quote-follow-up-templates.html: link ../partners.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/quote-follow-up-templates.html: link ../support.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/quote-follow-up-templates.html: link ../index.html#pricing",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/quote-follow-up-templates.html: link ./",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/quote-follow-up-templates.html: link ../index.html#pricing",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/quote-follow-up-templates.html: link customer-rebooking-reminders.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/quote-follow-up-templates.html: link ../index.html#pricing",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/quote-follow-up-templates.html: link ../index.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/quote-follow-up-templates.html: link ../support.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/quote-follow-up-templates.html: link ../legal/refunds.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/quote-follow-up-templates.html: link ../legal/terms.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/quote-follow-up-templates.html: link ../legal/privacy.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/quote-follow-up-templates.html: link ../legal/affiliates.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/quote-follow-up-templates.html: has title",
+   "pass": true,
+   "detail": "How to Follow Up on a Quote Without Being Pushy (5 Templates for Contractors) | Unghosted"
+  },
+  {
+   "name": "guides/quote-follow-up-templates.html: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/referral-program-for-contractors.html: no JS errors",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/referral-program-for-contractors.html: no horizontal scroll at 390px",
+   "pass": true,
+   "detail": "scrollWidth=390"
+  },
+  {
+   "name": "guides/referral-program-for-contractors.html: link ../index.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/referral-program-for-contractors.html: link ../guides/",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/referral-program-for-contractors.html: link ../partners.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/referral-program-for-contractors.html: link ../support.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/referral-program-for-contractors.html: link ../index.html#pricing",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/referral-program-for-contractors.html: link ./",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/referral-program-for-contractors.html: link ../index.html#pricing",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/referral-program-for-contractors.html: link ../#inside",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/referral-program-for-contractors.html: link ../index.html#pricing",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/referral-program-for-contractors.html: link ../index.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/referral-program-for-contractors.html: link ../support.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/referral-program-for-contractors.html: link ../legal/refunds.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/referral-program-for-contractors.html: link ../legal/terms.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/referral-program-for-contractors.html: link ../legal/privacy.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/referral-program-for-contractors.html: link ../legal/affiliates.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/referral-program-for-contractors.html: has title",
+   "pass": true,
+   "detail": "A Simple Referral Program for Contractors and Home Service Businesses | Unghosted"
+  },
+  {
+   "name": "guides/referral-program-for-contractors.html: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "index.html: no JS errors",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "index.html: no horizontal scroll at 390px",
+   "pass": true,
+   "detail": "scrollWidth=390"
+  },
+  {
+   "name": "index.html: link partners.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "index.html: link legal/refunds.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "index.html: link guides/",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "index.html: link partners.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "index.html: link support.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "index.html: link legal/refunds.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "index.html: link legal/terms.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "index.html: link legal/privacy.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "index.html: link legal/affiliates.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "index.html: has title",
+   "pass": true,
+   "detail": "Unghosted: Follow-Up Texts & Scripts for HVAC & Plumbing | Stop Losing Jobs"
+  },
+  {
+   "name": "index.html: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/affiliates.html: no JS errors",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/affiliates.html: no horizontal scroll at 390px",
+   "pass": true,
+   "detail": "scrollWidth=390"
+  },
+  {
+   "name": "legal/affiliates.html: link ../index.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/affiliates.html: link ../guides/",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/affiliates.html: link ../partners.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/affiliates.html: link ../support.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/affiliates.html: link ../index.html#pricing",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/affiliates.html: link ../index.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/affiliates.html: link ../support.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/affiliates.html: link ../legal/refunds.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/affiliates.html: link ../legal/terms.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/affiliates.html: link ../legal/privacy.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/affiliates.html: link ../legal/affiliates.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/affiliates.html: has title",
+   "pass": true,
+   "detail": "Partner & Affiliate Terms | Unghosted"
+  },
+  {
+   "name": "legal/affiliates.html: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/privacy.html: no JS errors",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/privacy.html: no horizontal scroll at 390px",
+   "pass": true,
+   "detail": "scrollWidth=390"
+  },
+  {
+   "name": "legal/privacy.html: link ../index.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/privacy.html: link ../guides/",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/privacy.html: link ../partners.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/privacy.html: link ../support.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/privacy.html: link ../index.html#pricing",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/privacy.html: link ../index.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/privacy.html: link ../support.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/privacy.html: link ../legal/refunds.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/privacy.html: link ../legal/terms.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/privacy.html: link ../legal/privacy.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/privacy.html: link ../legal/affiliates.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/privacy.html: has title",
+   "pass": true,
+   "detail": "Privacy Policy | Unghosted"
+  },
+  {
+   "name": "legal/privacy.html: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/refunds.html: no JS errors",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/refunds.html: no horizontal scroll at 390px",
+   "pass": true,
+   "detail": "scrollWidth=390"
+  },
+  {
+   "name": "legal/refunds.html: link ../index.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/refunds.html: link ../guides/",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/refunds.html: link ../partners.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/refunds.html: link ../support.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/refunds.html: link ../index.html#pricing",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/refunds.html: link ../index.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/refunds.html: link ../support.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/refunds.html: link ../legal/refunds.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/refunds.html: link ../legal/terms.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/refunds.html: link ../legal/privacy.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/refunds.html: link ../legal/affiliates.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/refunds.html: has title",
+   "pass": true,
+   "detail": "Refund Policy | Unghosted"
+  },
+  {
+   "name": "legal/refunds.html: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/terms.html: no JS errors",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/terms.html: no horizontal scroll at 390px",
+   "pass": true,
+   "detail": "scrollWidth=390"
+  },
+  {
+   "name": "legal/terms.html: link ../index.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/terms.html: link ../guides/",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/terms.html: link ../partners.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/terms.html: link ../support.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/terms.html: link ../index.html#pricing",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/terms.html: link affiliates.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/terms.html: link refunds.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/terms.html: link ../index.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/terms.html: link ../support.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/terms.html: link ../legal/refunds.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/terms.html: link ../legal/terms.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/terms.html: link ../legal/privacy.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/terms.html: link ../legal/affiliates.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/terms.html: has title",
+   "pass": true,
+   "detail": "Terms of Sale & Use | Unghosted"
+  },
+  {
+   "name": "legal/terms.html: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "partners.html: no JS errors",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "partners.html: no horizontal scroll at 390px",
+   "pass": true,
+   "detail": "scrollWidth=390"
+  },
+  {
+   "name": "partners.html: link index.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "partners.html: link guides/",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "partners.html: link partners.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "partners.html: link support.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "partners.html: link index.html#pricing",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "partners.html: link legal/affiliates.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "partners.html: link index.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "partners.html: link support.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "partners.html: link legal/refunds.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "partners.html: link legal/terms.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "partners.html: link legal/privacy.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "partners.html: link legal/affiliates.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "partners.html: has title",
+   "pass": true,
+   "detail": "Partner With Unghosted | Unghosted"
+  },
+  {
+   "name": "partners.html: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "support.html: no JS errors",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "support.html: no horizontal scroll at 390px",
+   "pass": true,
+   "detail": "scrollWidth=390"
+  },
+  {
+   "name": "support.html: link index.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "support.html: link guides/",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "support.html: link partners.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "support.html: link support.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "support.html: link index.html#pricing",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "support.html: link legal/refunds.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "support.html: link index.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "support.html: link support.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "support.html: link legal/refunds.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "support.html: link legal/terms.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "support.html: link legal/privacy.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "support.html: link legal/affiliates.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "support.html: has title",
+   "pass": true,
+   "detail": "Support & FAQ | Unghosted"
+  },
+  {
+   "name": "support.html: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "buy buttons disabled while links are empty",
+   "pass": true,
+   "detail": "[{\"l\":\"free\",\"href\":null,\"dis\":\"true\"},{\"l\":\"starter\",\"href\":null,\"dis\":\"true\"},{\"l\":\"system\",\"href\":null,\"dis\":\"true\"},{\"l\":\"pro\",\"href\":null,\"dis\":\"true\"},{\"l\":\"club\",\"href\":null,\"dis\":\"true\"},{\"l\":\"free\",\"href\":null,\"dis\":\"true\"}]"
+  },
+  {
+   "name": "calculator: revenue at risk",
+   "pass": true,
+   "detail": "$4,676 vs $4676"
+  },
+  {
+   "name": "calculator: quote follow-up recovery",
+   "pass": true,
+   "detail": "$2,625"
+  },
+  {
+   "name": "buy buttons wire to Payhip links once configured",
+   "pass": true,
+   "detail": "[{\"l\":\"free\",\"href\":\"https://payhip.com/b/TEST-free\"},{\"l\":\"starter\",\"href\":\"https://payhip.com/b/TEST-starter\"},{\"l\":\"system\",\"href\":\"https://payhip.com/b/TEST-system\"},{\"l\":\"pro\",\"href\":\"https://payhip.com/b/TEST-pro\"},{\"l\":\"club\",\"href\":\"https://payhip.com/b/TEST-club\"},{\"l\":\"free\",\"href\":\"https://payhip.com/b/TEST-free\"}]"
+  },
+  {
+   "name": "support page: contact links go to the live support form",
+   "pass": true,
+   "detail": "[\"https://tally.so/r/db9DvD\"]"
+  },
+  {
+   "name": "partners page: apply button goes to the live partner form",
+   "pass": true,
+   "detail": ""
+  }
+ ]
+}

@@ -6,7 +6,7 @@ product: Ghost-Proof Kit
 
 # Start here (15 minutes)
 
-You don't need more leads before you've followed up on the ones you already have. A good share of the calls a home-service business gets go unanswered. Industry call-tracking studies put it somewhere between 1 in 7 and 1 in 4. And most homeowners who get a quote and don't hear back simply hire whoever followed up first.
+You don't need more leads before you've followed up on the ones you already have. A good share of the calls an HVAC or plumbing shop gets go unanswered, usually because you're on a roof, in a crawlspace or under a sink. Industry call-tracking studies put it somewhere between 1 in 7 and 1 in 4. And most homeowners who get a quote and don't hear back simply hire whoever followed up first.
 
 This kit fixes two leaks:
 
@@ -18,7 +18,7 @@ This kit fixes two leaks:
 | Step | What to do | Time |
 |---|---|---|
 | 1 | Fill in the five blanks in the *Fill-Ins* box below once. Every template uses them. | 3 min |
-| 2 | Paste **Missed-Call Text #1** into your phone's auto-reply, your answering app or your field-service software's missed-call text-back setting. | 5 min |
+| 2 | Read **The Texting Rules** (10 min, once). Then paste **Missed-Call Text #1** into your phone's auto-reply, your answering app or your field-service software's missed-call text-back setting. | 5 min |
 | 3 | Put the **Quote Follow-Up Sequence** on your calendar or in your software as reminders: Day 1, 3, 7, 14, 21. | 5 min |
 | 4 | Print the *Follow-Up Tracker* page and stick it by the desk, or use the spreadsheet. | 2 min |
 
@@ -35,7 +35,7 @@ This kit fixes two leaks:
 
 Send within **5 minutes** of the missed call, faster if you can. Speed matters more than wording. Most field-service apps (Jobber, Housecall Pro, ServiceTitan, Workiz and others) and most business phone apps (Google Voice, OpenPhone/Quo, RingCentral, Grasshopper) have an automatic missed-call text setting. If yours doesn't, set your phone's "busy" auto-reply and send by hand.
 
-> **Before you automate:** replying to someone who *just called you* about their own request is generally treated as a conversational, customer-initiated message. Marketing texts are different and need written consent. See *Part 4: Texting the Right Way*.
+**Message type → 1 · Reply** (they contacted you; stay on their request, max 3 touches, no offers). See *The Texting Rules*.
 
 ### Text #1 — Standard (business hours) ★ start with this one
 > Hi, this is {You} with {Business}. Sorry I missed your call, I'm on a job right now. What can I help you with? Reply here and I'll get back to you within the hour.
@@ -60,7 +60,7 @@ Send within **5 minutes** of the missed call, faster if you can. Speed matters m
 ### Text #7 — Final touch (next day, no reply)
 > No worries if you found someone, {First}! If you still need {Trade}, we're here. Just reply to this text. — {You}, {Business}
 
-That's the last one. Three touches, then stop. More than that starts to feel pushy.
+That's the last one. Three touches, then stop. More than that starts to feel pushy, and the conversation is over unless they reply.
 
 ### Voicemail greeting (record this — 20 seconds)
 > "You've reached {Business}, this is {You}. I'm probably on a job. You'll get a text from this number in the next few minutes. Just reply to it with what you need, it's the fastest way to reach me. If it's an emergency, say 'emergency' in your message and I'll call right back."
@@ -80,6 +80,8 @@ Then: "Perfect. I can do {day} between {time window}. Want me to lock that in?"
 # Part 2 — The Quote Follow-Up Sequence
 
 Most quotes aren't lost to a cheaper competitor. They're lost to **silence**. The homeowner got busy, forgot, or felt awkward asking a question. This 5-touch sequence over 21 days is polite, useful and easy to run.
+
+**Message type → 2 · Service** (ask "Okay if I text you to follow up on this quote?" when you give it, and note the answer. If they say no, use email for the follow-ups.)
 
 **Rules that make it work**
 - Every touch gives them something: an answer, an option, a reason. Never just "checking in."
@@ -143,7 +145,66 @@ Big jobs take longer to decide on. Add these two touches and stretch the schedul
 
 ---
 
-# Part 3 — Phone Scripts
+# Part 3 — The HVAC & Plumbing Playbook
+
+The templates above work as written. This part tunes them to the jobs and hesitations that HVAC and plumbing shops see every week.
+
+## Missed calls: emergency versions
+
+**Message type → 1 · Reply**
+
+**HVAC: no heat / no cool**
+> Hi, {You} with {Business}. Sorry I missed you, I'm on a call. Is your system not heating or cooling right now? Reply with what's happening and your zip and I'll get back to you fast. No heat or AC with kids or seniors at home? Reply URGENT.
+
+**Plumbing: active leak**
+> This is {You} at {Business}, sorry I missed your call! If water is leaking right now, turn off the main shutoff (usually near the water heater or where the line enters the house) and reply URGENT. Otherwise reply with what's going on and I'll get back to you shortly.
+
+*Safety first: for a gas smell, the message should always say "leave the house and call your gas company" before anything else.*
+
+## The four quotes that go quiet most often
+
+**Message type → 2 · Service** (follow-ups on a quote they requested; get their OK to text when you quote)
+
+| Quote | Why it stalls | The follow-up angle that works |
+|---|---|---|
+| **AC / furnace replacement** ($5k–$15k+) | Sticker shock, comparing 2–3 bids, spouse decision | Explain what the price includes, offer a repair-vs-replace comparison, mention financing at Day 10 |
+| **Water heater replacement** | They're living with cold showers and decide fast, so the first reply wins | Speed: same-day text, specific install times |
+| **Repipe / sewer line / slab leak** | Big, scary, unexpected | A plain explanation of the problem, and a phased option |
+| **Repair the tech recommended but the customer postponed** | "We'll wait and see" | A no-pressure check-in before the season it's likely to fail |
+
+### Replacement quote: what's included (Day 3 email insert, Type 2 · Service)
+> "The price covers the equipment, the install to code, permits and inspection, haul-away of the old unit, and the {X}-year labor warranty, so there are no surprise bills later. If you'd like, I can also send a side-by-side of repairing your current system versus replacing it."
+
+### Repair vs. replace (Day 7 text, Type 2 · Service)
+> Hi {First}, {You} again. Some folks find it easier to decide with the numbers side by side: repairing your current {system} is about ${repair} and should buy you {estimate}; replacing is ${replace} with a {X}-year warranty. Want me to send that comparison?
+
+### Financing (Day 10 email, big tickets, Type 2 · Service)
+> Many customers prefer to spread the cost of a new {system}. We offer {financing partner / payment options}: {one-line terms, accurate and complete}. Want me to send the details for your quote?
+
+*Financing details must be accurate and complete. Only mention terms you actually offer, and follow your lender's advertising rules.*
+
+### Water heater: speed reply (Type 2 · Service)
+> Hi {First}, {You} from {Business}. I can install your new water heater {today after 3 / tomorrow morning}. Want me to lock in one of those times?
+
+### Sewer / repipe: plain-English explainer (Type 2 · Service)
+> Hi {First}, quick recap of what we found: {one-sentence problem in plain words}. The full fix is ${full}. If it's easier, we can do it in two phases: {phase 1} now for ${p1}, and {phase 2} later. Happy to walk you through it on the phone.
+
+## Honest replies to the objections you hear most
+
+| They say | You reply |
+|---|---|
+| "It's still working, why tune it up?" | "Totally fair. Most tune-ups are about catching a $20 part before it takes out a $1,500 one. If it checks out fine, you've got peace of mind for the season." |
+| "Another company quoted less." | "Could you check whether theirs includes the permit, haul-away and labor warranty? If it's apples to apples, I'll tell you honestly whether I can match it." |
+| "Can't you just patch it?" | "I can, and I'll quote both. The patch is ${x} and usually buys {time}; the fix is ${y} and is guaranteed. Your call." |
+| "I need to think about it." | "Of course, it's a big decision. Want me to send the repair-vs-replace numbers so you can compare them side by side?" |
+| "That's a lot for an hour." | "I get it. You're paying for the truck being stocked with the right parts, the license and the guarantee as well as the hour. If it's not fixed, you don't pay twice." |
+
+## Timing that's honest *and* effective
+- **HVAC:** replacement quotes made in shoulder seasons (spring, fall) can wait; summer and winter breakdowns can't. Match urgency to the season, and never invent it.
+- **Plumbing:** most plumbing quotes are decided within days. Front-load your follow-up (Day 0, 1, 3), then slow down.
+- **Both:** "the schedule is filling" only when it truly is.
+
+# Part 4 — Phone Scripts
 
 ### Calling back a missed caller
 > "Hi, is this {First}? This is {You} from {Business}. You called us a little while ago and I'm sorry I missed you. I was on a job. What's going on?"
@@ -161,24 +222,23 @@ Then use the 3-question qualifier from Part 1.
 
 ---
 
-# Part 4 — Texting the Right Way (Read This Once)
+# Part 5 — Texting the Right Way
 
-*This is practical guidance, not legal advice. Rules vary by country and state, so check with your phone provider or an advisor if you're unsure.*
+Every template in this kit is labeled with a **message type**. The full rules are in the included guide, **The Texting Rules**. Read it once before you turn anything on. The short version:
 
-**In the U.S., the simple version:**
-1. **Replying to someone who contacted you** (a missed call, a quote request, a scheduled job) is conversational. Keep it about *their* request.
-2. **Promotional texts** (seasonal offers, discounts, "we have openings") need the customer's **prior written consent**. A checkbox on your booking form or a line on your invoice/estimate is the usual way. Sample consent wording:
-   > ☐ Yes, {Business} may text me appointment reminders, follow-ups and occasional offers. Msg & data rates may apply. Reply STOP to opt out at any time.
-3. **Always honor STOP** immediately, and keep a note of who opted out.
-4. **Business texting apps** in the U.S. require "10DLC" registration of your business number. Your texting provider walks you through it. It's a one-time form.
-5. **Quiet hours:** don't send promotional texts before 8 a.m. or after 9 p.m. in the customer's time zone. Some states are stricter.
-6. **Emails** need your business address and an unsubscribe option if they're promotional. Most email tools add these automatically.
+| Template | Type | Permission you need |
+|---|---|---|
+| Missed-call texts #1–#7 | **1 · Reply** | They called you. Stay on topic, max 3 touches |
+| Quote follow-up, touches 1–5 (within ~3 weeks) | **2 · Service** | Their OK to text about the quote. Ask when you quote, note it |
+| Reviving a quote months later | **3 · Marketing** | Written consent first, or use email |
+| Phone scripts | Live calls | A real person dialing by hand. Respect quiet hours and do-not-call requests |
 
-Following these rules isn't just about avoiding fines. It keeps your number off spam lists, so your texts actually get delivered.
+**Three rules that cover most situations:**
+1. No offers inside Type 1 or Type 2 messages.
+2. Texts only between 8 a.m. and 8 p.m. in the customer's time zone (except an immediate reply to an emergency).
+3. Any request to stop means stop, right away, everywhere.
 
----
-
-# Part 5 — Follow-Up Tracker
+# Part 6 — Follow-Up Tracker
 
 Print this or use the included spreadsheet (`Unghosted-Follow-Up-Tracker.xlsx`).
 
@@ -199,6 +259,6 @@ Print this or use the included spreadsheet (`Unghosted-Follow-Up-Tracker.xlsx`).
 
 # What's next
 
-This kit wins back *new* jobs. The full **Unghosted System** adds the money that's already sitting in your customer list: rebooking past customers, saving cancellations, getting reviews on autopilot and turning happy customers into referrals. If you upgrade within 30 days, the $27 you paid here comes off the price. The link is in your purchase email.
+This kit fixes follow-up on *new* jobs. The full **Unghosted System** adds the money that's already sitting in your customer list: rebooking past customers, saving cancellations, getting reviews on autopilot and turning happy customers into referrals. If you upgrade within 30 days, the $27 you paid here comes off the price. The link is in your purchase email.
 
 Questions? Reply to your purchase email. A real person reads every message and replies within 2 business days.

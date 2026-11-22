@@ -17,13 +17,13 @@ Search for your business on Google while you're logged in to the account that ma
 
 At the end of the job, while the customer is looking at the finished work:
 
-> "If you're happy with how this turned out, it would really help us if you left a quick Google review. I'll text you the link so it takes ten seconds."
+> "Would you mind leaving us an honest Google review? It really helps a small business like ours. I'll text you the link so it takes ten seconds."
 
-Saying it out loud matters. A customer who has said "sure!" to your face follows through far more often than one who only gets a text.
+Ask every customer, with the same words. Saying it out loud matters: a customer who has said "sure!" to your face follows through far more often than one who only gets a text. Don't say "if you're happy…", because that's selectively asking for positive reviews, which Google prohibits.
 
 ## Step 3: Send the link within 2 hours
 
-> Thanks again for having us out today, {First}! If you have 30 seconds, a quick Google review helps a small business like ours more than you'd think: {ReviewLink}
+> Thanks again for having us out today, {First}! If you have 30 seconds, your honest Google review helps a small business like ours more than you'd think: {ReviewLink}
 
 ## Step 4: One reminder, then stop
 
@@ -31,14 +31,15 @@ Three days later, only if they haven't reviewed:
 
 **Subject:** How did we do, {First}?
 
-> If everything's working the way it should, would you take 30 seconds to share that on Google? {ReviewLink}. And if anything isn't right, please reply first. I'd much rather fix it.
+> Would you take 30 seconds to share your honest experience on Google? {ReviewLink}. Separately, if anything about the job needs attention, call or text me and I'll take care of it.
 
 Two asks total. No more.
 
 ## What not to do
 
-- **Don't pay for reviews** with discounts, gift cards or entries into a drawing. Google prohibits incentivized reviews, and the FTC treats them as deceptive.
-- **Don't "gate" reviews** by sending only happy customers to Google and unhappy ones to a private form. Google's policies prohibit it. Ask everyone, and invite anyone with a problem to contact you, as in Step 4.
+- **Don't pay for reviews** with discounts, gift cards or entries into a drawing. Google prohibits incentivized reviews, and the FTC's 2024 consumer-review rule bans incentives tied to a review's sentiment.
+- **Don't "gate" reviews** by asking only happy customers, or by steering unhappy ones to a private form instead of Google. Google prohibits selectively soliciting positive reviews. Ask everyone the same way. Offering to fix a problem is fine as long as it isn't a substitute for the review.
+- **Don't give staff review quotas,** and never post a review for a customer or hand them your device to do it.
 - **Never write or buy fake reviews.** It risks your profile and fines.
 
 ## Reply to every review
@@ -53,4 +54,4 @@ For a negative review, stay calm and take it offline:
 
 ## The habit that does it all
 
-The whole system is one sentence at the end of every job, plus one automatic text. Most field-service apps can send the review text automatically when a job is marked complete. Search their help center for "review request."
+The whole system is one sentence at the end of every job, plus one automatic text. Most field-service apps can send the review text automatically when a job is marked complete. Search their help center for "review request." Review requests are service messages, so make sure customers agreed to job-related texts when they booked.

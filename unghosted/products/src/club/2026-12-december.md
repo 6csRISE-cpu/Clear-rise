@@ -19,7 +19,7 @@ For most trades, January is the slowest month of the year. December is when you 
 
 # Campaign: "First Slots of the Year"
 
-**Who gets it:** everyone who used you in the last 18 months. Text only to customers who agreed to receive texts. Email everyone else.
+**Who gets it:** everyone who used you in the last 18 months. Text only to customers who gave **written marketing consent**; email everyone else. **Message type → 3 · Marketing** (**4** if your software sends it to a list).
 
 **Text (Dec 1–7)**
 > Hi {First}, {You} from {Business}. We're opening our January schedule and wanted to offer past customers first pick before it goes public. Want me to hold a spot for your {service}?

@@ -1,7 +1,5 @@
-type,name,url,audience_size,contact_email,personal_note,status,date_contacted,follow_up_date,affiliate_link
-Trade business coach,,,,,,not contacted,,,
-CSR / call-handling trainer,,,,,,not contacted,,,
-Field-service software consultant,,,,,,not contacted,,,
-Trade YouTuber / blogger,,,,,,not contacted,,,
-Trades bookkeeper,,,,,,not contacted,,,
-Trade association chapter,,,,,,not contacted,,,
+partner_type,name,business,website_or_linkedin,public_business_email,client_count_estimate,source,personal_first_line,status,date_contacted,follow_up_1,follow_up_2,reply_notes,review_copy_sent,affiliate_or_license,partner_sales
+HVAC/plumbing consultant,,,,,,,,not contacted,,,,,,,
+Contractor bookkeeper,,,,,,,,not contacted,,,,,,,
+Small-business marketing agency,,,,,,,,not contacted,,,,,,,
+VA / CSR service,,,,,,,,not contacted,,,,,,,

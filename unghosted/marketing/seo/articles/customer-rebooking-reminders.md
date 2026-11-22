@@ -46,7 +46,7 @@ Export your customers from your invoicing or field-service app and filter by **l
 
 ## A note on consent
 
-Rebooking reminders are promotional. Text them only to customers who agreed to receive texts (a checkbox on your booking form or invoice is the usual way), and email everyone else. *(Practical guidance, not legal advice.)*
+Rebooking reminders try to sell a new job, so treat them as **marketing messages**. Text them only to customers who gave **written consent to marketing texts** (an unchecked-by-default checkbox on your booking form, with clear wording, is the usual way), and email everyone else. Send texts only between 8 a.m. and 8 p.m. their time, identify your business, and honor any request to stop immediately. If software sends them to a list automatically, you'll also need a registered (10DLC) marketing campaign and automatic opt-out handling. *(Practical guidance, not legal advice.)*
 
 ## Go further: maintenance plans
 

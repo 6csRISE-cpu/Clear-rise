@@ -24,7 +24,9 @@ You may not:
 - Resell, sublicense, give away or publish the files or substantial parts of them as templates or products
 - Use them to create a competing template product
 
-Agencies or consultants who want to use Unghosted with multiple client businesses should email us for a multi-business license.
+Agencies, consultants and virtual assistants who implement Unghosted for client businesses need the **Partner License** (up to 10 client businesses). See the <a href="affiliates.html">Partner & Affiliate Terms</a>.
+
+Names of third-party software (such as Jobber, Housecall Pro, ServiceTitan or Google) are used only to describe compatibility. Unghosted isn't affiliated with or endorsed by those companies.
 
 ## 4. Ghost Club subscription
 Ghost Club renews automatically each month (or year) until you cancel. You can cancel at any time through the link in your receipt or your Payhip account. Cancelling stops future charges; we don't provide partial refunds for the current period except as described in our <a href="refunds.html">Refund Policy</a>. We may change the subscription price with at least 30 days' notice by email. The change applies at your next renewal, and you may cancel before then.

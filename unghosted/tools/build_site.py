@@ -36,10 +36,10 @@ def shell(meta, body, depth, cls="", extra=""):
 <link rel="icon" href="{r}assets/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="{r}assets/site.css">
 <script src="{r}config.js"></script>{extra}</head><body>
 <nav class="nav"><div class="wrap"><a class="brand" href="{r}index.html"><svg class="ghost" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true"><path d="M12 2C7.6 2 4 5.6 4 10v11.2c0 .7.8 1 1.3.5l1.9-1.9 1.9 1.9c.4.4 1 .4 1.4 0L12 20l1.5 1.7c.4.4 1 .4 1.4 0l1.9-1.9 1.9 1.9c.5.5 1.3.2 1.3-.5V10c0-4.4-3.6-8-8-8z" fill="currentColor"/><circle cx="9.2" cy="10" r="1.7" fill="#D7FF3A"/><circle cx="14.8" cy="10" r="1.7" fill="#D7FF3A"/></svg>unghosted</a>
-<div class="links"><a class="hide-sm" href="{r}guides/">Free guides</a><a class="hide-sm" href="{r}support.html">Support</a><a class="btn btn-dark btn-sm" href="{r}index.html#pricing">See pricing</a></div></div></nav>
+<div class="links"><a class="hide-sm" href="{r}guides/">Free guides</a><a class="hide-sm" href="{r}partners.html">Partners</a><a class="hide-sm" href="{r}support.html">Support</a><a class="btn btn-dark btn-sm" href="{r}index.html#pricing">See pricing</a></div></div></nav>
 <main class="article {cls}"><div class="wrap narrow">{body}</div></main>
 <footer><div class="wrap cols"><div><a class="brand" href="{r}index.html"><svg class="ghost" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true"><path d="M12 2C7.6 2 4 5.6 4 10v11.2c0 .7.8 1 1.3.5l1.9-1.9 1.9 1.9c.4.4 1 .4 1.4 0L12 20l1.5 1.7c.4.4 1 .4 1.4 0l1.9-1.9 1.9 1.9c.5.5 1.3.2 1.3-.5V10c0-4.4-3.6-8-8-8z" fill="currentColor"/><circle cx="9.2" cy="10" r="1.7" fill="#D7FF3A"/><circle cx="14.8" cy="10" r="1.7" fill="#D7FF3A"/></svg>unghosted</a><p>© <span data-year></span> <span data-cfg="legalName"></span></p></div>
-<div><a href="{r}support.html">Support</a><br><a href="{r}legal/refunds.html">Refunds</a><br><a href="{r}legal/terms.html">Terms</a><br><a href="{r}legal/privacy.html">Privacy</a></div></div></footer>
+<div><a href="{r}support.html">Support</a><br><a href="{r}legal/refunds.html">Refunds</a><br><a href="{r}legal/terms.html">Terms</a><br><a href="{r}legal/privacy.html">Privacy</a><br><a href="{r}legal/affiliates.html">Partner terms</a></div></div></footer>
 </body></html>"""
 
 

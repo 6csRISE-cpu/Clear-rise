@@ -46,12 +46,13 @@
 | Affiliate tracking | Payhip | Built-in |
 | Site deploys | Vercel (project `unghosted`, free domain unghostedhq.vercel.app) | Claude redeploys after each change; or link the project to Git / move to Cloudflare Pages for push-to-deploy |
 | Analytics | Cloudflare Web Analytics + Payhip + MailerLite reports | Built-in |
-| **New monthly Club pack + 2 SEO guides (draft)** | **Claude scheduled task** | Monthly: writes the next pack and guides, rebuilds PDFs/site, commits to the repo for review |
+| **Monthly acquisition + content work** | **Claude scheduled task (20th)** | Researches 20 new partner prospects + drafts personalized first emails, writes next month's Partner Drop, Ghost Club pack and 1 SEO guide, rebuilds, runs all automated tests, commits, redeploys |
 
 ## What still needs a human (and how little)
 
 | Task | Why it can't be automated | Time |
 |---|---|---|
+| Send partner outreach emails (drafted monthly) | Personal relationships; sent by a person from the business inbox | ~2 hrs/week while launching (VA-able) |
 | Answer support emails/forms | Judgment and refunds; most questions are pre-answered by the support page | ~15 min/week |
 | Approve refunds | Money movement | Inside the 15 min |
 | Upload the monthly Club pack to Payhip + send the broadcast | Requires your Payhip/MailerLite login (Claude can do it if you connect those accounts) | 10 min/month |
@@ -69,6 +70,8 @@ bash tools/package.sh                # → products/dist/pkg/*.zip (Payhip uploa
 python3 tools/build_site.py          # guides, legal, support, sitemap
 node tools/og_and_shots.mjs          # social share image
 node tools/make_pins.mjs             # Pinterest pins
+node tools/test_site.mjs             # automated site checks (248)
+python3 tools/test_packages.py       # product file checks (63)
 python3 tools/build_financials.py    # financial model
 ```
 

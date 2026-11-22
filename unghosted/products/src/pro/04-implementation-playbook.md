@@ -43,7 +43,7 @@ If anyone besides you answers the phone or finishes jobs, they're your revenue-r
 ### Tech end-of-job script (30 seconds)
 1. "Here's what I did and what I found…" (show, don't just tell)
 2. "Everything look good to you?"
-3. **Review ask:** "If you're happy with it, would you leave us a quick Google review? I'll text you the link."
+3. **Review ask (every customer, same words):** "Would you mind leaving us an honest Google review? I'll text you the link."
 4. **Plan pitch (if applicable):** "Also, most of our regulars are on our {Plan}. Want me to send you the details?"
 5. **Referral card:** leave it on the counter.
 
@@ -56,7 +56,8 @@ If anyone besides you answers the phone or finishes jobs, they're your revenue-r
 | ☐ | Knows the missed-call text goes out automatically | Show them the setting |
 | ☐ | Asks for the review in person at every job | Watch them do it once |
 | ☐ | Knows the plan in one sentence | Say it out loud |
-| ☐ | Knows never to offer anything in exchange for a review | Explain why (Google/FTC rules) |
+| ☐ | Knows never to offer anything in exchange for a review, never to use their own device for a customer's review, and never to suggest wording | Explain why (Google/FTC rules) |
+| ☐ | Knows the 4 message types and quiet hours (8 a.m.–8 p.m.) | Walk through *The Texting Rules* quick-reference card |
 
 ---
 
@@ -122,6 +123,7 @@ Use this before any campaign that includes an offer. A good offer is genuine, si
 | Who gets it? (past customers / new / members only) | |
 
 **Rules for honest offers**
+- Offers are marketing (**Type 3/4**): text them only to customers with written marketing consent; email everyone else.
 - Only use "limited," "ends Friday" or "only 5 spots" if it's actually true.
 - Show the real price. No hidden fees revealed later.
 - Discounts for referrals and loyalty are great. Discounts in exchange for reviews are not allowed.

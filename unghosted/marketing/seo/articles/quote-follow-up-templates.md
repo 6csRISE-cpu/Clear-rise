@@ -47,6 +47,10 @@ This "break-up" text often gets the most replies of the whole sequence, and some
 
 For quotes over about $3,000, stretch the sequence to 30 days. Add a **financing or payment-plan email around day 10** and a **real phone call at day 30**.
 
+## Get permission to text when you quote
+
+Quote follow-ups by text are service messages about something the customer asked for, so get their OK first. Ask "Okay if I text you to follow up on this quote?" when you send it, and note the answer. Keep follow-ups about that quote, without unrelated offers, and finish within about three weeks. Reviving an old quote months later is marketing and needs written consent, so use email for that. Texts go out between 8 a.m. and 8 p.m. their time, and any request to stop means stop.
+
 ## How to make it automatic
 
 Many field-service apps can send quote follow-ups automatically. Search their help center for "quote follow-up" or "estimate follow-up." If yours can't, put reminders on your calendar for days 1, 3, 7, 14 and 21. Five minutes a week keeps it running.

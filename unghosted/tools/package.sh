@@ -22,9 +22,21 @@ TXT
   (cd pkg && zip -qr "$name.zip" "$name")
   echo "packaged $name.zip"
 }
-mk Unghosted-Ghost-Proof-Kit pdf/01-missed-call-and-quote-kit.pdf docx/01-missed-call-and-quote-kit.docx Unghosted-Follow-Up-Tracker.xlsx Templates-Import-Starter.csv
-mk Unghosted-System pdf/01-missed-call-and-quote-kit.pdf pdf/02-revenue-recovery-system.pdf docx/01-missed-call-and-quote-kit.docx docx/02-revenue-recovery-system.docx Unghosted-Follow-Up-Tracker.xlsx Templates-Import-System.csv Customer-List-Template.csv
-mk Unghosted-Pro-Bundle pdf/01-missed-call-and-quote-kit.pdf pdf/02-revenue-recovery-system.pdf pdf/03-trade-packs.pdf pdf/04-implementation-playbook.pdf docx/01-missed-call-and-quote-kit.docx docx/02-revenue-recovery-system.docx docx/03-trade-packs.docx docx/04-implementation-playbook.docx Unghosted-Follow-Up-Tracker.xlsx Templates-Import-Pro.csv Customer-List-Template.csv pdf/2026-12-december.pdf
+mk Unghosted-Ghost-Proof-Kit pdf/00-texting-rules.pdf pdf/01-missed-call-and-quote-kit.pdf docx/01-missed-call-and-quote-kit.docx Unghosted-Follow-Up-Tracker.xlsx Templates-Import-Starter.csv
+mk Unghosted-System pdf/00-texting-rules.pdf pdf/01-missed-call-and-quote-kit.pdf pdf/02-revenue-recovery-system.pdf docx/01-missed-call-and-quote-kit.docx docx/02-revenue-recovery-system.docx Unghosted-Follow-Up-Tracker.xlsx Templates-Import-System.csv Customer-List-Template.csv
+mk Unghosted-Pro-Bundle pdf/00-texting-rules.pdf pdf/01-missed-call-and-quote-kit.pdf pdf/02-revenue-recovery-system.pdf pdf/03-trade-packs.pdf pdf/04-implementation-playbook.pdf docx/01-missed-call-and-quote-kit.docx docx/02-revenue-recovery-system.docx docx/03-trade-packs.docx docx/04-implementation-playbook.docx Unghosted-Follow-Up-Tracker.xlsx Templates-Import-Pro.csv Customer-List-Template.csv pdf/2026-12-december.pdf
+mk Unghosted-Partner-License pdf/00-texting-rules.pdf pdf/01-missed-call-and-quote-kit.pdf pdf/02-revenue-recovery-system.pdf pdf/03-trade-packs.pdf pdf/04-implementation-playbook.pdf docx/01-missed-call-and-quote-kit.docx docx/02-revenue-recovery-system.docx docx/03-trade-packs.docx docx/04-implementation-playbook.docx Unghosted-Follow-Up-Tracker.xlsx Templates-Import-Pro.csv Customer-List-Template.csv pdf/2026-12-december.pdf
+cat > pkg/Unghosted-Partner-License/PARTNER-LICENSE.txt <<TXT
+Unghosted Partner License
+
+This license lets the purchaser use the Unghosted templates and guides with up to 10 client
+businesses they actively serve (agencies, consultants, virtual assistants). You may adapt the
+templates and load them into clients' tools under your own brand. You may not resell, give away
+or publish the Unghosted files or substantial parts of them as a product.
+Full terms: https://unghostedhq.vercel.app/legal/affiliates.html (section 4)
+If you recommend Unghosted for a commission, disclose it (section 2).
+TXT
+(cd pkg && rm -f Unghosted-Partner-License.zip && zip -qr Unghosted-Partner-License.zip Unghosted-Partner-License)
 for m in pdf/20*.pdf; do b=$(basename "$m" .pdf); mk "Unghosted-Ghost-Club-$b" "$m" "docx/$b.docx"; done
 cp pdf/00-five-texts.pdf pkg/Unghosted-5-Texts-Free-Guide.pdf
 ls -la pkg/*.zip pkg/*.pdf

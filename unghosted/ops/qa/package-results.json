@@ -1,0 +1,334 @@
+{
+ "ran": "2026-11-22T23:33:57.663786+00:00",
+ "total": 63,
+ "failed": 0,
+ "results": [
+  {
+   "name": "Unghosted-Ghost-Proof-Kit.zip: exists",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Ghost-Proof-Kit.zip: exact file list",
+   "pass": true,
+   "detail": "missing=[] extra=[]"
+  },
+  {
+   "name": "Unghosted-Ghost-Proof-Kit.zip/00-texting-rules.pdf: PDF renders (pages=11)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Ghost-Proof-Kit.zip/00-texting-rules.pdf: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Ghost-Proof-Kit.zip/01-missed-call-and-quote-kit.pdf: PDF renders (pages=13)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Ghost-Proof-Kit.zip/01-missed-call-and-quote-kit.pdf: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Ghost-Proof-Kit.zip/Unghosted-Follow-Up-Tracker.xlsx: workbook opens with Scorecard",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Ghost-Proof-Kit.zip/Templates-Import-Starter.csv: 24 templates, all typed",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-System.zip: exists",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-System.zip: exact file list",
+   "pass": true,
+   "detail": "missing=[] extra=[]"
+  },
+  {
+   "name": "Unghosted-System.zip/00-texting-rules.pdf: PDF renders (pages=11)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-System.zip/00-texting-rules.pdf: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-System.zip/01-missed-call-and-quote-kit.pdf: PDF renders (pages=13)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-System.zip/01-missed-call-and-quote-kit.pdf: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-System.zip/02-revenue-recovery-system.pdf: PDF renders (pages=16)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-System.zip/02-revenue-recovery-system.pdf: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-System.zip/Unghosted-Follow-Up-Tracker.xlsx: workbook opens with Scorecard",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-System.zip/Templates-Import-System.csv: 47 templates, all typed",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Pro-Bundle.zip: exists",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Pro-Bundle.zip: exact file list",
+   "pass": true,
+   "detail": "missing=[] extra=[]"
+  },
+  {
+   "name": "Unghosted-Pro-Bundle.zip/00-texting-rules.pdf: PDF renders (pages=11)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Pro-Bundle.zip/00-texting-rules.pdf: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Pro-Bundle.zip/01-missed-call-and-quote-kit.pdf: PDF renders (pages=13)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Pro-Bundle.zip/01-missed-call-and-quote-kit.pdf: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Pro-Bundle.zip/03-trade-packs.pdf: PDF renders (pages=14)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Pro-Bundle.zip/03-trade-packs.pdf: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Pro-Bundle.zip/04-implementation-playbook.pdf: PDF renders (pages=8)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Pro-Bundle.zip/04-implementation-playbook.pdf: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Pro-Bundle.zip/02-revenue-recovery-system.pdf: PDF renders (pages=16)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Pro-Bundle.zip/02-revenue-recovery-system.pdf: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Pro-Bundle.zip/Unghosted-Follow-Up-Tracker.xlsx: workbook opens with Scorecard",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Pro-Bundle.zip/Templates-Import-Pro.csv: 84 templates, all typed",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Pro-Bundle.zip/2026-12-december.pdf: PDF renders (pages=4)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Pro-Bundle.zip/2026-12-december.pdf: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Partner-License.zip: exists",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Partner-License.zip: exact file list",
+   "pass": true,
+   "detail": "missing=[] extra=[]"
+  },
+  {
+   "name": "Unghosted-Partner-License.zip/00-texting-rules.pdf: PDF renders (pages=11)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Partner-License.zip/00-texting-rules.pdf: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Partner-License.zip/01-missed-call-and-quote-kit.pdf: PDF renders (pages=13)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Partner-License.zip/01-missed-call-and-quote-kit.pdf: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Partner-License.zip/03-trade-packs.pdf: PDF renders (pages=14)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Partner-License.zip/03-trade-packs.pdf: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Partner-License.zip/04-implementation-playbook.pdf: PDF renders (pages=8)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Partner-License.zip/04-implementation-playbook.pdf: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Partner-License.zip/02-revenue-recovery-system.pdf: PDF renders (pages=16)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Partner-License.zip/02-revenue-recovery-system.pdf: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Partner-License.zip/Unghosted-Follow-Up-Tracker.xlsx: workbook opens with Scorecard",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Partner-License.zip/Templates-Import-Pro.csv: 84 templates, all typed",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Partner-License.zip/2026-12-december.pdf: PDF renders (pages=4)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Partner-License.zip/2026-12-december.pdf: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "Unghosted-Ghost-Club-2026-12-december.zip: pack PDF + DOCX + readme",
+   "pass": true,
+   "detail": [
+    "2026-12-december.docx",
+    "2026-12-december.pdf",
+    "READ-ME-FIRST.txt"
+   ]
+  },
+  {
+   "name": "Unghosted-Ghost-Club-2027-01-january.zip: pack PDF + DOCX + readme",
+   "pass": true,
+   "detail": [
+    "2027-01-january.docx",
+    "2027-01-january.pdf",
+    "READ-ME-FIRST.txt"
+   ]
+  },
+  {
+   "name": "Unghosted-Ghost-Club-2027-02-february.zip: pack PDF + DOCX + readme",
+   "pass": true,
+   "detail": [
+    "2027-02-february.docx",
+    "2027-02-february.pdf",
+    "READ-ME-FIRST.txt"
+   ]
+  },
+  {
+   "name": "free guide PDF exists",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "00-five-texts.docx: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "04-implementation-playbook.docx: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "2027-01-january.docx: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "03-trade-packs.docx: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "2027-02-february.docx: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "02-revenue-recovery-system.docx: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "2026-12-december.docx: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "00-texting-rules.docx: no old brand",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "01-missed-call-and-quote-kit.docx: no old brand",
+   "pass": true,
+   "detail": ""
+  }
+ ]
+}

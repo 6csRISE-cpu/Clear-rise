@@ -11,7 +11,9 @@ window.UNGHOSTED = {
     club:    "",  // Payhip membership: Ghost Club, $19/mo
     clubYear:"",  // Payhip membership: Ghost Club annual, $159/yr
     support: "https://tally.so/r/db9DvD",  // Tally support form (live)
-    affiliates: "", // Payhip affiliate sign-up link
+    affiliates: "", // Payhip affiliate sign-up link (sent to approved partners)
+    partnerApply: "https://tally.so/r/KpVJZX", // Tally partner application (live)
+    partnerLicense: "", // Payhip Partner License product ($297)
     feedback: "https://tally.so/r/Yj4Mkz" // Tally feedback survey (live), used in email E
   },
   supportEmail: "",  // e.g. "support@unghostedhq.com" once the domain + email forwarding exist; empty = links go to the support form

@@ -1,6 +1,6 @@
 # Unghosted: Revenue Recovery for Home-Service Businesses
 
-**What it is:** a digital-product business that sells ready-to-send text, email and phone templates, plus a tracker, to small home-service businesses (HVAC, plumbing, electrical, cleaning, lawn care, pest control). The templates help them win back missed calls, close quiet quotes, rebook past customers, save cancellations, collect Google reviews and launch maintenance plans. A $19/month Ghost Club delivers a new seasonal campaign every month.
+**What it is:** a digital-product business that sells ready-to-send follow-up texts, emails and phone scripts, plus a tracker, to **HVAC and plumbing shops first** (other home-service trades later). **Promise:** *Stop losing jobs because you didn't follow up.* **Acquisition:** partner-led (consultants, contractor bookkeepers, agencies, VAs), with SEO as a background channel. **Compliance:** every template is labeled by message type; *The Texting Rules* is awaiting attorney review before launch. The templates help them win back missed calls, close quiet quotes, rebook past customers, save cancellations, collect Google reviews and launch maintenance plans. A $19/month Ghost Club delivers a new seasonal campaign every month.
 
 **Status:** fully built; site live at https://unghostedhq.vercel.app; not yet selling. Full review: [`REVIEW-SUMMARY.md`](REVIEW-SUMMARY.md). It's waiting on the owner account steps in [`ops/OWNER-SETUP.md`](ops/OWNER-SETUP.md) (about 2 hours). See [`ops/LAUNCH-CHECKLIST.md`](ops/LAUNCH-CHECKLIST.md) for exactly what's verified.
 

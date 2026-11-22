@@ -23,11 +23,13 @@ This system puts that list to work through **six campaigns**. Each one is a shor
 
 > **Fill-Ins used throughout:** `{Business}` · `{You}` · `{Phone}` · `{Link}` (booking link) · `{ReviewLink}` (your Google review link) · `{First}` (customer first name) · `{Job}` (last job) · `{Month}` (month of last service) · `{Offer}` (any genuine offer you choose)
 
-> **Consent reminder:** campaigns 2, 5 and 6 are *promotional*. Send them by text only to customers who agreed to receive texts, and email the rest. See "Texting the Right Way" in the Ghost-Proof Kit.
+> **Message types:** every campaign below is labeled **1 · Reply**, **2 · Service**, **3 · Marketing** or **4 · Automated marketing**. The label tells you what permission you need before texting. Campaigns 2, 5 and 6 are marketing: text them only to customers who gave **written** marketing consent, and email everyone else. Full rules: *The Texting Rules* (included).
 
 ---
 
 # Campaign 2 — Rebooking Past Customers
+
+**Message type → 3 · Marketing** (by text only with written marketing consent; otherwise email or phone). **Type 4** if your software sends it automatically to a list.
 
 **The idea:** every trade has a natural "come back" interval. Customers mean to rebook, then forget. A well-timed, personal reminder catches them at the right moment.
 
@@ -85,6 +87,8 @@ Export customers from your invoicing or field-service app (QuickBooks, Jobber, H
 
 # Campaign 3 — Cancellation & No-Show Recovery
 
+**Message type → 2 · Service** (about a job they booked; no offers inside these messages).
+
 **The idea:** a cancellation is not a lost customer, it's a *postponed* one, as long as you rebook within 24 hours. Don't send a guilt trip. Make it easy to say "yes, next week."
 
 **C1 — Immediately after they cancel · Text**
@@ -124,6 +128,8 @@ Export customers from your invoicing or field-service app (QuickBooks, Jobber, H
 
 # Campaign 4 — The Review Engine
 
+**Message type → 2 · Service** (review requests about the job you just did; ask every customer, neutral wording, nothing offered in return).
+
 **The idea:** Google reviews drive calls. Most happy customers will leave a review *if you ask at the right moment and make it one tap*. The right moment is right after the job, while they're still happy.
 
 ### Step 1 — Get your one-tap review link (5 min, once)
@@ -132,23 +138,23 @@ Export customers from your invoicing or field-service app (QuickBooks, Jobber, H
 3. Save it in your phone's text shortcuts / keyboard replacements so you can type ";rev" and it pastes.
 
 ### Step 2 — The ask, in person (10 seconds at the end of every job)
-> "Hey, if you're happy with how this turned out, it would really help us if you left a quick Google review. I'll text you the link so it takes ten seconds."
+> "Would you mind leaving us an honest Google review? It really helps a small business like ours. I'll text you the link so it takes ten seconds."
 
-*This in-person line doubles the response rate of the text alone. They've said yes to your face.*
+*Ask every customer the same way, whatever kind of job it was. Asking in person makes it far more likely they follow through. Never type a review for them, never hand them your phone or tablet to do it, and never hint at what to write.*
 
 ### Step 3 — The review text sequence
 
 **V1 — Within 2 hours of finishing · Text**
-> Thanks again for having us out today, {First}! If you have 30 seconds, a quick Google review helps a small business like ours more than you'd think: {ReviewLink}. — {You}
+> Thanks again for having us out today, {First}! If you have 30 seconds, your honest Google review helps a small business like ours more than you'd think: {ReviewLink}. — {You}
 
 **V2 — 3 days later, only if no review · Email**
 **Subject:** How did we do, {First}?
 
 > Hi {First},
 >
-> Thanks again for choosing {Business} for your {Job}. If everything's working the way it should, would you take 30 seconds to share that on Google? {ReviewLink}
+> Thanks again for choosing {Business} for your {Job}. Would you take 30 seconds to share your honest experience on Google? {ReviewLink}
 >
-> And if anything *isn't* right, please reply to this email first. I'd much rather fix it.
+> Separately, if anything about the job needs attention, call or text me at {Phone} and I'll take care of it.
 >
 > {You}
 
@@ -161,14 +167,18 @@ That's it: **two asks, then stop.**
 **Critical review reply (calm, short, take it offline):**
 > {First}, I'm sorry this wasn't the experience you expected. That's not the standard we hold ourselves to. I'd like to make it right. Please call me directly at {Phone}. — {You}, owner
 
-### What NOT to do
-- **Don't offer money, discounts or gifts in exchange for reviews.** Google prohibits incentivized reviews and the FTC treats it as deceptive. Asking *everyone* is fine. Paying for reviews isn't.
-- **Don't only ask the happy ones.** Sending unhappy customers to a private form and happy ones to Google is called "review gating" and is against Google's policies. The sequence above asks everyone and invites problems by email, which is allowed.
-- **Never write or buy reviews.** Fake reviews can get your profile suspended and carry FTC penalties.
+### The rules (Google and the FTC)
+- **Ask everyone, the same way.** Google prohibits "selectively soliciting positive reviews." Don't ask only the customers who seem happy, don't say "if you're happy with it…", and don't send unhappy customers somewhere else instead of Google. It's fine to offer to fix a problem, as long as it isn't a condition or a substitute for the review.
+- **Never offer anything for a review.** No discounts, gift cards, entries into a drawing or "free filter if you post a review." Google treats incentivized reviews as fake engagement, and the FTC's 2024 rule on consumer reviews bans incentives tied to a review's sentiment.
+- **Never write, buy or "assist" reviews.** Don't post reviews for customers, use your own device for them, or suggest wording. Fake or staff-written reviews can get your profile restricted and carry FTC penalties.
+- **Don't give staff review quotas** that pressure them to chase reviews or specific content. Google prohibits this too.
+- **Never threaten or pressure** anyone over a negative review. The FTC rule prohibits review suppression by intimidation or groundless legal threats. Reply calmly and take it offline (template above).
 
 ---
 
 # Campaign 5 — The Referral Loop
+
+**Message type → 3 · Marketing** (a referral ask promotes your business: text only with written marketing consent, otherwise email, card or in person).
 
 **The idea:** a customer who just left you a 5-star review is the warmest marketing channel you'll ever have. Give them an easy, *genuine* reason to mention you to a neighbor.
 
@@ -179,7 +189,7 @@ That's it: **two asks, then stop.**
 
 Rewards for *referrals* are fine. Just don't tie them to *reviews*.
 
-**F1 — 3–7 days after a 5-star review or a "thank you!" text · Text/email**
+**F1 — 3–7 days after a job the customer was clearly happy with · Email (or text with written marketing consent)**
 > Thank you so much for the kind words, {First}. It made our week! If you know a neighbor, friend or family member who needs {Trade}, we'd love to help them too. Anyone you send our way gets {new-customer offer}, and you get {reward} when they book. Just have them mention your name.
 
 **F2 — Referral card (print and leave at the job)**
@@ -206,6 +216,8 @@ Rewards for *referrals* are fine. Just don't tie them to *reviews*.
 ---
 
 # Campaign 6 — Retention & Maintenance Plans
+
+**Message type → 3 · Marketing** for plan offers and pitches (written consent for texts; email otherwise). Visit reminders and visit reports to *existing members* are **2 · Service**.
 
 **The idea:** a maintenance plan (also called a membership or service agreement) turns one-time customers into recurring revenue *for your business*: predictable income, scheduled work in slow months, and customers who don't shop around.
 

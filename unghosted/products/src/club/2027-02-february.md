@@ -19,7 +19,7 @@ Every business has a pile of quotes from the last 6–12 months that never close
 
 # Campaign 1: Quote Revival
 
-**Who gets it:** anyone who received a quote from you in the last 12 months and didn't book. These people contacted you about their own project, but it's been a while, so email is safest unless they agreed to texts.
+**Who gets it:** anyone who received a quote from you in the last 12 months and didn't book. These people contacted you about their own project, but it's been a while, so this is **Type 3 · Marketing**: email them, and text only those who gave written marketing consent.
 
 **Email**
 **Subject:** Is your {Job} project still on the list?
@@ -34,7 +34,7 @@ Every business has a pile of quotes from the last 6–12 months that never close
 >
 > {You}, {Business}
 
-**Text (consented customers only)**
+**Text (written marketing consent only)**
 > Hi {First}, {You} from {Business}. I quoted your {Job} last {month}. Is it still on your list? Happy to refresh the quote before spring if you'd like.
 
 **Tip:** sort these by quote size and *call* the top five. Big quotes deserve a real conversation.
@@ -42,6 +42,8 @@ Every business has a pile of quotes from the last 6–12 months that never close
 ---
 
 # Campaign 2: Spring Pre-Book
+
+**Message type → 3 · Marketing** (email everyone; text only with written marketing consent).
 
 **Email (Week 2)**
 **Subject:** Reserve your spring {service} before the rush

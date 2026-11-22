@@ -33,7 +33,7 @@ Subject: Your 5 texts are here (+ one thing to do today)
 >
 > — Unghosted
 >
-> P.S. Reply and tell me your trade. I read every reply.
+> P.S. HVAC or plumbing? Reply and tell me. I read every reply.
 
 **A2 · Day 2**
 Subject: The text that revives "dead" quotes
@@ -61,7 +61,7 @@ Subject: Why "just checking in" doesn't work
 >
 > The option is the magic one. When price is the silent objection, a smaller option lets people reply without admitting it.
 >
-> The full Ghost-Proof Kit has all five touches written out, plus phone scripts and a tracker, for $27: [Get the Kit]({{STARTER_URL}})
+> The Ghost-Proof Kit for HVAC & Plumbing has all five touches written out, plus plays for AC/furnace replacement, water heater and sewer quotes, phone scripts, The Texting Rules and a tracker, for $27: [Get the Kit]({{STARTER_URL}})
 
 **A4 · Day 6**
 Subject: Your best marketing is already in your invoices
@@ -82,11 +82,11 @@ Subject: How to get reviews without breaking Google's rules
 >
 > The best review system is one sentence, said out loud at the end of every job:
 >
-> > "If you're happy with how this turned out, it'd really help us if you left a quick Google review. I'll text you the link."
+> > "Would you mind leaving us an honest Google review? It really helps a small business like ours. I'll text you the link."
 >
-> Then text the link within two hours. One reminder three days later. Done.
+> Ask every customer, with the same words. Then text the link within two hours, with one reminder three days later. Done.
 >
-> Two things to never do: offer discounts for reviews, or send only happy customers to Google. Both break Google's rules (and the FTC's).
+> Never: offer anything for a review, ask only the happy customers, or say "if you're happy…". Google prohibits all three, and the FTC bans review incentives tied to sentiment.
 >
 > Full guide: [Get more Google reviews]({{SITE}}/guides/get-more-google-reviews-home-service.html)
 

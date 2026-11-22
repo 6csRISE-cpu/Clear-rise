@@ -1,162 +1,95 @@
-# Unghosted: Full Review Summary
+# Unghosted: Full Review Summary (v2)
 
-*Prepared November 22, 2026. Everything below is in the repo `6csRISE-cpu/Clear-rise`, branch `claude/autonomous-digital-business-qdjpdr`, folder `unghosted/`.*
+*Updated November 22, 2026, after owner feedback. Repo `6csRISE-cpu/Clear-rise`, branch `claude/autonomous-digital-business-qdjpdr`, folder `unghosted/`.*
 
-**One-line status:** the business is fully built and the website is live on a free domain. It can't take money yet: the owner still has to create the payment accounts (Payhip + Stripe/PayPal), which require the owner's identity and bank verification.
+**One-line status:** built and live at **https://unghostedhq.vercel.app**, but **not selling yet.** Three launch gates must pass first: an attorney reviews the texting guidance, the customer journey is tested end to end on live accounts, and the automated checks pass. The automated checks pass today. The first two need the owner.
+
+---
+
+## What changed in v2 (owner feedback → action)
+
+| Feedback | What we did |
+|---|---|
+| **SEO is too slow to lead** | **Partners are now the primary channel:** HVAC/plumbing consultants, contractor bookkeepers, small-business agencies, VAs/CSR services. New partner page, live application form, Partner License ($297), a partner kit with outreach scripts per partner type, a monthly "Partner Drop" of forwardable content, and a researched prospect list each month. SEO dropped to 1 guide/month in the background. |
+| **Too broad for a first sale** | **One market, one promise:** HVAC and plumbing only, under "Stop losing jobs because you didn't follow up." The $27 **Ghost-Proof Kit for HVAC & Plumbing** is the single front door, with a new HVAC & plumbing playbook (no-heat/no-AC/leak missed-call texts; AC/furnace, water heater, sewer/repipe and postponed-repair quote plays; repair-vs-replace; honest objection replies). The System, Pro and Ghost Club are now presented as upgrades. Other trades aren't marketed. |
+| **Content automation ≠ customer acquisition** | The monthly task now produces **acquisition work**: 20 researched partner prospects with drafted first emails, plus a Partner Drop, along with the Ghost Club pack and 1 guide. |
+| **Test the whole customer journey** | **Automated checks:** 248 site and 63 package checks passing (pages, links, phone layout, buy-button wiring, calculator math, exact files per product, PDFs render, every template typed). **E2E test plan:** 30 live-account tests covering free-guide capture, email start, delivery, correct files, coupons, renewal, cancellation, abandoned cart, affiliate attribution, support and partner intake. It's a launch gate. |
+| **Compliance needs more attention** | New **The Texting Rules** guide in every paid product, built on the **four message types** you named: **1 Reply** (customer inquiry), **2 Service** (existing relationship/job), **3 Marketing** (written consent first), **4 Automated marketing** (written consent + registered number + auto opt-out + records). It covers opt-outs (any reasonable means, immediately, ≤10 business days, one confirmation), quiet hours (8 a.m.–8 p.m.), frequency caps, EBR limits, record keeping, email and CASL. **Every template is labeled** (77 in the Pro CSV: 14 Reply, 25 Service, 35 Marketing, 3 Live call). **Attorney review packet** with 13 specific questions; review is a launch gate. **Google review rules:** removed "if you're happy…" (selective solicitation), removed "reply to us first" framing, added no-incentive, no-quota, no-device-assist and no-suppression rules everywhere review requests appear. **Affiliate disclosures:** new Partner & Affiliate Terms page requiring clear, adjacent commission disclosure (FTC Endorsement Guides), banning spam, cold texting, brand bidding and false claims; every Partner Drop includes a disclosure line. |
 
 ---
 
 ## 1. The business
+- **Name / voice:** Unghosted. "Your customers aren't gone. They're ghosting you. Let's unf\*ck that." The voice is raw in marketing. The templates themselves stay polite, because they're sent to homeowners.
+- **Market:** owners of small **HVAC and plumbing** shops (1–15 staff).
+- **Promise:** **Stop losing jobs because you didn't follow up.**
+- **Why:** studies find 14–27% of calls to home-service businesses go unanswered, and quotes die to silence. One recovered job ($150–$15,000) pays for the product. Fully digital, ~75% net margin.
 
-| | |
-|---|---|
-| **Name** | **Unghosted** (renamed from ClearRise at the owner's request: trendier, rawer) |
-| **Tagline** | "Your customers are ghosting you. Let's unf\*ck that." |
-| **Live site (free)** | **https://unghostedhq.vercel.app** |
-| **What it sells** | Ready-to-send text, email and phone templates, plus a tracker, that help small home-service businesses win back missed calls, close quiet quotes, rebook past customers, save cancellations, get Google reviews and start maintenance plans |
-| **Who buys** | Owners of small HVAC, plumbing, electrical, cleaning, lawn/landscaping and pest-control businesses (1–15 staff) |
-| **Model** | Digital downloads + monthly subscription. Instant automated delivery, about 80% net margin, no owner face or identity in the brand |
+## 2. Products
 
-### Why this opportunity was chosen
-- **Real, measured pain:** call-tracking studies find 14–27% of calls to home-service businesses go unanswered (Invoca 2024; CallRail 2025), and quotes often die to silence.
-- **Buyers with money and a clear payoff:** one recovered job ($150–$5,000) pays for any product many times over.
-- **Gap in the market:** free templates exist but are scattered across software-vendor blogs. Unghosted is a complete, trade-specific system with timing, consent guidance, a tracker and seasonal campaigns.
-- **Low cost, low complexity, scalable:** fully digital, no inventory, expands to more trades and to agency licenses.
-- **Rejected:** Etsy printables (race to the bottom), courses/coaching (needs the owner's face and time), SaaS (expensive to build and support), affiliate blogs (tiny commissions, slow).
+| Product | Price | Role |
+|---|---|---|
+| 5 Texts That Win Back Missed Calls: HVAC & Plumbing edition | Free | Email capture |
+| **Ghost-Proof Kit for HVAC & Plumbing** | **$27** | **Front door:** missed calls + quote follow-up + HVAC/plumbing playbook + The Texting Rules + tracker |
+| Unghosted System | $67 | Upgrade: rebooking, cancellations, reviews, referrals, maintenance plans ($27 credited within 30 days) |
+| Pro Bundle | $127 | Upgrade: 12-month calendars, CSR scripts, 90-day plan, bonus trade packs |
+| Ghost Club | $19/mo or $159/yr | Recurring: seasonal campaign each month (Dec–Feb written) |
+| **Partner License** | **$297** | For agencies/VAs implementing for up to 10 clients |
 
-### Brand identity
-- **Voice:** blunt, raw and funny on the website, emails and social ("Copy. Paste. Get paid.", "No forms. No BS.", "Built for people who fix things, not people who 'circle back'"). Swearing is censored (unf\*ck) so spam filters, ad platforms and Facebook groups don't block the brand.
-- **The templates customers send to homeowners stay polite and professional,** because they go out under the customer's name.
-- **Look:** neo-brutalist. Bone background, black ink, acid-lime highlights, chunky Inter Black type, hard-shadow buttons and cards, a ghost logo with lime eyes.
-
----
-
-## 2. Products and pricing (all finished)
-
-| Product | Price | What's inside | File for Payhip |
-|---|---|---|---|
-| **5 Texts That Win Back Missed Calls** | Free | 4-page guide; collects email addresses | `Unghosted-5-Texts-Free-Guide.pdf` |
-| **Ghost-Proof Kit** | $27 | 7 missed-call texts, voicemail script, 5-touch quote follow-up, phone scripts, texting-consent guide, tracker | `Unghosted-Ghost-Proof-Kit.zip` |
-| **Unghosted System** ★ most popular | $67 | Kit + rebooking (12 trades), cancellation/no-show recovery, review engine, referral loop, maintenance-plan builder, 10 AI prompts, 30-day rollout, scorecard | `Unghosted-System.zip` |
-| **Pro Bundle** | $127 | System + 6 trade packs with 12-month calendars, staff scripts and training, software cheat sheet, Google Business Profile checklist, 90-day plan, bonus Ghost Club pack | `Unghosted-Pro-Bundle.zip` |
-| **Ghost Club** | $19/mo or $159/yr | A new seasonal campaign pack every month. Dec 2026, Jan 2027 and Feb 2027 are already written | `Unghosted-Ghost-Club-*.zip` |
-
-**Every paid product includes:** branded PDFs, editable Word versions, a tracker spreadsheet whose scorecard calculates itself (Excel or Google Sheets), and a CSV of every template (105 in total) for bulk import into texting apps.
-
-**Guarantee:** 30-day money-back on everything.
-
-**Upgrade path:** code `UPGRADE27` (Kit → System), code `PRO67` (System → Pro), checkout upsells and onboarding emails.
-
----
-
-## 3. What's live and verified
+## 3. Live and verified now
 
 | Item | Status |
 |---|---|
-| Website at **unghostedhq.vercel.app**: sales page, lost-revenue calculator, pricing, FAQ, guarantee | ✅ Live. Served HTTP 200 with the new brand; production is public |
-| 6 SEO guides, guides index, sitemap, robots.txt | ✅ Live |
-| Support page, Terms, Privacy, Refund policy | ✅ Live (legal name and address are placeholders until the owner provides them) |
-| Phone and desktop layout | ✅ Checked at 390px and 1280px, no sideways scrolling, no broken links |
-| Support form | ✅ Published: https://tally.so/r/db9DvD |
-| Feedback survey | ✅ Published: https://tally.so/r/Yj4Mkz |
-| Product PDFs | ✅ 8 PDFs rendered and visually checked |
-| Spreadsheet formulas (tracker, financial model, dashboard) | ✅ Recalculated with test data, no errors |
-| Monthly content automation | ✅ Scheduled task "Unghosted monthly content" runs on the 20th of each month (first run Dec 20, 2026): writes the next Ghost Club pack and 2 new SEO guides, rebuilds, commits, redeploys |
+| Website (https://unghostedhq.vercel.app): HVAC/plumbing sales page, calculator, partners page, 6 guides, support, Terms, Privacy, Refunds, Partner & Affiliate Terms | ✅ Live (redeployed with v2) |
+| Automated site checks | ✅ 248/248 |
+| Automated package checks | ✅ 63/63 |
+| Support form https://tally.so/r/db9DvD | ✅ Published |
+| Feedback survey https://tally.so/r/Yj4Mkz | ✅ Published |
+| **Partner application** https://tally.so/r/KpVJZX | ✅ Published (new) |
+| Monthly task "Unghosted monthly content" (20th of each month) | ✅ Updated for v2 |
+| Buy buttons | 🔒 Intentionally "Opening soon" until all launch gates pass |
 
-**Buy buttons** show "Opening soon" until Payhip links are added. One paste per product in `site/config.js`.
+## 4. What needs the owner
 
----
+| # | Action | Why only you |
+|---|---|---|
+| 1 | **Attorney review** of *The Texting Rules* + labels (`ops/COMPLIANCE-REVIEW-PACKET.md`; ask for a flat fee) | Engaging counsel |
+| 2 | **Payhip + Stripe/PayPal**: 7 products incl. Partner License, coupons, abandoned cart, affiliates (30%) | Identity & bank verification |
+| 3 | **MailerLite** + Payhip connection + Zapier routing; paste the written sequences | Account ownership |
+| 4 | **Run the E2E test plan** (`ops/E2E-TEST-PLAN.md`, ~2 hrs; Claude can guide) | Needs live accounts and a real card |
+| 5 | Send Claude: Payhip links, legal name, mailing address, state | Personal/legal details |
+| 6 | Move hosting to free Cloudflare Pages (or Vercel Pro) before selling | Account ownership |
+| 7 | **Partner outreach:** ~15 emails/week from the researched list, or hire a VA (~2 hrs/week) | Sent from the business inbox, by a person |
+| 8 | *Optional:* buy unghostedhq.com (~$12/yr) | Purchase |
 
-## 4. What needs the owner (about 2 hours, once)
+## 5. Acquisition (partner-led)
+- **First 60 days target:** 60 partner contacts → 4–6 active partners → first 10–25 sales *(planning target, not a promise)*.
+- **Assets:** partner kit (4 partner types: where to find them, outreach + 2 follow-ups + LinkedIn note, onboarding), application form, Partner License, monthly Partner Drop (December written), prospect tracker, community answer bank, nurture emails, 12 video scripts, 6 SEO guides (+1/month).
+- **Decision rule:** fewer than 2 active partners by week 4 → rewrite the outreach before adding channels.
 
-Full step-by-step instructions: `ops/OWNER-SETUP.md`
+## 6. Money (estimates, not promises)
+- **Fixed costs:** ≈ $1/month. **Per order:** ≈ $48.90 net on a $65 average (after Payhip 5%, card fees, 5% refunds, and 30% commission on ~40% of sales).
+- **Year 1:** Conservative ≈ $5.0K gross / $3.8K net · **Base ≈ $22.7K / $16.9K** · Strong (upper bound) ≈ $102K / $74.6K.
+- **Targets (Base):** $1K/mo net ≈ 21 orders · $3K ≈ 62 · $5K ≈ 103.
+- **Not modeled:** Partner License sales (upside).
 
-| # | Action | Why only the owner can do it | Cost |
-|---|---|---|---|
-| 1 | **Create a Payhip account and connect Stripe and/or PayPal.** Upload the 6 product files (listing text ready in `ops/PAYHIP-LISTINGS.md`), create the 2 coupons, turn on abandoned-cart emails and affiliates (30%), make a test purchase | Identity and bank verification | $0/mo + 5% per sale + card fees |
-| 2 | **Send Claude the Payhip product links** | Links only exist after step 1 | — |
-| 3 | **Create a MailerLite account**, connect it to Payhip, add 5 groups; paste in the written email sequences (or give Claude/a VA access) | Account ownership | $0 to start |
-| 4 | **Send Claude** your legal name or business entity, a mailing address (PO box is fine) and your state | Legal pages and email law (CAN-SPAM) | — |
-| 5 | **Before selling, move hosting** to free Cloudflare Pages (commercial use allowed) *or* upgrade Vercel. Vercel's free plan is non-commercial | Account ownership | $0 |
-| 6 | *Optional:* buy **unghostedhq.com** (available, ~$12/yr) and set up `support@unghostedhq.com` forwarding | Purchase | ~$12/yr |
-| 7 | *Optional:* submit the sitemap to Google Search Console; create YouTube/TikTok/Instagram accounts for short videos | Account ownership | $0 |
+## 7. Honest risks
+- **No sales or validation yet.** The first 60 days of partner data matter more than any projection.
+- **Compliance guidance is unreviewed** until counsel signs off. The newest FCC opt-out order (FCC 26-67, reported effective Nov 25, 2026) was confirmed only through secondary sources; the guide's practices (honor everything, immediately, everywhere) are designed to stay compliant either way.
+- **Midpage legal research was unavailable** (its account payment is past due), so citations weren't cross-checked there.
+- **Hosting:** the free Vercel plan is non-commercial. Move before selling.
+- **Name:** quick search only, not a formal trademark search.
+- **Partner dependence:** if partners don't engage, the fallback is direct community work and the email list. SEO won't rescue the first 90 days.
 
----
-
-## 5. Marketing system (all written; no paid ads at launch)
-
-| Rank | Channel | What's ready | Owner time |
-|---|---|---|---|
-| 1 | **Google search** | 6 guides live + 24 queued topics; 2 new guides/month written automatically | 0 |
-| 2 | **Affiliates and partners** | 30% commission program design, outreach + follow-up emails, prospect sheet | 0 (a VA can send outreach) |
-| 3 | **Faceless short video** | 12 scripts (TikTok, YouTube Shorts, Reels) | 0 if outsourced |
-| 4 | **Communities** | Answer bank for trade Facebook groups and Reddit (value-first, no spam) | Optional, 15 min/week |
-| 5 | **Email** | 7 automated sequences: free-guide nurture (7 emails), Kit/System/Pro onboarding with upgrade offers, abandoned cart, Ghost Club welcome/monthly/renewal/cancellation, day-21 feedback, plus a weekly newsletter format with 12 topics | 0 once set up |
-| 6 | **Pinterest** | 12 branded pins + upload CSV | 0 |
-
-Plus a 90-day launch and publishing calendar: `marketing/CONTENT-CALENDAR.md`.
-
-**Rules we follow:** no fake testimonials or reviews, no invented results, no incentivized reviews, no spam, texting-consent rules respected.
-
----
-
-## 6. How the automation fits together
-
-Visitor → website → Payhip (checkout, tax, instant delivery, upsells, coupons, abandoned cart, affiliates, subscription billing) → MailerLite (all email sequences) → Tally (support and feedback) → monthly Owner Dashboard.
-
-**Fully automatic once set up:** checkout, delivery, VAT, lead capture, all emails, upsells, abandoned cart, subscription billing and renewals, feedback collection, self-serve FAQ, affiliate tracking, monthly content creation.
-
-**Still human (about 1.5 hours/month):** answer support and approve refunds (~15 min/week), upload the monthly Ghost Club pack to Payhip and send the broadcast (10 min; Claude can do this if the accounts are connected), pay affiliates by PayPal (10 min), fill in the dashboard (10 min, or ask Claude).
-
----
-
-## 7. Money
-
-**Fixed costs at launch: about $1/month** (only a domain, if you buy one). Payhip takes 5% per sale, plus about 2.9% + $0.30 card fees.
-
-**Per average order** ($65): about **$52 net** after fees, refunds and affiliate commissions (≈80% margin). **Break-even:** the first sale.
-
-| 12-month scenario *(estimates, not promises)* | Conservative | Base | Strong (upper bound) |
-|---|---|---|---|
-| Orders at month 12 | 13/mo | 64/mo | 320/mo |
-| Ghost Club members at month 12 | 3 | 20 | 132 |
-| **Year-1 gross revenue** | ≈ $5,000 | ≈ $22,700 | ≈ $102,000 |
-| **Year-1 net profit** | ≈ $4,000 | ≈ $17,900 | ≈ $80,500 |
-
-**Targets (Base assumptions):** $1K/month net ≈ 20 orders ≈ 1,300 visitors · $3K ≈ 58 orders ≈ 3,900 visitors · $5K ≈ 97 orders ≈ 6,500 visitors.
-
-Files: `ops/Unghosted-Financial-Model.xlsx` (change any blue cell and it all recalculates) and `ops/FINANCIALS.md`.
-
----
-
-## 8. Owner dashboard and maintenance
-
-- **Dashboard:** `ops/Owner-Dashboard.xlsx`. Enter 15 numbers monthly; 11 KPIs turn green or orange against targets (net profit, orders, average order value, conversion rates, refund rate, club members, churn, recurring revenue, email open rate, support tickets). Rule: fix the single worst orange number each month.
-- **Maintenance:** `ops/MAINTENANCE.md`: weekly (15 min), monthly (45 min), quarterly (1 hr), plus decision triggers (e.g. switch to Payhip Plus above $1,000/month in sales; add a trade pack when 3+ customers ask).
-- **Support replies:** `ops/SUPPORT-MACROS.md` (downloads, refunds, cancellations, setup help, licensing, affiliates).
-
----
-
-## 9. Honest notes and risks
-
-- **Nothing has sold yet.** No market validation exists until real traffic and purchases. The first 90 days of data matter more than any projection.
-- **Hosting:** the free Vercel site is fine for preview and review, but its free plan doesn't allow commercial use. Move to Cloudflare Pages (free) before taking payments.
-- **Name:** no existing "Unghosted" brand turned up in a search (the closest is an unrelated dating app called "Ghosted"). This isn't a formal trademark search; worth one before significant spending.
-- **The edgy voice** may turn off a few conservative buyers. The site copy can be dialed up or down at any time without touching the products.
-- **Compliance:** templates include texting-consent and review-policy guidance, but it's practical guidance, not legal advice. Legal pages need the owner's real details before launch.
-- **Taxes:** Payhip handles EU/UK VAT. U.S. state sales tax only matters past state thresholds; check with an accountant once sales are steady.
-
----
-
-## 10. Where everything lives
-
+## 8. Where everything lives
 | Path | Contents |
 |---|---|
-| `unghosted/products/dist/pkg/` | **Upload-ready product files** |
-| `unghosted/products/src/` | Product content source (Markdown) |
-| `unghosted/site/` | The website; `site/config.js` holds every link |
-| `unghosted/marketing/` | Acquisition plan, emails, SEO articles, pins, video scripts, community answers, partner kit, calendar |
-| `unghosted/ops/` | Owner setup, Payhip listings, launch checklist, automation map, financials, dashboard, maintenance, support replies |
-| `unghosted/tools/` | Scripts that rebuild PDFs, the site, pins and the spreadsheets |
-
-**Accounts and tools Claude set up for you:** Vercel project `unghosted` (team Big Hands) with free domain unghostedhq.vercel.app · Tally forms "Unghosted Support" and "Unghosted: 30-Second Feedback" · scheduled task "Unghosted monthly content" (delete it any time from your scheduled tasks if you don't want it).
+| `products/dist/pkg/` | Upload-ready product files (7 ZIPs + free PDF) |
+| `products/src/starter/00-texting-rules.md` | The Texting Rules (source) |
+| `site/` | Website; `site/config.js` holds every link |
+| `marketing/partners/` | Partner kit, prospects, monthly Partner Drops |
+| `marketing/ACQUISITION-PLAN.md` | v2 partner-led plan |
+| `ops/COMPLIANCE-REVIEW-PACKET.md` | For the attorney |
+| `ops/E2E-TEST-PLAN.md` | Live customer-journey tests |
+| `ops/qa/` | Automated test results |
+| `ops/` | Setup, listings, launch checklist, automation, financials, dashboard, maintenance, support replies |
+| `tools/` | Build and test scripts |

@@ -21,6 +21,8 @@ January is quiet for most trades. That makes it the best month to launch or grow
 
 Before sending, make sure your plan is set up using the Plan Builder (Unghosted System, Campaign 6).
 
+**Message type → 3 · Marketing** (text only with written marketing consent).
+
 **Email 1 (Week 1)**
 **Subject:** A simpler way to take care of your {home/system} this year
 
@@ -52,6 +54,8 @@ Before sending, make sure your plan is set up using the Plan Builder (Unghosted 
 ---
 
 # Campaign B: "Quick Wins" (any trade)
+
+**Message type → 3 · Marketing** (email everyone; text only with written marketing consent).
 
 Small, low-cost jobs are easy yeses in January and often lead to bigger work.
 

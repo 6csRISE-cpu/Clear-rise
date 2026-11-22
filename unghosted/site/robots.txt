@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://unghosted.vercel.app/sitemap.xml

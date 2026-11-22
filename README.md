@@ -10,6 +10,6 @@ Status: pre-launch. Funding and property are not yet secured; anything in
 
 ---
 
-## ClearRise (digital business)
+## Unghosted (digital business)
 
-`clearrise/`: a complete revenue-recovery template business for home-service companies (products, website, marketing, automation and ops). Start at [`clearrise/README.md`](clearrise/README.md).
+`unghosted/`: a complete "stop getting ghosted by customers" template business for home-service companies (products, website, marketing, automation and ops). Start at [`unghosted/README.md`](unghosted/README.md).

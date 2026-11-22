@@ -8,7 +8,7 @@ slug: legal/refunds
 *Last updated: November 22, 2026*
 
 ## 30-day money-back guarantee (one-time purchases)
-If a Unghosted product (Ghost-Proof Kit, Unghosted System or Pro Bundle) isn't useful to your business, email <a data-mail></a> within **30 days of purchase** with your order email address, and we'll refund the full purchase price to your original payment method. You don't need to give a reason, though we appreciate hearing one.
+If an Unghosted product (Ghost-Proof Kit, Unghosted System or Pro Bundle) isn't useful to your business, email <a data-mail></a> within **30 days of purchase** with your order email address, and we'll refund the full purchase price to your original payment method. You don't need to give a reason, though we appreciate hearing one.
 
 Refunds are usually processed within 3 business days. Your bank may take 5–10 business days to show the credit.
 

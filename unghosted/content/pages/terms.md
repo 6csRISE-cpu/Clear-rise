@@ -16,7 +16,7 @@ Orders are processed by our e-commerce provider, Payhip, and its payment process
 Products are digital files, available for download immediately after payment. If a download link fails, email us and we'll resend it.
 
 ## 3. License
-When you buy a Unghosted product you receive a **non-exclusive, non-transferable license to use it in one business** (including its employees and contractors). You may:
+When you buy an Unghosted product you receive a **non-exclusive, non-transferable license to use it in one business** (including its employees and contractors). You may:
 - Edit, adapt and send the templates to your own customers, with or without changes
 - Load them into your software, print them and share them with your team
 

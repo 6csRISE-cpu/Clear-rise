@@ -2,7 +2,7 @@
 
 **What it is:** a digital-product business that sells ready-to-send text, email and phone templates, plus a tracker, to small home-service businesses (HVAC, plumbing, electrical, cleaning, lawn care, pest control). The templates help them win back missed calls, close quiet quotes, rebook past customers, save cancellations, collect Google reviews and launch maintenance plans. A $19/month Ghost Club delivers a new seasonal campaign every month.
 
-**Status:** fully built, not yet launched. It's waiting on the owner account steps in [`ops/OWNER-SETUP.md`](ops/OWNER-SETUP.md) (about 2 hours). See [`ops/LAUNCH-CHECKLIST.md`](ops/LAUNCH-CHECKLIST.md) for exactly what's verified.
+**Status:** fully built; site live at https://unghostedhq.vercel.app; not yet selling. Full review: [`REVIEW-SUMMARY.md`](REVIEW-SUMMARY.md). It's waiting on the owner account steps in [`ops/OWNER-SETUP.md`](ops/OWNER-SETUP.md) (about 2 hours). See [`ops/LAUNCH-CHECKLIST.md`](ops/LAUNCH-CHECKLIST.md) for exactly what's verified.
 
 ## Why this opportunity
 - **Proven pain, measurable money:** call-tracking studies find 14–27% of calls to home-service businesses go unanswered, and quotes commonly die to silence. Owners already pay $50–$300+/month for software that partly solves this.

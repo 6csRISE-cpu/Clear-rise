@@ -7,7 +7,7 @@ Legend: ✅ done and verified · 🟡 built, waiting on an owner account step ·
 ## Product
 | Item | Status | Evidence |
 |---|---|---|
-| Free guide (3-page PDF) | ✅ | `products/dist/pkg/Unghosted-5-Texts-Free-Guide.pdf` |
+| Free guide (4-page PDF) | ✅ | `products/dist/pkg/Unghosted-5-Texts-Free-Guide.pdf` |
 | Ghost-Proof Kit ($27): 10-page PDF, DOCX, XLSX, CSV | ✅ | `Unghosted-Ghost-Proof-Kit.zip` |
 | Unghosted System ($67): 2 PDFs (25 pages), DOCX, XLSX, CSVs | ✅ | `Unghosted-System.zip` |
 | Pro Bundle ($127): 4 PDFs + bonus pack, DOCX, XLSX, CSVs | ✅ | `Unghosted-Pro-Bundle.zip` |

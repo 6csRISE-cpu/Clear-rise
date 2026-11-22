@@ -44,7 +44,7 @@
 | Feedback collection | MailerLite → Tally | Day-21 email |
 | Basic support / FAQ | Support page + Tally form | Self-serve first; form to inbox |
 | Affiliate tracking | Payhip | Built-in |
-| Site deploys | Cloudflare Pages | On every git push |
+| Site deploys | Vercel (project `unghosted`, free domain unghostedhq.vercel.app) | Claude redeploys after each change; or link the project to Git / move to Cloudflare Pages for push-to-deploy |
 | Analytics | Cloudflare Web Analytics + Payhip + MailerLite reports | Built-in |
 | **New monthly Club pack + 2 SEO guides (draft)** | **Claude scheduled task** | Monthly: writes the next pack and guides, rebuilds PDFs/site, commits to the repo for review |
 

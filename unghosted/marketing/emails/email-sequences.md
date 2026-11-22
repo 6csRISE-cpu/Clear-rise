@@ -33,7 +33,7 @@ Subject: Your 5 texts are here (+ one thing to do today)
 >
 > — Unghosted
 >
-> P.S. HVAC or plumbing? Reply and tell me. I read every reply.
+> P.S. Reply and tell me your trade. I read every reply.
 
 **A2 · Day 2**
 Subject: The text that revives "dead" quotes
@@ -61,7 +61,7 @@ Subject: Why "just checking in" doesn't work
 >
 > The option is the magic one. When price is the silent objection, a smaller option lets people reply without admitting it.
 >
-> The Ghost-Proof Kit for HVAC & Plumbing has all five touches written out, plus plays for AC/furnace replacement, water heater and sewer quotes, phone scripts, The Texting Rules and a tracker, for $27: [Get the Kit]({{STARTER_URL}})
+> The Ghost-Proof Kit has all five touches written out, plus trade playbooks, phone scripts, The Texting Rules and a tracker, for $27: [Get the Kit]({{STARTER_URL}})
 
 **A4 · Day 6**
 Subject: Your best marketing is already in your invoices

@@ -3,7 +3,7 @@
 **Launch gate:** don't sell any paid product until a qualified attorney has reviewed *The Texting Rules* guide and the message-type labels on the templates. A "not legal advice" disclaimer doesn't replace accurate instructions. Our customers will act on them.
 
 ## What Unghosted is
-A digital product that gives small HVAC and plumbing businesses (and other home-service trades) templates for texts, emails and phone calls: missed-call replies, quote follow-ups, appointment messages, review requests, rebooking, referral and maintenance-plan offers. Buyers send these messages to their own customers (homeowners) from their own phones or business texting tools.
+A digital product that gives small home-service businesses (HVAC, plumbing, electrical, cleaning, lawn care, pest control and others) templates for texts, emails and phone calls: missed-call replies, quote follow-ups, appointment messages, review requests, rebooking, referral and maintenance-plan offers. Buyers send these messages to their own customers (homeowners) from their own phones or business texting tools.
 
 ## What we'd like reviewed (about 25 pages)
 1. `products/dist/pdf/00-texting-rules.pdf`: *The Texting Rules*, the 4-type framework (Reply / Service / Marketing / Automated marketing), consent language, opt-outs, quiet hours, records, email. **Priority 1.**

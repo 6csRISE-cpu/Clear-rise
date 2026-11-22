@@ -36,10 +36,16 @@ const home = pathToFileURL(join(site, 'index.html')).href;
 let pg = await ctx.newPage(); await pg.goto(home);
 const disabled = await pg.evaluate(() => [...document.querySelectorAll('[data-link]')].filter(a => ['starter','system','pro','club','free'].includes(a.dataset.link)).map(a => ({ l: a.dataset.link, href: a.getAttribute('href'), dis: a.getAttribute('aria-disabled') })));
 ok('buy buttons disabled while links are empty', disabled.length >= 5 && disabled.every(x => x.dis === 'true' && x.href === null), JSON.stringify(disabled));
-// Calculator defaults: 30 calls/wk, 20% missed, 40% book, $450 job, 15 quotes, $3,500
-const calc = await pg.evaluate(() => ({ risk: document.getElementById('r-risk').textContent, rec2: document.getElementById('r-rec2').textContent }));
-const exp = Math.round(30 * 4.33 * 0.20 * 0.40 * 450); ok('calculator: revenue at risk', calc.risk === '$' + exp.toLocaleString('en-US'), `${calc.risk} vs $${exp}`);
-ok('calculator: quote follow-up recovery', calc.rec2 === '$' + Math.round(15 * 0.05 * 3500).toLocaleString('en-US'), calc.rec2);
+// Calculator: recompute from the page's own slider values and compare with what it displays
+const calc = await pg.evaluate(() => {
+  const v = id => +document.getElementById(id).value;
+  return { calls: v('calls'), missed: v('missed'), book: v('book'), job: v('job'), quotes: v('quotes'), quote: v('quote'),
+           risk: document.getElementById('r-risk').textContent, rec2: document.getElementById('r-rec2').textContent };
+});
+const money = n => '$' + Math.round(n).toLocaleString('en-US');
+const exp = calc.calls * 4.33 * calc.missed / 100 * calc.book / 100 * calc.job;
+ok('calculator: revenue at risk', calc.risk === money(exp), `${calc.risk} vs ${money(exp)}`);
+ok('calculator: quote follow-up recovery', calc.rec2 === money(calc.quotes * 0.05 * calc.quote), calc.rec2);
 await pg.close();
 
 // Buy buttons: wired when config links are filled (simulate a filled config)

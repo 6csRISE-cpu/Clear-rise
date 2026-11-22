@@ -1,5 +1,5 @@
 {
- "ran": "2026-11-22T23:34:18.871Z",
+ "ran": "2026-11-22T23:44:43.467Z",
  "total": 248,
  "failed": 0,
  "results": [
@@ -736,7 +736,7 @@
   {
    "name": "index.html: has title",
    "pass": true,
-   "detail": "Unghosted: Follow-Up Texts & Scripts for HVAC & Plumbing | Stop Losing Jobs"
+   "detail": "Unghosted: Follow-Up Texts & Scripts for Home-Service Businesses | Stop Losing Jobs"
   },
   {
    "name": "index.html: no old brand",
@@ -1216,22 +1216,22 @@
   {
    "name": "buy buttons disabled while links are empty",
    "pass": true,
-   "detail": "[{\"l\":\"free\",\"href\":null,\"dis\":\"true\"},{\"l\":\"starter\",\"href\":null,\"dis\":\"true\"},{\"l\":\"system\",\"href\":null,\"dis\":\"true\"},{\"l\":\"pro\",\"href\":null,\"dis\":\"true\"},{\"l\":\"club\",\"href\":null,\"dis\":\"true\"},{\"l\":\"free\",\"href\":null,\"dis\":\"true\"}]"
+   "detail": "[{\"l\":\"free\",\"href\":null,\"dis\":\"true\"},{\"l\":\"starter\",\"href\":null,\"dis\":\"true\"},{\"l\":\"system\",\"href\":null,\"dis\":\"true\"},{\"l\":\"pro\",\"href\":null,\"dis\":\"true\"},{\"l\":\"free\",\"href\":null,\"dis\":\"true\"}]"
   },
   {
    "name": "calculator: revenue at risk",
    "pass": true,
-   "detail": "$4,676 vs $4676"
+   "detail": "$3,637 vs $3,637"
   },
   {
    "name": "calculator: quote follow-up recovery",
    "pass": true,
-   "detail": "$2,625"
+   "detail": "$1,500"
   },
   {
    "name": "buy buttons wire to Payhip links once configured",
    "pass": true,
-   "detail": "[{\"l\":\"free\",\"href\":\"https://payhip.com/b/TEST-free\"},{\"l\":\"starter\",\"href\":\"https://payhip.com/b/TEST-starter\"},{\"l\":\"system\",\"href\":\"https://payhip.com/b/TEST-system\"},{\"l\":\"pro\",\"href\":\"https://payhip.com/b/TEST-pro\"},{\"l\":\"club\",\"href\":\"https://payhip.com/b/TEST-club\"},{\"l\":\"free\",\"href\":\"https://payhip.com/b/TEST-free\"}]"
+   "detail": "[{\"l\":\"free\",\"href\":\"https://payhip.com/b/TEST-free\"},{\"l\":\"starter\",\"href\":\"https://payhip.com/b/TEST-starter\"},{\"l\":\"system\",\"href\":\"https://payhip.com/b/TEST-system\"},{\"l\":\"pro\",\"href\":\"https://payhip.com/b/TEST-pro\"},{\"l\":\"free\",\"href\":\"https://payhip.com/b/TEST-free\"}]"
   },
   {
    "name": "support page: contact links go to the live support form",

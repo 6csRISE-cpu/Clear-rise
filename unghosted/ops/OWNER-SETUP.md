@@ -10,10 +10,11 @@ When you finish a step, paste the link or ID it produces into a message to Claud
 
 ## Step 1 — Domain & hosting
 
-**Right now (free, done for you):** the site is live at **https://unghostedhq.vercel.app**, deployed from this repo (`unghosted.vercel.app` was already taken by someone else). No action needed to look at it or share it.
+**Right now (free preview, not for selling):** the site is live at **https://unghostedhq.vercel.app**, deployed from this repo (`unghosted.vercel.app` was already taken by someone else). No action needed to look at it or share it.
 
-**Before you take real payments (pick one, ~15 min):**
-- **Option A, free forever:** create a free **Cloudflare** account → Workers & Pages → Create → Pages → Connect to Git → repo `Clear-rise`, branch `claude/autonomous-digital-business-qdjpdr`, build command *none*, output directory `unghosted/site`. You get a free `unghosted.pages.dev` address that allows commercial use. *(Vercel's free Hobby plan is for non-commercial use, so it's fine for a preview but not for selling.)*
+**Before you take real payments (pick one; verify the provider's current terms yourself):**
+- **Option A, Vercel Pro (~$20/mo):** upgrade the existing `unghosted` project. Its terms clearly cover commercial use, and nothing needs to move.
+- **Option B, Cloudflare Pages:** read Cloudflare's current self-serve terms first (the Free plan is described as "for personal or hobby projects"; no explicit commercial ban found). Then create an account in **your** name → Workers & Pages → Create → Pages → Connect to Git → repo `Clear-rise`, branch `claude/autonomous-digital-business-qdjpdr`, build command *none*, output directory `unghosted/site`. You get a free `unghosted.pages.dev` address that allows commercial use. *(Vercel's free Hobby plan is for non-commercial use, so it's fine for a preview but not for selling.)*
 - **Option B, when you're ready to pay ~$12/yr:** buy **`unghostedhq.com`** (available Nov 22, 2026; backups: `unghostedkit.com`, `unghosted.club`) in Cloudflare → Domain Registration, attach it to the Pages project, then turn on **Email Routing** for `support@unghostedhq.com` → your inbox. Tell Claude, and every link switches over in one commit.
 - In Cloudflare → **Web Analytics**, add the site and send Claude the token (free analytics).
 

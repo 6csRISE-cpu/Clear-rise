@@ -1,6 +1,6 @@
 # Partner Kit: the primary acquisition channel
 
-**Why partners first:** SEO can take 6–12 months to produce meaningful traffic. Partners already have the trust and attention of HVAC and plumbing owners *today*. One good bookkeeper or consultant with 40 contractor clients can be worth more than a year of blog posts.
+**Why partners first:** SEO can take 6–12 months to produce meaningful traffic. Partners already have the trust and attention of home-service business owners *today*. One good bookkeeper or consultant with 40 contractor clients can be worth more than a year of blog posts.
 
 **Goal for the first 60 days:** 60 partner contacts → 8–12 conversations → **4–6 active partners** → first 10–25 sales. *These are planning targets, not predictions.*
 
@@ -8,11 +8,11 @@
 
 ## The four partner types
 
-### 1. Independent HVAC and plumbing consultants and coaches
+### 1. Independent home-service business consultants and coaches
 - **Who:** people who coach shop owners on pricing, sales, hiring and operations (solo coaches, small consulting firms, "business coach for HVAC" creators).
 - **Why they care:** they constantly tell clients to follow up. Unghosted is the "here's exactly what to send" tool that makes their advice stick.
 - **Offer:** 30% referral, plus a free copy. Big coaches might want the Partner License for group programs.
-- **Where to find them:** LinkedIn search "HVAC business coach", "plumbing business consultant", "home service business coach"; YouTube/podcast hosts in the trades; speakers at trade association events; authors of HVAC/plumbing business books.
+- **Where to find them:** LinkedIn search "home service business coach", "HVAC business coach", "plumbing business consultant", "cleaning business coach", "lawn care business coach", "contractor coach"; YouTube/podcast hosts in the trades; speakers at trade association events; authors of trades business books.
 
 ### 2. Bookkeepers and accountants who serve contractors
 - **Who:** bookkeeping firms with a construction/contractor niche, QuickBooks ProAdvisors who list construction or field services as a specialty.
@@ -22,16 +22,16 @@
 - **Note:** many accountants have professional rules about referral fees. Some will prefer to recommend it without a commission. That's fine too.
 
 ### 3. Small-business marketing agencies (home-service focus)
-- **Who:** agencies that run Google Ads, local SEO or websites for HVAC/plumbing shops.
+- **Who:** agencies that run Google Ads, local SEO or websites for home-service businesses.
 - **Why they care:** their leads die in follow-up, and the client blames the agency. Unghosted protects their results.
 - **Offer:** **Partner License ($297)** to implement for up to 10 clients, or 30% referral.
-- **Where to find them:** LinkedIn "HVAC marketing agency", "plumbing marketing agency"; Google "marketing for plumbers"; agency partner directories of field-service software.
+- **Where to find them:** LinkedIn "home service marketing agency", "HVAC marketing agency", "marketing for cleaning businesses", "lawn care marketing"; Google "marketing for contractors"; agency partner directories of field-service software.
 
 ### 4. Virtual assistants and CSR/answering services for home-service businesses
 - **Who:** VAs who handle scheduling, follow-up and phones for contractors; remote CSR services.
 - **Why they care:** ready-made scripts and sequences make them faster and more valuable to clients.
 - **Offer:** **Partner License ($297)**. They implement it as billable work. Or 30% referral.
-- **Where to find them:** LinkedIn "virtual assistant for HVAC", "contractor virtual assistant"; OnlineJobs/Upwork agency profiles mentioning Jobber/Housecall Pro/ServiceTitan; field-service software certified-pro directories.
+- **Where to find them:** LinkedIn "virtual assistant for home service businesses", "contractor virtual assistant"; OnlineJobs/Upwork agency profiles mentioning Jobber/Housecall Pro/ServiceTitan; field-service software certified-pro directories.
 
 ---
 
@@ -40,12 +40,12 @@
 **Rules:** email or LinkedIn message only, **never cold text.** One personal first line. Max 2 follow-ups. Stop at "no." Disclose the commission up front.
 
 ### Email 1: consultants and coaches
-**Subject:** a follow-up tool for your HVAC/plumbing clients
+**Subject:** a follow-up tool for your home-service clients
 > Hi {Name},
 >
 > {One genuine line about their content or work.}
 >
-> I run Unghosted: plain-English follow-up texts, emails and scripts for HVAC and plumbing shops (missed calls, replacement quotes, water heater jobs). It's the "here's exactly what to send" piece that makes follow-up advice stick. Every template is labeled with the consent it needs, so clients don't get themselves in trouble.
+> I run Unghosted: plain-English follow-up texts, emails and scripts for home-service businesses (missed calls, quotes, rebooking, reviews). It's the "here's exactly what to send" piece that makes follow-up advice stick. Every template is labeled with the consent it needs, so clients don't get themselves in trouble.
 >
 > If you'd like to share it with clients, partners earn 30% on sales through their link. I'd rather you see it first, so I'm happy to send you the full System free, no strings.
 >
@@ -59,19 +59,19 @@
 >
 > {One genuine line, e.g. "I saw you specialize in bookkeeping for trades businesses."}
 >
-> You probably see it in the books: HVAC and plumbing clients with lumpy revenue, partly from missed calls and quotes that never get followed up. Unghosted is a $27 kit of ready-to-send follow-up texts and scripts that fixes that, set up in about 15 minutes.
+> You probably see it in the books: home-service clients with lumpy revenue, partly from missed calls and quotes that never get followed up. Unghosted is a $27 kit of ready-to-send follow-up texts and scripts that fixes that, set up in about 15 minutes.
 >
 > If it'd be useful for your clients, I'm glad to send you a free copy to review. We do have a 30% referral program, but plenty of advisors simply recommend it without one. Whatever fits your practice.
 >
 > {Your name}, Unghosted
 
 ### Email 1: marketing agencies
-**Subject:** your HVAC leads vs. their follow-up
+**Subject:** your clients' leads vs. their follow-up
 > Hi {Name},
 >
 > {One genuine line about their agency or a client result they published.}
 >
-> Agencies tell us the same thing: the leads come in, and then the shop doesn't call back, doesn't chase the quote, and blames the ads. Unghosted gives HVAC and plumbing shops the follow-up texts, emails and scripts to close those leads, with every template labeled by the consent it needs.
+> Agencies tell us the same thing: the leads come in, and then the shop doesn't call back, doesn't chase the quote, and blames the ads. Unghosted gives home-service businesses the follow-up texts, emails and scripts to close those leads, with every template labeled by the consent it needs.
 >
 > We offer a **Partner License** ($297, up to 10 clients) so you can implement it under your brand, or a 30% referral if you'd rather point clients to it. Happy to send you the full System free to look at first.
 >
@@ -83,7 +83,7 @@
 >
 > {One genuine line.}
 >
-> If you handle phones or follow-up for HVAC or plumbing shops, Unghosted might save you a lot of writing: missed-call texts, quote follow-up sequences, cancellation saves, a CSR call flow and price-shopper scripts, all labeled by the texting consent each one needs.
+> If you handle phones or follow-up for home-service businesses, Unghosted might save you a lot of writing: missed-call texts, quote follow-up sequences, cancellation saves, a CSR call flow and price-shopper scripts, all labeled by the texting consent each one needs.
 >
 > The **Partner License** ($297) lets you use it with up to 10 clients as part of your service. Want me to send you a free copy to try first?
 >
@@ -96,7 +96,7 @@
 > Hi {Name}, I'll leave it here so I'm not cluttering your inbox. If follow-up ever comes up with your clients, the offer of a free copy stands. Thanks! — {Your name}
 
 ### LinkedIn connection note (under 300 characters)
-> Hi {Name}, I make follow-up texts & scripts for HVAC/plumbing shops (missed calls, quotes). Thought it might be useful for your clients. Happy to send a free copy, no pitch. — {Your name}
+> Hi {Name}, I make follow-up texts & scripts for home-service businesses (missed calls, quotes). Thought it might be useful for your clients. Happy to send a free copy, no pitch. — {Your name}
 
 ---
 

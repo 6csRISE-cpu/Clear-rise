@@ -34,7 +34,7 @@ A = [
     ("refund_rate", .06, .05, .04, "%", "Share of revenue refunded"),
     ("affiliate_share", .30, .40, .50, "%", "Share of sales via partners/affiliates (partner-led launch)"),
     ("affiliate_rate", .30, .30, .30, "%", "Commission"),
-    ("fixed_monthly", 2, 12, 25, "$", "Domain ($1) + email tool once list grows + misc"),
+    ("fixed_monthly", 1, 21, 51, "$", "Domain ($1) + hosting with clear commercial terms (~$20 if paid) + email tool tier ($0–$30)"),
 ]
 
 

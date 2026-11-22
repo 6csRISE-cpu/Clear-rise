@@ -21,16 +21,15 @@ For HVAC, plumbing, electrical, cleaning, lawn care, pest control and more.
 
 ---
 
-## Ghost-Proof Kit for HVAC & Plumbing ($27) · THE FRONT DOOR
+## Ghost-Proof Kit ($27) · easy first purchase
 **Tagline:** Stop losing jobs because you didn't follow up.
 
 **Description:**
-A ready-to-use follow-up kit built for HVAC and plumbing shops.
+A ready-to-use follow-up kit for home-service businesses.
 
 **What's inside**
-- 7 missed-call text-back templates, plus no-heat, no-AC and active-leak emergency versions
-- Plays for the quotes that go quiet most: AC/furnace replacement, water heater, sewer/repipe, postponed repairs
-- Honest replies to the objections HVAC and plumbing shops hear every week
+- 7 missed-call text-back templates (business hours, after hours, weekend, emergency, booking link, second and final touch)
+- Trade playbooks: tuned texts, the quotes that stall, and honest objection replies for HVAC, plumbing, electrical, cleaning, lawn care and pest control
 - A voicemail greeting script that tells callers to expect your text
 - The 5-touch, 21-day quote follow-up sequence (text + email), plus a big-ticket version
 - Phone scripts and replies to "too expensive" and "we went with someone else"
@@ -45,7 +44,7 @@ Upgrade within 30 days and your $27 comes off the full System.
 
 ---
 
-## Unghosted System ($67) · MOST POPULAR
+## Unghosted System ($67) · MOST POPULAR (the primary product)
 **Tagline:** Turn the customers you already have into steady, repeat revenue.
 
 **Description:**
@@ -101,6 +100,6 @@ Works with or without the other Unghosted products. Cancel anytime; you keep eve
 **Tagline:** Implement Unghosted for your clients.
 
 **Description:**
-For agencies, consultants and virtual assistants who set up follow-up systems for HVAC and plumbing shops. Includes everything in the Pro Bundle, licensed for use with up to 10 client businesses you actively serve. Adapt the templates and load them into your clients' tools under your brand. Not for resale or redistribution of the files. Full terms: unghostedhq.vercel.app/legal/affiliates.html
+For agencies, consultants and virtual assistants who set up follow-up systems for home-service businesses. Includes everything in the Pro Bundle, licensed for use with up to 10 client businesses you actively serve. Adapt the templates and load them into your clients' tools under your brand. Not for resale or redistribution of the files. Full terms: unghostedhq.vercel.app/legal/affiliates.html
 
 **File:** `Unghosted-Partner-License.zip`

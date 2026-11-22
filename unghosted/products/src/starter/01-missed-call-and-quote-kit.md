@@ -6,7 +6,7 @@ product: Ghost-Proof Kit
 
 # Start here (15 minutes)
 
-You don't need more leads before you've followed up on the ones you already have. A good share of the calls an HVAC or plumbing shop gets go unanswered, usually because you're on a roof, in a crawlspace or under a sink. Industry call-tracking studies put it somewhere between 1 in 7 and 1 in 4. And most homeowners who get a quote and don't hear back simply hire whoever followed up first.
+You don't need more leads before you've followed up on the ones you already have. A good share of the calls a home-service business gets go unanswered, usually because you're on a roof, in a crawlspace, under a sink or with a customer. Industry call-tracking studies put it somewhere between 1 in 7 and 1 in 4. And most homeowners who get a quote and don't hear back simply hire whoever followed up first.
 
 This kit fixes two leaks:
 
@@ -145,11 +145,13 @@ Big jobs take longer to decide on. Add these two touches and stretch the schedul
 
 ---
 
-# Part 3 — The HVAC & Plumbing Playbook
+# Part 3 — Trade Playbooks
 
-The templates above work as written. This part tunes them to the jobs and hesitations that HVAC and plumbing shops see every week.
+The templates above work as written for any home-service business. This part tunes them to the jobs and hesitations each trade sees every week. Find your trade, and skip the rest.
 
-## Missed calls: emergency versions
+## HVAC & Plumbing
+
+### Missed calls: emergency versions
 
 **Message type → 1 · Reply**
 
@@ -161,7 +163,7 @@ The templates above work as written. This part tunes them to the jobs and hesita
 
 *Safety first: for a gas smell, the message should always say "leave the house and call your gas company" before anything else.*
 
-## The four quotes that go quiet most often
+### The four quotes that go quiet most often
 
 **Message type → 2 · Service** (follow-ups on a quote they requested; get their OK to text when you quote)
 
@@ -189,7 +191,7 @@ The templates above work as written. This part tunes them to the jobs and hesita
 ### Sewer / repipe: plain-English explainer (Type 2 · Service)
 > Hi {First}, quick recap of what we found: {one-sentence problem in plain words}. The full fix is ${full}. If it's easier, we can do it in two phases: {phase 1} now for ${p1}, and {phase 2} later. Happy to walk you through it on the phone.
 
-## Honest replies to the objections you hear most
+### Honest replies to the objections you hear most
 
 | They say | You reply |
 |---|---|
@@ -199,10 +201,70 @@ The templates above work as written. This part tunes them to the jobs and hesita
 | "I need to think about it." | "Of course, it's a big decision. Want me to send the repair-vs-replace numbers so you can compare them side by side?" |
 | "That's a lot for an hour." | "I get it. You're paying for the truck being stocked with the right parts, the license and the guarantee as well as the hour. If it's not fixed, you don't pay twice." |
 
-## Timing that's honest *and* effective
+### Timing that's honest *and* effective
 - **HVAC:** replacement quotes made in shoulder seasons (spring, fall) can wait; summer and winter breakdowns can't. Match urgency to the season, and never invent it.
 - **Plumbing:** most plumbing quotes are decided within days. Front-load your follow-up (Day 0, 1, 3), then slow down.
 - **Both:** "the schedule is filling" only when it truly is.
+
+## Electrical
+
+**Message type → 1 · Reply**
+
+**Missed call (safety first)**
+> This is {You} with {Business}, sorry I missed you. If you see sparks, smell burning or have a panel that's hot to the touch, turn off the main breaker if it's safe and call 911 if there's fire. Otherwise reply with what's going on and I'll get right back to you.
+
+**Message type → 2 · Service**
+
+**The quote that stalls:** panel upgrades, EV chargers, generators. They're big, unfamiliar purchases.
+> Hi {First}, quick recap of your {job} quote: the price includes the permit and inspection, so the work is on record for your insurance and when you sell. Want me to walk you through it on a 5-minute call?
+
+**Objection: "My brother-in-law can do it."** → "Totally understand. Just know unpermitted work can cause trouble with insurance claims and home sales. If you go that way, I'm happy to inspect it after."
+
+## House Cleaning
+
+**Message type → 1 · Reply**
+
+**Missed call**
+> Hi! This is {You} from {Business}. Sorry I missed your call. I'm with a client right now. Are you looking for a one-time clean or regular service? Reply with your zip and roughly how many bedrooms and bathrooms, and I'll send you a quote today.
+
+**Message type → 2 · Service**
+
+**The quote that stalls:** first-time deep cleans. They're worried about price and about strangers in the house.
+> Hi {First}, {You} from {Business}. Your quote includes all supplies, the same team each visit, and our re-clean guarantee: if anything's missed, we come back within 24 hours. Happy to answer any questions, or you're welcome to be home for the first clean.
+
+**Objection: "Another service is cheaper."** → "They might be! Worth asking whether they bring supplies, are insured, and come back if something's missed. If they do, great. If not, that's what the difference covers."
+
+## Lawn Care & Landscaping
+
+**Message type → 1 · Reply**
+
+**Missed call**
+> Hi, this is {You} with {Business}, sorry I missed your call. I'm probably behind a mower! Reply with your address or zip and what you need (mowing, cleanup, landscaping) and I'll send you a quote.
+
+**Message type → 2 · Service**
+
+**The quote that stalls:** full-season agreements and landscaping projects.
+> Hi {First}, {You} again. To compare quotes easily: ours is the full-season price, with weekly visits, edging and cleanup every time, and we skip (and don't charge for) weeks when the grass isn't growing. Any questions, just reply.
+
+**Objection: "The kid down the street does it for $30."** → "He might do a great job! What you get with us is insurance, reliable weekly timing and cleanup every visit. If that matters, we're a good fit."
+
+## Pest Control
+
+**Message type → 1 · Reply**
+
+**Missed call**
+> Hi, {You} from {Business}. Sorry I missed your call! What are you seeing (ants, rodents, termites, bed bugs, something else)? Reply with a quick description and your zip and I'll get back to you today.
+
+**Message type → 2 · Service**
+
+**The quote that stalls:** quarterly plans after a one-time treatment.
+> Hi {First}, {You} from {Business}. Your quote is for a full treatment with a follow-up visit included. If they come back between treatments, so do we, at no charge. Want me to get you scheduled?
+
+**Objection: "I'll buy spray at the hardware store."** → "That can work for a few ants! Store sprays usually kill what you see but don't reach the colony, so they come back. If yours do, give me a text."
+
+## Every other trade
+
+Roofing, garage doors, pools, windows, gutters, handyman and others: use the general templates in Parts 1 and 2, and borrow the play closest to your work. Big-ticket jobs follow the HVAC replacement play; same-day jobs follow the water heater play; recurring services follow the cleaning or pest play.
 
 # Part 4 — Phone Scripts
 

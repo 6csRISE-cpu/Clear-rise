@@ -19,7 +19,7 @@
 | ID | Journey step | How to test | Expected result | Pass/Fail | Evidence |
 |---|---|---|---|---|---|
 | **A1** | Free guide captures email | In a private browser window, click "Free guide" on the site → complete the $0 Payhip checkout with test inbox 1 | Payhip shows the download; receipt email arrives; customer appears in Payhip → Customers | | |
-| A2 | Free guide downloads the right file | Open the download | `Unghosted-5-Texts-Free-Guide.pdf`, HVAC & Plumbing edition, 4 pages | | |
+| A2 | Free guide downloads the right file | Open the download | `Unghosted-5-Texts-Free-Guide.pdf`, 4 pages | | |
 | **A3** | Subscriber reaches MailerLite | MailerLite → Subscribers | Test inbox 1 is in group `free-guide` within 5 min | | |
 | **A4** | Nurture sequence starts | Wait for A1 email | "Your 5 texts are here" arrives within 5 min; links work; unsubscribe link present; mailing address in footer | | |
 | A5 | Sequence timing | Check MailerLite automation activity at day 2 (or temporarily set delays to minutes on a copy) | A2 sends after the configured delay; no duplicates | | |

@@ -1,16 +1,16 @@
 ---
 title: Partner With Unghosted
-description: For consultants, bookkeepers, agencies and virtual assistants who serve HVAC and plumbing shops. Earn 30% or implement Unghosted for your clients.
+description: For consultants, bookkeepers, agencies and virtual assistants who serve home-service businesses. Earn 30% or implement Unghosted for your clients.
 slug: partners
 ---
 <span class="kicker">Partners</span>
 
 # Your clients are losing jobs to bad follow-up. You can fix that.
 
-You already work with HVAC and plumbing shops. You see the missed calls, the quotes nobody chased and the slow months. Unghosted gives them ready-to-send follow-up texts, emails and scripts, so recommending it makes you look good and costs you nothing.
+You already work with home-service businesses: HVAC, plumbing, electrical, cleaning, lawn care, pest control, roofing and more. You see the missed calls, the quotes nobody chased and the slow months. Unghosted gives them ready-to-send follow-up texts, emails and scripts, so recommending it makes you look good and costs you nothing.
 
 ## Who this is for
-- **HVAC and plumbing business consultants and coaches:** a practical tool your clients can implement this week.
+- **Home-service business consultants and coaches:** a practical tool your clients can implement this week.
 - **Bookkeepers and accountants who serve contractors:** you see the revenue gaps first. This helps close them.
 - **Small-business marketing agencies:** a follow-up layer that makes your lead generation convert better.
 - **Virtual assistants and CSR services:** ready-made scripts and sequences you can run for your clients.
@@ -26,7 +26,7 @@ You already work with HVAC and plumbing shops. You see the missed calls, the quo
 
 **Every partner gets:**
 - A **free review copy** of the full Unghosted System, so you can judge it yourself first
-- A **monthly Partner Drop:** a ready-to-forward client email and social post, timed to the HVAC/plumbing season, with your link and a disclosure line already in place
+- A **monthly Partner Drop:** a ready-to-forward client email and social post, timed to the season, with your link and a disclosure line already in place
 - A one-page summary you can hand to clients
 
 ## The rules (short version)

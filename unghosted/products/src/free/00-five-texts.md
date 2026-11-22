@@ -1,13 +1,13 @@
 ---
 title: 5 Texts That Win Back Missed Calls
-subtitle: HVAC & Plumbing edition. Free from Unghosted
+subtitle: Free from Unghosted, for home-service businesses
 compact: true
 product: Unghosted Free Guide
 ---
 
 # Why this matters
 
-Call-tracking studies of home-service businesses find that somewhere between **1 in 7 and 1 in 4 calls go unanswered**. For HVAC and plumbing, a missed call is often someone with no heat, no AC or water on the floor, and they don't leave a voicemail. They call the next company on the list.
+Call-tracking studies of home-service businesses find that somewhere between **1 in 7 and 1 in 4 calls go unanswered**. Often it's someone with an urgent problem (no heat, a leak, a pest emergency, a move-out clean due tomorrow), and they don't leave a voicemail. They call the next company on the list.
 
 You can't answer every call when you're under a sink or on a roof. But you *can* reply within 5 minutes with a text. That one habit wins back jobs you'd otherwise never know you lost.
 
@@ -20,8 +20,10 @@ Here are the five texts. Replace `{Business}`, `{You}` and `{First}` with your d
 
 **Why it works:** it's personal, it explains *why* you missed them, and it asks a question, so it's easy to reply to.
 
-# Text 2 — After hours (HVAC & plumbing)
-> Hi, it's {You} at {Business}. I saw your call. If you have no heat, no AC, or water leaking right now, reply URGENT and I'll call you back. For a gas smell, leave the house and call your gas company first. Otherwise reply with what you need and I'll call first thing in the morning.
+# Text 2 — After hours
+> Hi, it's {You} at {Business}. We're closed for the night, but I saw your call. Reply with what you need and the best time to reach you, and I'll call first thing in the morning. If it's an emergency, reply URGENT.
+
+*Emergency trades (HVAC, plumbing, electrical): add one safety line, e.g. "For a gas smell, leave the house and call your gas company first."*
 
 # Text 3 — The second touch (2–3 hours later, no reply)
 > Just checking you got sorted, {First}. Still happy to help with that if you need it. I have an opening {tomorrow morning / Thursday afternoon}.
@@ -49,6 +51,6 @@ Three touches, then stop.
 
 # Want the whole system?
 
-These five texts plug the first leak. The **Ghost-Proof Kit for HVAC & Plumbing** ($27) adds the full quote follow-up sequence, the four quotes that go quiet most often (AC/furnace, water heater, sewer/repipe, postponed repairs), honest objection replies, phone scripts, *The Texting Rules* and a tracker. The **Unghosted System** adds rebooking, cancellation recovery, reviews, referrals and maintenance plans.
+These five texts plug the first leak. The **Ghost-Proof Kit** ($27) adds the full quote follow-up sequence, trade playbooks for HVAC, plumbing, electrical, cleaning, lawn and pest, honest objection replies, phone scripts, *The Texting Rules* and a tracker. The **Unghosted System** ($67) adds rebooking, cancellation recovery, reviews, referrals and maintenance plans. The **Unghosted System** adds rebooking, cancellation recovery, reviews, referrals and maintenance plans.
 
 → See everything at **unghostedhq.vercel.app** *(you'll also get one useful email a week. Unsubscribe any time.)*

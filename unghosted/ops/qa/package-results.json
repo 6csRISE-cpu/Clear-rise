@@ -1,5 +1,5 @@
 {
- "ran": "2026-11-22T23:33:57.663786+00:00",
+ "ran": "2026-11-22T23:44:45.392743+00:00",
  "total": 63,
  "failed": 0,
  "results": [
@@ -24,7 +24,7 @@
    "detail": ""
   },
   {
-   "name": "Unghosted-Ghost-Proof-Kit.zip/01-missed-call-and-quote-kit.pdf: PDF renders (pages=13)",
+   "name": "Unghosted-Ghost-Proof-Kit.zip/01-missed-call-and-quote-kit.pdf: PDF renders (pages=15)",
    "pass": true,
    "detail": ""
   },
@@ -39,7 +39,7 @@
    "detail": ""
   },
   {
-   "name": "Unghosted-Ghost-Proof-Kit.zip/Templates-Import-Starter.csv: 24 templates, all typed",
+   "name": "Unghosted-Ghost-Proof-Kit.zip/Templates-Import-Starter.csv: 32 templates, all typed",
    "pass": true,
    "detail": ""
   },
@@ -64,7 +64,7 @@
    "detail": ""
   },
   {
-   "name": "Unghosted-System.zip/01-missed-call-and-quote-kit.pdf: PDF renders (pages=13)",
+   "name": "Unghosted-System.zip/01-missed-call-and-quote-kit.pdf: PDF renders (pages=15)",
    "pass": true,
    "detail": ""
   },
@@ -89,7 +89,7 @@
    "detail": ""
   },
   {
-   "name": "Unghosted-System.zip/Templates-Import-System.csv: 47 templates, all typed",
+   "name": "Unghosted-System.zip/Templates-Import-System.csv: 55 templates, all typed",
    "pass": true,
    "detail": ""
   },
@@ -114,7 +114,7 @@
    "detail": ""
   },
   {
-   "name": "Unghosted-Pro-Bundle.zip/01-missed-call-and-quote-kit.pdf: PDF renders (pages=13)",
+   "name": "Unghosted-Pro-Bundle.zip/01-missed-call-and-quote-kit.pdf: PDF renders (pages=15)",
    "pass": true,
    "detail": ""
   },
@@ -159,7 +159,7 @@
    "detail": ""
   },
   {
-   "name": "Unghosted-Pro-Bundle.zip/Templates-Import-Pro.csv: 84 templates, all typed",
+   "name": "Unghosted-Pro-Bundle.zip/Templates-Import-Pro.csv: 92 templates, all typed",
    "pass": true,
    "detail": ""
   },
@@ -194,7 +194,7 @@
    "detail": ""
   },
   {
-   "name": "Unghosted-Partner-License.zip/01-missed-call-and-quote-kit.pdf: PDF renders (pages=13)",
+   "name": "Unghosted-Partner-License.zip/01-missed-call-and-quote-kit.pdf: PDF renders (pages=15)",
    "pass": true,
    "detail": ""
   },
@@ -239,7 +239,7 @@
    "detail": ""
   },
   {
-   "name": "Unghosted-Partner-License.zip/Templates-Import-Pro.csv: 84 templates, all typed",
+   "name": "Unghosted-Partner-License.zip/Templates-Import-Pro.csv: 92 templates, all typed",
    "pass": true,
    "detail": ""
   },

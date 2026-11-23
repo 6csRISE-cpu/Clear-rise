@@ -11,7 +11,7 @@ window.UNGHOSTED = {
     starter: "https://payhip.com/b/6D8Lo",  // Payhip product: Ghost-Proof Kit, $27 (added Nov 23, 2026)
     system:  "https://payhip.com/b/Sj7qd",  // Payhip product: Unghosted System, $67 (added Nov 23, 2026)
     pro:     "https://payhip.com/b/7Dl5m",  // Payhip product: Pro Bundle, $127 (added Nov 23, 2026)
-    club:    "",  // Payhip membership: Ghost Club, $19/mo
+    club:    "https://payhip.com/Unghostme/b-account/membership/Joq5n",  // Payhip membership: Ghost Club (added Nov 23, 2026). VERIFY: may be the member-area URL, not the public join page
     clubYear:"",  // Payhip membership: Ghost Club annual, $159/yr
     support: "https://tally.so/r/db9DvD",  // Tally support form (live)
     affiliates: "", // Payhip affiliate sign-up link (sent to approved partners)

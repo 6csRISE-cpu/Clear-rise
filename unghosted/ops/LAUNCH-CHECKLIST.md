@@ -34,7 +34,7 @@
 | 6. Payment confirmation | 🔴 | Test B1 |
 | 7. Product delivery | 🟡 Files verified, delivery not | Every ZIP has exactly the right files: 63/63 package checks. Payhip delivery is untested (B2, D1) |
 | 8. Upgrade offer | 🔴 | Coupons UPGRADE27/PRO67 and upsells are designed, not created (C1–C4) |
-| 9. Subscription purchase | 🔴 | Ghost Club product not created (E1); renewal needs a real billing cycle (E2) |
+| 9. Subscription purchase | 🟡 Membership created, link unconfirmed | Ghost Club: https://payhip.com/Unghostme/b-account/membership/Joq5n (owner, Nov 23, 2026). The URL looks like the member-account area. Confirm it shows a public join page in a private window (E1). Renewal needs a real billing cycle (E2) |
 | 10. Cancellation & refund | 🔴 | Tests B5, E3 |
 | Support | ✅ Form published · 🟡 response flow | Support form published via the Tally API (https://tally.so/r/db9DvD). Owner notification + reply not yet tested (H1–H3) |
 | Partner intake | ✅ Form published · 🟡 flow | https://tally.so/r/KpVJZX published; intake → review copy not tested (I1) |

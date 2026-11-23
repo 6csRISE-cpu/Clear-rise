@@ -37,11 +37,15 @@ const cfgText = readFileSync(join(site, 'config.js'), 'utf8');
 const cfgLinks = Object.fromEntries([...cfgText.matchAll(/^\s*(\w+):\s*"([^"]*)"/gm)].map(m => [m[1], m[2]]));
 let pg = await ctx.newPage(); await pg.goto(home);
 const btns = await pg.evaluate(() => [...document.querySelectorAll('[data-link]')].map(a => ({ l: a.dataset.link, href: a.getAttribute('href'), dis: a.getAttribute('aria-disabled') })));
+const sellingOn = /sellingEnabled:\s*true/.test(cfgText);
+console.log(`selling switch: sellingEnabled=${sellingOn}`);
 for (const k of ['free', 'starter', 'system', 'pro']) {
-  const mine = btns.filter(x => x.l === k); const url = cfgLinks[k] || '';
+  const mine = btns.filter(x => x.l === k);
+  const paid = k !== 'free';
+  const url = (paid && !sellingOn) ? '' : (cfgLinks[k] || '');
   ok(`button '${k}' present on homepage`, mine.length > 0);
   if (url) ok(`button '${k}' points at configured link ${url}`, mine.every(x => x.href === url && x.dis !== 'true'), JSON.stringify(mine));
-  else ok(`button '${k}' disabled while its link is empty`, mine.every(x => x.dis === 'true' && x.href === null), JSON.stringify(mine));
+  else ok(`button '${k}' disabled (link empty or selling off)`, mine.every(x => x.dis === 'true' && x.href === null), JSON.stringify(mine));
 }
 // Calculator: recompute from the page's own slider values and compare with what it displays
 const calc = await pg.evaluate(() => {
@@ -56,11 +60,11 @@ ok('calculator: quote follow-up recovery', calc.rec2 === money(calc.quotes * 0.0
 await pg.close();
 
 // Buy buttons: wired when config links are filled (simulate a filled config)
-const cfg = cfgText.replace(/(free|starter|system|pro|club):\s*"[^"]*",/g, (m, k) => `${k}: "https://payhip.com/b/TEST-${k}",`);
+const cfg = cfgText.replace(/sellingEnabled:\s*false/, 'sellingEnabled: true').replace(/(free|starter|system|pro|club):\s*"[^"]*",/g, (m, k) => `${k}: "https://payhip.com/b/TEST-${k}",`);
 pg = await ctx.newPage(); await pg.route('**/config.js', r => r.fulfill({ body: cfg, contentType: 'application/javascript' }));
 await pg.goto(home);
 const wired = await pg.evaluate(() => [...document.querySelectorAll('[data-link]')].filter(a => ['starter','system','pro','club','free'].includes(a.dataset.link)).map(a => ({ l: a.dataset.link, href: a.getAttribute('href') })));
-ok('buy buttons wire to Payhip links once configured', wired.every(x => x.href === `https://payhip.com/b/TEST-${x.l}`), JSON.stringify(wired));
+ok('with selling switched on, buy buttons wire to their Payhip links', wired.every(x => x.href === `https://payhip.com/b/TEST-${x.l}`), JSON.stringify(wired));
 await pg.close();
 
 pg = await ctx.newPage(); await pg.goto(pathToFileURL(join(site, 'support.html')).href);

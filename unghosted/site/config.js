@@ -3,9 +3,12 @@
  * Paste each link from Payhip after creating the product. Empty links show "Opening soon".
  */
 window.UNGHOSTED = {
+  // Paid buttons stay "Opening soon" until this is true. Turn on ONLY after hosting with clear
+  // commercial-use terms is in place (Vercel Hobby is non-commercial) and the E2E tests pass.
+  sellingEnabled: false,
   links: {
     free:    "https://payhip.com/b/9QTX8",  // Payhip $0 product: "5 Texts That Win Back Missed Calls" (added Nov 23, 2026)
-    starter: "",  // Payhip product: Starter Kit, $27
+    starter: "https://payhip.com/b/6D8Lo",  // Payhip product: Ghost-Proof Kit, $27 (added Nov 23, 2026)
     system:  "",  // Payhip product: Unghosted System, $67
     pro:     "",  // Payhip product: Pro Bundle, $127
     club:    "",  // Payhip membership: Ghost Club, $19/mo
@@ -26,8 +29,10 @@ window.UNGHOSTED = {
 (function () {
   const c = window.UNGHOSTED;
   document.addEventListener("DOMContentLoaded", function () {
+    const PAID = ["starter", "system", "pro", "club", "clubYear", "partnerLicense"];
     document.querySelectorAll("[data-link]").forEach(function (a) {
-      const url = c.links[a.dataset.link];
+      const key = a.dataset.link;
+      const url = (PAID.indexOf(key) > -1 && !c.sellingEnabled) ? "" : c.links[key];
       if (url) { a.href = url; }
       else { a.removeAttribute("href"); a.classList.add("soon"); a.setAttribute("aria-disabled", "true"); a.title = "Opening soon"; if (a.dataset.soon) a.textContent = a.dataset.soon; }
     });

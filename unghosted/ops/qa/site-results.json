@@ -1,5 +1,5 @@
 {
- "ran": "2026-11-23T18:10:03.544Z",
+ "ran": "2026-11-23T18:25:00.462Z",
  "total": 255,
  "failed": 0,
  "results": [
@@ -1229,7 +1229,7 @@
    "detail": ""
   },
   {
-   "name": "button 'starter' disabled while its link is empty",
+   "name": "button 'starter' disabled (link empty or selling off)",
    "pass": true,
    "detail": "[{\"l\":\"starter\",\"href\":null,\"dis\":\"true\"}]"
   },
@@ -1239,7 +1239,7 @@
    "detail": ""
   },
   {
-   "name": "button 'system' disabled while its link is empty",
+   "name": "button 'system' disabled (link empty or selling off)",
    "pass": true,
    "detail": "[{\"l\":\"system\",\"href\":null,\"dis\":\"true\"}]"
   },
@@ -1249,7 +1249,7 @@
    "detail": ""
   },
   {
-   "name": "button 'pro' disabled while its link is empty",
+   "name": "button 'pro' disabled (link empty or selling off)",
    "pass": true,
    "detail": "[{\"l\":\"pro\",\"href\":null,\"dis\":\"true\"}]"
   },
@@ -1264,7 +1264,7 @@
    "detail": "$1,500"
   },
   {
-   "name": "buy buttons wire to Payhip links once configured",
+   "name": "with selling switched on, buy buttons wire to their Payhip links",
    "pass": true,
    "detail": "[{\"l\":\"free\",\"href\":\"https://payhip.com/b/TEST-free\"},{\"l\":\"starter\",\"href\":\"https://payhip.com/b/TEST-starter\"},{\"l\":\"system\",\"href\":\"https://payhip.com/b/TEST-system\"},{\"l\":\"pro\",\"href\":\"https://payhip.com/b/TEST-pro\"},{\"l\":\"free\",\"href\":\"https://payhip.com/b/TEST-free\"}]"
   },

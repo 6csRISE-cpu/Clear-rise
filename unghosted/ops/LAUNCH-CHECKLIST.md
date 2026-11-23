@@ -27,7 +27,7 @@
 | Step | Status | Evidence / what's missing |
 |---|---|---|
 | 1. Website visit | ✅ Preview live | https://unghostedhq.vercel.app serves the site (HTTP 200 confirmed via Vercel on Nov 22). Automated: 248/248 site checks (`ops/qa/site-results.json`) |
-| 2. Free-guide download | 🔴 Not live | PDF built and checked (4 pages, `ops/qa/package-results.json`); the Payhip $0 product doesn't exist yet |
+| 2. Free-guide download | 🟡 Linked, not yet tested | Payhip product created by owner: https://payhip.com/b/9QTX8 (Nov 23, 2026). Site buttons point to it (site check "button 'free' points at configured link"). Payhip page not opened from this environment (network blocks payhip.com). **Needs test A1/A2** |
 | 3. Email capture | 🔴 | Needs Payhip + MailerLite (test A1, A3) |
 | 4. Welcome sequence | 🔴 | Written in `marketing/emails/email-sequences.md`, not loaded (test A4–A6) |
 | 5. Product purchase | 🔴 | Needs Payhip + Stripe/PayPal (test B1) |

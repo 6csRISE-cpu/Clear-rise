@@ -31,11 +31,18 @@ for (const p of pages) {
   await pg.close();
 }
 
-// Buy buttons: disabled when config links are empty
+// Buttons vs. the real config: a button with an empty link must be disabled; a configured one must point at it
 const home = pathToFileURL(join(site, 'index.html')).href;
+const cfgText = readFileSync(join(site, 'config.js'), 'utf8');
+const cfgLinks = Object.fromEntries([...cfgText.matchAll(/^\s*(\w+):\s*"([^"]*)"/gm)].map(m => [m[1], m[2]]));
 let pg = await ctx.newPage(); await pg.goto(home);
-const disabled = await pg.evaluate(() => [...document.querySelectorAll('[data-link]')].filter(a => ['starter','system','pro','club','free'].includes(a.dataset.link)).map(a => ({ l: a.dataset.link, href: a.getAttribute('href'), dis: a.getAttribute('aria-disabled') })));
-ok('buy buttons disabled while links are empty', disabled.length >= 5 && disabled.every(x => x.dis === 'true' && x.href === null), JSON.stringify(disabled));
+const btns = await pg.evaluate(() => [...document.querySelectorAll('[data-link]')].map(a => ({ l: a.dataset.link, href: a.getAttribute('href'), dis: a.getAttribute('aria-disabled') })));
+for (const k of ['free', 'starter', 'system', 'pro']) {
+  const mine = btns.filter(x => x.l === k); const url = cfgLinks[k] || '';
+  ok(`button '${k}' present on homepage`, mine.length > 0);
+  if (url) ok(`button '${k}' points at configured link ${url}`, mine.every(x => x.href === url && x.dis !== 'true'), JSON.stringify(mine));
+  else ok(`button '${k}' disabled while its link is empty`, mine.every(x => x.dis === 'true' && x.href === null), JSON.stringify(mine));
+}
 // Calculator: recompute from the page's own slider values and compare with what it displays
 const calc = await pg.evaluate(() => {
   const v = id => +document.getElementById(id).value;
@@ -49,7 +56,7 @@ ok('calculator: quote follow-up recovery', calc.rec2 === money(calc.quotes * 0.0
 await pg.close();
 
 // Buy buttons: wired when config links are filled (simulate a filled config)
-const cfg = readFileSync(join(site, 'config.js'), 'utf8').replace(/(free|starter|system|pro|club):\s*"",/g, (m, k) => `${k}: "https://payhip.com/b/TEST-${k}",`);
+const cfg = cfgText.replace(/(free|starter|system|pro|club):\s*"[^"]*",/g, (m, k) => `${k}: "https://payhip.com/b/TEST-${k}",`);
 pg = await ctx.newPage(); await pg.route('**/config.js', r => r.fulfill({ body: cfg, contentType: 'application/javascript' }));
 await pg.goto(home);
 const wired = await pg.evaluate(() => [...document.querySelectorAll('[data-link]')].filter(a => ['starter','system','pro','club','free'].includes(a.dataset.link)).map(a => ({ l: a.dataset.link, href: a.getAttribute('href') })));

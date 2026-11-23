@@ -1,6 +1,6 @@
 {
- "ran": "2026-11-22T23:44:43.467Z",
- "total": 248,
+ "ran": "2026-11-23T18:10:03.544Z",
+ "total": 255,
  "failed": 0,
  "results": [
   {
@@ -1214,9 +1214,44 @@
    "detail": ""
   },
   {
-   "name": "buy buttons disabled while links are empty",
+   "name": "button 'free' present on homepage",
    "pass": true,
-   "detail": "[{\"l\":\"free\",\"href\":null,\"dis\":\"true\"},{\"l\":\"starter\",\"href\":null,\"dis\":\"true\"},{\"l\":\"system\",\"href\":null,\"dis\":\"true\"},{\"l\":\"pro\",\"href\":null,\"dis\":\"true\"},{\"l\":\"free\",\"href\":null,\"dis\":\"true\"}]"
+   "detail": ""
+  },
+  {
+   "name": "button 'free' points at configured link https://payhip.com/b/9QTX8",
+   "pass": true,
+   "detail": "[{\"l\":\"free\",\"href\":\"https://payhip.com/b/9QTX8\",\"dis\":null},{\"l\":\"free\",\"href\":\"https://payhip.com/b/9QTX8\",\"dis\":null}]"
+  },
+  {
+   "name": "button 'starter' present on homepage",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "button 'starter' disabled while its link is empty",
+   "pass": true,
+   "detail": "[{\"l\":\"starter\",\"href\":null,\"dis\":\"true\"}]"
+  },
+  {
+   "name": "button 'system' present on homepage",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "button 'system' disabled while its link is empty",
+   "pass": true,
+   "detail": "[{\"l\":\"system\",\"href\":null,\"dis\":\"true\"}]"
+  },
+  {
+   "name": "button 'pro' present on homepage",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "button 'pro' disabled while its link is empty",
+   "pass": true,
+   "detail": "[{\"l\":\"pro\",\"href\":null,\"dis\":\"true\"}]"
   },
   {
    "name": "calculator: revenue at risk",

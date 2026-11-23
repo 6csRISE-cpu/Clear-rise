@@ -4,7 +4,7 @@
  */
 window.UNGHOSTED = {
   links: {
-    free:    "",  // Payhip $0 product: "5 Texts That Win Back Missed Calls"
+    free:    "https://payhip.com/b/9QTX8",  // Payhip $0 product: "5 Texts That Win Back Missed Calls" (added Nov 23, 2026)
     starter: "",  // Payhip product: Starter Kit, $27
     system:  "",  // Payhip product: Unghosted System, $67
     pro:     "",  // Payhip product: Pro Bundle, $127

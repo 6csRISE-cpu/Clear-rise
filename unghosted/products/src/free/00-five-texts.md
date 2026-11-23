@@ -53,4 +53,4 @@ Three touches, then stop.
 
 These five texts plug the first leak. The **Ghost-Proof Kit** ($27) adds the full quote follow-up sequence, trade playbooks for HVAC, plumbing, electrical, cleaning, lawn and pest, honest objection replies, phone scripts, *The Texting Rules* and a tracker. The **Unghosted System** ($67) adds rebooking, cancellation recovery, reviews, referrals and maintenance plans. The **Unghosted System** adds rebooking, cancellation recovery, reviews, referrals and maintenance plans.
 
-→ See everything at **unghostedhq.vercel.app** *(you'll also get one useful email a week. Unsubscribe any time.)*
+→ See everything at **unghostedhq.netlify.app** *(you'll also get one useful email a week. Unsubscribe any time.)*

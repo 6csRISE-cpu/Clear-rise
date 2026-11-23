@@ -2,7 +2,7 @@
 
 **What it is:** a digital-product business that sells ready-to-send follow-up texts, emails and phone scripts, plus a tracker, to **home-service businesses** (HVAC, plumbing, electrical, cleaning, lawn care, pest control, roofing and more). **Promise:** *Stop losing jobs because you didn't follow up.* **Pricing:** Kit $27 (easy first buy) → **System $67 (primary product)** → Pro $127 (teams); Ghost Club $19/mo offered after purchase. **Acquisition:** partner-led (consultants, contractor bookkeepers, agencies, VAs), SEO in the background. **Compliance:** every template labeled by message type; *The Texting Rules* awaits attorney review before launch.
 
-**Status:** fully built; site live at https://unghostedhq.vercel.app; not yet selling. Full review: [`REVIEW-SUMMARY.md`](REVIEW-SUMMARY.md). It's waiting on the owner account steps in [`ops/OWNER-SETUP.md`](ops/OWNER-SETUP.md) (about 2 hours). See [`ops/LAUNCH-CHECKLIST.md`](ops/LAUNCH-CHECKLIST.md) for exactly what's verified.
+**Status:** fully built; site live at https://unghostedhq.netlify.app; not yet selling. Full review: [`REVIEW-SUMMARY.md`](REVIEW-SUMMARY.md). It's waiting on the owner account steps in [`ops/OWNER-SETUP.md`](ops/OWNER-SETUP.md) (about 2 hours). See [`ops/LAUNCH-CHECKLIST.md`](ops/LAUNCH-CHECKLIST.md) for exactly what's verified.
 
 ## Why this opportunity
 - **Proven pain, measurable money:** call-tracking studies find 14–27% of calls to home-service businesses go unanswered, and quotes commonly die to silence. Owners already pay $50–$300+/month for software that partly solves this.

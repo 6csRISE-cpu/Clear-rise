@@ -4,5 +4,5 @@ This license lets the purchaser use the Unghosted templates and guides with up t
 businesses they actively serve (agencies, consultants, virtual assistants). You may adapt the
 templates and load them into clients' tools under your own brand. You may not resell, give away
 or publish the Unghosted files or substantial parts of them as a product.
-Full terms: https://unghostedhq.vercel.app/legal/affiliates.html (section 4)
+Full terms: https://unghostedhq.netlify.app/legal/affiliates.html (section 4)
 If you recommend Unghosted for a commission, disclose it (section 2).

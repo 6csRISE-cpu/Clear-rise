@@ -100,6 +100,6 @@ Works with or without the other Unghosted products. Cancel anytime; you keep eve
 **Tagline:** Implement Unghosted for your clients.
 
 **Description:**
-For agencies, consultants and virtual assistants who set up follow-up systems for home-service businesses. Includes everything in the Pro Bundle, licensed for use with up to 10 client businesses you actively serve. Adapt the templates and load them into your clients' tools under your brand. Not for resale or redistribution of the files. Full terms: unghostedhq.vercel.app/legal/affiliates.html
+For agencies, consultants and virtual assistants who set up follow-up systems for home-service businesses. Includes everything in the Pro Bundle, licensed for use with up to 10 client businesses you actively serve. Adapt the templates and load them into your clients' tools under your brand. Not for resale or redistribution of the files. Full terms: unghostedhq.netlify.app/legal/affiliates.html
 
 **File:** `Unghosted-Partner-License.zip`

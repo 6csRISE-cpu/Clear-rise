@@ -6,7 +6,7 @@
                  │ Communities · Pinterest                          │
                  └──────────────────────┬──────────────────────────┘
                                         ▼
-               unghostedhq.vercel.app (Cloudflare Pages, auto-deploys from GitHub)
+               unghostedhq.netlify.app (Cloudflare Pages, auto-deploys from GitHub)
                sales page · calculator · guides · support · legal
                     │                                   │
         "Free guide" │                           "Buy" │
@@ -44,7 +44,7 @@
 | Feedback collection | MailerLite → Tally | Day-21 email |
 | Basic support / FAQ | Support page + Tally form | Self-serve first; form to inbox |
 | Affiliate tracking | Payhip | Built-in |
-| Site deploys | Vercel (project `unghosted`, free domain unghostedhq.vercel.app) | Claude redeploys after each change; or link the project to Git / move to Cloudflare Pages for push-to-deploy |
+| Site deploys | Vercel (project `unghosted`, free domain unghostedhq.netlify.app) | Claude redeploys after each change; or link the project to Git / move to Cloudflare Pages for push-to-deploy |
 | Analytics | Cloudflare Web Analytics + Payhip + MailerLite reports | Built-in |
 | **Monthly acquisition + content work** | **Claude scheduled task (20th)** | Researches 20 new partner prospects + drafts personalized first emails, writes next month's Partner Drop, Ghost Club pack and 1 SEO guide, rebuilds, runs all automated tests, commits, redeploys |
 

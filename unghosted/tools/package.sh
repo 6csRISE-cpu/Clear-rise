@@ -15,7 +15,7 @@ Thanks for buying Unghosted!
 4. Templates-Import CSV = every template in one list, for bulk import into your texting/CRM app.
 
 Need help? Reply to your purchase email. We answer within 2 business days.
-Refunds: 30-day money-back guarantee, see unghostedhq.vercel.app/legal/refunds.html
+Refunds: 30-day money-back guarantee, see unghostedhq.netlify.app/legal/refunds.html
 
 License: for use in one business. Please don't resell or share the files.
 TXT
@@ -33,7 +33,7 @@ This license lets the purchaser use the Unghosted templates and guides with up t
 businesses they actively serve (agencies, consultants, virtual assistants). You may adapt the
 templates and load them into clients' tools under your own brand. You may not resell, give away
 or publish the Unghosted files or substantial parts of them as a product.
-Full terms: https://unghostedhq.vercel.app/legal/affiliates.html (section 4)
+Full terms: https://unghostedhq.netlify.app/legal/affiliates.html (section 4)
 If you recommend Unghosted for a commission, disclose it (section 2).
 TXT
 (cd pkg && rm -f Unghosted-Partner-License.zip && zip -qr Unghosted-Partner-License.zip Unghosted-Partner-License)

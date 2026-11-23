@@ -10,7 +10,7 @@
 
 | # | Blocker | Owner-only? | Status | Next action |
 |---|---|---|---|---|
-| 1 | **Hosting with clear commercial-use terms.** The current preview runs on Vercel Hobby, which Vercel's terms limit to personal/non-commercial use. | 👤 | 🔴 | Choose: Vercel Pro (~$20/mo, no migration) **or** another host after reading its current terms (Cloudflare Pages Free has no explicit ban I found, but describes Free as "for personal or hobby projects"). **Don't take payments on Hobby.** |
+| 1 | **Hosting with clear commercial-use terms** | 👤 | ✅ Resolved Nov 23, 2026 | Netlify Free (Netlify states commercial projects are allowed), project `unghostedhq` in the owner's Netlify team; site https://unghostedhq.netlify.app. Evidence: Netlify API shows team plan "Free", owner role "Owner", production public (login required only for non-production previews) |
 | 2 | **Payment accounts:** Payhip + Stripe and/or PayPal in your name | 👤 | 🟡 **Owner-reported done (Nov 23, 2026): Payhip + PayPal.** Not yet verified by a test purchase | Create the 6 products from `ops/PAYHIP-LISTINGS.md`, send the product links, then run test B1 |
 | 3 | **Attorney review** of *The Texting Rules* and template labels | 👤 | 🔴 | Send `ops/COMPLIANCE-REVIEW-PACKET.md`; get a flat-fee quote |
 | 4 | **Email platform:** MailerLite account + Payhip connection + automations loaded | 👤 (account) | 🔴 | `ops/OWNER-SETUP.md` Step 3. Sequences are written, not loaded |
@@ -26,7 +26,7 @@
 
 | Step | Status | Evidence / what's missing |
 |---|---|---|
-| 1. Website visit | ✅ Preview live | https://unghostedhq.vercel.app serves the site (HTTP 200 confirmed via Vercel on Nov 22). Automated: 248/248 site checks (`ops/qa/site-results.json`) |
+| 1. Website visit | ✅ Preview live | https://unghostedhq.netlify.app serves the site (HTTP 200 confirmed via Vercel on Nov 22). Automated: 248/248 site checks (`ops/qa/site-results.json`) |
 | 2. Free-guide download | 🟡 Linked, not yet tested | Payhip product created by owner: https://payhip.com/b/9QTX8 (Nov 23, 2026). Site buttons point to it (site check "button 'free' points at configured link"). Payhip page not opened from this environment (network blocks payhip.com). **Needs test A1/A2** |
 | 3. Email capture | 🔴 | Needs Payhip + MailerLite (test A1, A3) |
 | 4. Welcome sequence | 🔴 | Written in `marketing/emails/email-sequences.md`, not loaded (test A4–A6) |
@@ -72,8 +72,8 @@
 | Asset | Where it lives now | Owner | Evidence | Action needed |
 |---|---|---|---|---|
 | Source code & content | GitHub repo `6csRISE-cpu/Clear-rise` | ✅ You | Your GitHub organization/account | Merge the branch to `main` when ready |
-| Website hosting (preview) | Vercel project `unghosted`, team "Big Hands" | ✅ You | Created through your connected Vercel account | Decide paid plan or another host before selling |
-| Free domain alias | unghostedhq.vercel.app | ✅ Your Vercel project | Assigned in your team | Replace with your own domain later |
+| Website hosting | Netlify project `unghostedhq`, team "6csRISE-cpu's team" (Free) | ✅ You (Owner) | Netlify API: currentUserRoleOnTeam = Owner | None. Old Vercel preview `unghosted` can be deleted |
+| Free domain | unghostedhq.netlify.app | ✅ Your Netlify project | Netlify project name | Replace with your own domain later (optional) |
 | Custom domain | Not purchased | — | — | 👤 Buy in **your** name, with your email and card |
 | Support / feedback / partner forms | Tally "My workspace" | ✅ You | Created in your Tally workspace | Confirm notifications go to your inbox |
 | Monthly content task | Your claude.ai scheduled tasks ("Unghosted monthly content") | ✅ You | Created under your account | Pause/delete anytime |
@@ -91,7 +91,7 @@
 
 | Risk | Severity | Mitigation |
 |---|---|---|
-| Selling on a non-commercial hosting plan | High | Blocker 1. Don't connect payments until resolved |
+| Selling on a non-commercial hosting plan | Resolved | Moved to Netlify Free (commercial use allowed per Netlify); Vercel Hobby preview to be retired |
 | Texting guidance inaccurate in some states | High | Attorney review (Blocker 3); conservative rules; labels on every template |
 | No validated demand yet | High | 90-day validation plan (`marketing/ACQUISITION-PLAN.md`); judge by sales, not projections |
 | Partners don't engage | Medium | Measurable recruitment funnel; rewrite outreach by week 4 if fewer than 2 active |
@@ -105,7 +105,7 @@
 | Item | One-time | Monthly |
 |---|---|---|
 | Domain | — | ~$1 (≈$12/yr) |
-| Hosting with commercial terms | — | $0–$20 (decision) |
+| Hosting (Netlify Free) | — | $0 |
 | Payhip / Tally / Zapier / MailerLite (start) | — | $0 |
 | Attorney review | Flat-fee quote needed | — |
 | E2E test purchase + refund fees | ~$1–2 | — |

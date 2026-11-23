@@ -2,7 +2,7 @@
 
 *Updated November 22, 2026. Repo `6csRISE-cpu/Clear-rise`, branch `claude/autonomous-digital-business-qdjpdr`, folder `unghosted/`. The detailed, evidence-backed checklist is `ops/LAUNCH-CHECKLIST.md`.*
 
-**Status:** built, with a non-selling preview at https://unghostedhq.vercel.app. **Not ready to take money:** hosting terms, payment accounts, attorney review, email setup and the end-to-end tests are still open. Actual results so far: **0 sales, $0 revenue, $0 spent.**
+**Status:** built, with a non-selling preview at https://unghostedhq.netlify.app. **Not ready to take money:** hosting terms, payment accounts, attorney review, email setup and the end-to-end tests are still open. Actual results so far: **0 sales, $0 revenue, $0 spent.**
 
 ## What changed in v3
 | Decision | Result |

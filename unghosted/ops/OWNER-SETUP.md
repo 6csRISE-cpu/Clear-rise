@@ -8,15 +8,12 @@ When you finish a step, paste the link or ID it produces into a message to Claud
 
 ---
 
-## Step 1 — Domain & hosting
+## Step 1 — Domain & hosting ✅ (done Nov 23, 2026)
 
-**Right now (free preview, not for selling):** the site is live at **https://unghostedhq.vercel.app**, deployed from this repo (`unghosted.vercel.app` was already taken by someone else). No action needed to look at it or share it.
-
-**Before you take real payments (pick one; verify the provider's current terms yourself):**
-- **Option A, Vercel Pro (~$20/mo):** upgrade the existing `unghosted` project. Its terms clearly cover commercial use, and nothing needs to move.
-- **Option B, Cloudflare Pages:** read Cloudflare's current self-serve terms first (the Free plan is described as "for personal or hobby projects"; no explicit commercial ban found). Then create an account in **your** name → Workers & Pages → Create → Pages → Connect to Git → repo `Clear-rise`, branch `claude/autonomous-digital-business-qdjpdr`, build command *none*, output directory `unghosted/site`. You get a free `unghosted.pages.dev` address that allows commercial use. *(Vercel's free Hobby plan is for non-commercial use, so it's fine for a preview but not for selling.)*
-- **Your own domain (~$12/yr, recommended):** buy **`unghostedhq.com`** (available Nov 22, 2026; backups: `unghostedkit.com`, `unghosted.club`) in Cloudflare → Domain Registration, attach it to the Pages project, then turn on **Email Routing** for `support@unghostedhq.com` → your inbox. Tell Claude, and every link switches over in one commit.
-- In Cloudflare → **Web Analytics**, add the site and send Claude the token (free analytics).
+- **Hosting:** Netlify **Free** plan, in **your** Netlify account (team "6csRISE-cpu's team", you're the Owner, signed in with your GitHub). Netlify states the Free plan can be used for commercial projects. Skim Netlify's Acceptable Use Policy once, since you agreed to it at sign-up.
+- **Site address:** **https://unghostedhq.netlify.app**. Use this as your "business website" in Payhip and PayPal.
+- **Old preview:** https://unghostedhq.vercel.app (Vercel Hobby, non-commercial). Delete the `unghosted` project in your Vercel dashboard once you're happy with Netlify, or ask Claude to.
+- **Optional, ~$12/yr:** buy your own domain (e.g. `unghostedhq.com`) and connect it in Netlify → Domain management. Tell Claude and every link switches over in one commit.
 
 ## Step 2 — Payments: Payhip + Stripe/PayPal · 45 min · $0/month
 1. Sign up at **payhip.com** (Free plan: 5% per sale, no monthly fee).

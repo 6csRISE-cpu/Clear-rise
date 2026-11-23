@@ -8,7 +8,7 @@ import markdown
 
 ROOT = Path(__file__).resolve().parent.parent
 SITE = ROOT / "site"
-DOMAIN = "https://unghostedhq.vercel.app"
+DOMAIN = "https://unghostedhq.netlify.app"
 FRONT = re.compile(r"^---\n(.*?)\n---\n", re.S)
 
 

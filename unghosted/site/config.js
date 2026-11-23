@@ -10,7 +10,7 @@ window.UNGHOSTED = {
     free:    "https://payhip.com/b/9QTX8",  // Payhip $0 product: "5 Texts That Win Back Missed Calls" (added Nov 23, 2026)
     starter: "https://payhip.com/b/6D8Lo",  // Payhip product: Ghost-Proof Kit, $27 (added Nov 23, 2026)
     system:  "https://payhip.com/b/Sj7qd",  // Payhip product: Unghosted System, $67 (added Nov 23, 2026)
-    pro:     "",  // Payhip product: Pro Bundle, $127
+    pro:     "https://payhip.com/b/7Dl5m",  // Payhip product: Pro Bundle, $127 (added Nov 23, 2026)
     club:    "",  // Payhip membership: Ghost Club, $19/mo
     clubYear:"",  // Payhip membership: Ghost Club annual, $159/yr
     support: "https://tally.so/r/db9DvD",  // Tally support form (live)

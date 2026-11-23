@@ -30,7 +30,7 @@
 | 2. Free-guide download | 🟡 Linked, not yet tested | Payhip product created by owner: https://payhip.com/b/9QTX8 (Nov 23, 2026). Site buttons point to it (site check "button 'free' points at configured link"). Payhip page not opened from this environment (network blocks payhip.com). **Needs test A1/A2** |
 | 3. Email capture | 🔴 | Needs Payhip + MailerLite (test A1, A3) |
 | 4. Welcome sequence | 🔴 | Written in `marketing/emails/email-sequences.md`, not loaded (test A4–A6) |
-| 5. Product purchase | 🟡 Product created, not tested | Ghost-Proof Kit: https://payhip.com/b/6D8Lo · Unghosted System: https://payhip.com/b/Sj7qd (owner, Nov 23, 2026). Saved in `site/config.js`; button intentionally **off** (`sellingEnabled: false`) until hosting with commercial terms + tests B1–B5 pass |
+| 5. Product purchase | 🟡 Product created, not tested | Ghost-Proof Kit: https://payhip.com/b/6D8Lo · Unghosted System: https://payhip.com/b/Sj7qd · Pro Bundle: https://payhip.com/b/7Dl5m (owner, Nov 23, 2026). Saved in `site/config.js`; button intentionally **off** (`sellingEnabled: false`) until hosting with commercial terms + tests B1–B5 pass |
 | 6. Payment confirmation | 🔴 | Test B1 |
 | 7. Product delivery | 🟡 Files verified, delivery not | Every ZIP has exactly the right files: 63/63 package checks. Payhip delivery is untested (B2, D1) |
 | 8. Upgrade offer | 🔴 | Coupons UPGRADE27/PRO67 and upsells are designed, not created (C1–C4) |

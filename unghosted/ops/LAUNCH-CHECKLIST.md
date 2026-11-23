@@ -14,7 +14,7 @@
 | 2 | **Payment accounts:** Payhip + Stripe and/or PayPal in your name | 👤 | 🟡 **Owner-reported done (Nov 23, 2026): Payhip + PayPal.** Not yet verified by a test purchase | Create the 6 products from `ops/PAYHIP-LISTINGS.md`, send the product links, then run test B1 |
 | 3 | **Attorney review** of *The Texting Rules* and template labels | 👤 | 🔴 | Send `ops/COMPLIANCE-REVIEW-PACKET.md`; get a flat-fee quote |
 | 4 | **Email platform:** MailerLite account + Payhip connection + automations loaded | 👤 (account) | 🔴 | `ops/OWNER-SETUP.md` Step 3. Sequences are written, not loaded |
-| 5 | **Legal details:** legal name/entity, mailing address, state | 👤 | 🔴 | Send to Claude; currently placeholders in `site/config.js` |
+| 5 | **Legal details:** legal name/entity, mailing address, state | 👤 | ✅ Filled Nov 23, 2026: Clear Rise · 113 E Cornhill, Cameron, MO 64429 · Missouri | Site check "no unfilled legal placeholders" passes on every page. Same address goes in MailerLite → Company settings |
 | 6 | **End-to-end journey test** (30 tests) on live accounts | 👤 + Claude | 🔴 Blocked by 2 and 4 | `ops/E2E-TEST-PLAN.md` |
 | 7 | **Domain** in your name (optional but recommended) | 👤 | 🔴 | e.g. unghostedhq.com (~$12/yr); availability checked Nov 22, 2026 |
 

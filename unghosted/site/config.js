@@ -20,9 +20,9 @@ window.UNGHOSTED = {
     feedback: "https://tally.so/r/Yj4Mkz" // Tally feedback survey (live), used in email E
   },
   supportEmail: "",  // e.g. "support@unghostedhq.com" once the domain + email forwarding exist; empty = links go to the support form
-  legalName: "[Owner legal name or business entity]",
-  mailingAddress: "[Business mailing address, required in marketing emails]",
-  governingState: "[State]",
+  legalName: "Clear Rise",
+  mailingAddress: "113 E Cornhill, Cameron, MO 64429",
+  governingState: "Missouri",
   analyticsToken: "" // Cloudflare Web Analytics token (free). Leave empty to disable.
 };
 

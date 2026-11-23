@@ -26,6 +26,8 @@ for (const p of pages) {
     let t = join(dirname(p), h.split('#')[0]); if (h.endsWith('/')) t = join(t, 'index.html');
     ok(`${rel}: link ${h}`, existsSync(t));
   }
+  const bodyText = await pg.evaluate(() => document.body.innerText);
+  ok(`${rel}: no unfilled legal placeholders`, !/\[(Owner|Business mailing|State)/.test(bodyText));
   const title = await pg.title(); ok(`${rel}: has title`, title.length > 5, title);
   ok(`${rel}: no old brand`, !/clearrise/i.test(await pg.content()));
   await pg.close();

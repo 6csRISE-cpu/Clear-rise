@@ -1,6 +1,6 @@
 {
- "ran": "2026-11-23T18:50:27.286Z",
- "total": 255,
+ "ran": "2026-11-23T22:23:21.517Z",
+ "total": 269,
  "failed": 0,
  "results": [
   {
@@ -85,6 +85,11 @@
   },
   {
    "name": "guides/customer-rebooking-reminders.html: link ../legal/affiliates.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/customer-rebooking-reminders.html: no unfilled legal placeholders",
    "pass": true,
    "detail": ""
   },
@@ -175,6 +180,11 @@
   },
   {
    "name": "guides/get-more-google-reviews-home-service.html: link ../legal/affiliates.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/get-more-google-reviews-home-service.html: no unfilled legal placeholders",
    "pass": true,
    "detail": ""
   },
@@ -289,6 +299,11 @@
    "detail": ""
   },
   {
+   "name": "guides/index.html: no unfilled legal placeholders",
+   "pass": true,
+   "detail": ""
+  },
+  {
    "name": "guides/index.html: has title",
    "pass": true,
    "detail": "Free Guides for Home Service Business Owners | Unghosted"
@@ -380,6 +395,11 @@
   },
   {
    "name": "guides/maintenance-plan-pricing.html: link ../legal/affiliates.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/maintenance-plan-pricing.html: no unfilled legal placeholders",
    "pass": true,
    "detail": ""
   },
@@ -479,6 +499,11 @@
    "detail": ""
   },
   {
+   "name": "guides/missed-call-text-back-templates.html: no unfilled legal placeholders",
+   "pass": true,
+   "detail": ""
+  },
+  {
    "name": "guides/missed-call-text-back-templates.html: has title",
    "pass": true,
    "detail": "Missed Call Text Back Templates for Home Service Businesses (Copy & Paste) | Unghosted"
@@ -570,6 +595,11 @@
   },
   {
    "name": "guides/quote-follow-up-templates.html: link ../legal/affiliates.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "guides/quote-follow-up-templates.html: no unfilled legal placeholders",
    "pass": true,
    "detail": ""
   },
@@ -669,6 +699,11 @@
    "detail": ""
   },
   {
+   "name": "guides/referral-program-for-contractors.html: no unfilled legal placeholders",
+   "pass": true,
+   "detail": ""
+  },
+  {
    "name": "guides/referral-program-for-contractors.html: has title",
    "pass": true,
    "detail": "A Simple Referral Program for Contractors and Home Service Businesses | Unghosted"
@@ -730,6 +765,11 @@
   },
   {
    "name": "index.html: link legal/affiliates.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "index.html: no unfilled legal placeholders",
    "pass": true,
    "detail": ""
   },
@@ -809,6 +849,11 @@
    "detail": ""
   },
   {
+   "name": "legal/affiliates.html: no unfilled legal placeholders",
+   "pass": true,
+   "detail": ""
+  },
+  {
    "name": "legal/affiliates.html: has title",
    "pass": true,
    "detail": "Partner & Affiliate Terms | Unghosted"
@@ -884,6 +929,11 @@
    "detail": ""
   },
   {
+   "name": "legal/privacy.html: no unfilled legal placeholders",
+   "pass": true,
+   "detail": ""
+  },
+  {
    "name": "legal/privacy.html: has title",
    "pass": true,
    "detail": "Privacy Policy | Unghosted"
@@ -955,6 +1005,11 @@
   },
   {
    "name": "legal/refunds.html: link ../legal/affiliates.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "legal/refunds.html: no unfilled legal placeholders",
    "pass": true,
    "detail": ""
   },
@@ -1044,6 +1099,11 @@
    "detail": ""
   },
   {
+   "name": "legal/terms.html: no unfilled legal placeholders",
+   "pass": true,
+   "detail": ""
+  },
+  {
    "name": "legal/terms.html: has title",
    "pass": true,
    "detail": "Terms of Sale & Use | Unghosted"
@@ -1124,6 +1184,11 @@
    "detail": ""
   },
   {
+   "name": "partners.html: no unfilled legal placeholders",
+   "pass": true,
+   "detail": ""
+  },
+  {
    "name": "partners.html: has title",
    "pass": true,
    "detail": "Partner With Unghosted | Unghosted"
@@ -1200,6 +1265,11 @@
   },
   {
    "name": "support.html: link legal/affiliates.html",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "support.html: no unfilled legal placeholders",
    "pass": true,
    "detail": ""
   },

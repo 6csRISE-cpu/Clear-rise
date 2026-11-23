@@ -26,7 +26,7 @@
 
 | Step | Status | Evidence / what's missing |
 |---|---|---|
-| 1. Website visit | ✅ Preview live | https://unghostedhq.netlify.app serves the site (HTTP 200 confirmed via Vercel on Nov 22). Automated: 248/248 site checks (`ops/qa/site-results.json`) |
+| 1. Website visit | ✅ Live on Netlify | https://unghostedhq.netlify.app: Netlify deploy 6b04cba4223535dfec595aea "ready", published to production Nov 23, 2026. HTTP 200 verified for home, all legal pages, support, partners, guides, sitemap, share image; security headers present. Automated: 269/269 site checks (`ops/qa/site-results.json`) |
 | 2. Free-guide download | 🟡 Linked, not yet tested | Payhip product created by owner: https://payhip.com/b/9QTX8 (Nov 23, 2026). Site buttons point to it (site check "button 'free' points at configured link"). Payhip page not opened from this environment (network blocks payhip.com). **Needs test A1/A2** |
 | 3. Email capture | 🔴 | Needs Payhip + MailerLite (test A1, A3) |
 | 4. Welcome sequence | 🔴 | Written in `marketing/emails/email-sequences.md`, not loaded (test A4–A6) |

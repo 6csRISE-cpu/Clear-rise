@@ -11,7 +11,7 @@
 | # | Blocker | Owner-only? | Status | Next action |
 |---|---|---|---|---|
 | 1 | **Hosting with clear commercial-use terms.** The current preview runs on Vercel Hobby, which Vercel's terms limit to personal/non-commercial use. | 👤 | 🔴 | Choose: Vercel Pro (~$20/mo, no migration) **or** another host after reading its current terms (Cloudflare Pages Free has no explicit ban I found, but describes Free as "for personal or hobby projects"). **Don't take payments on Hobby.** |
-| 2 | **Payment accounts:** Payhip + Stripe and/or PayPal in your name | 👤 | 🔴 | `ops/OWNER-SETUP.md` Step 2. Identity and bank verification |
+| 2 | **Payment accounts:** Payhip + Stripe and/or PayPal in your name | 👤 | 🟡 **Owner-reported done (Nov 23, 2026): Payhip + PayPal.** Not yet verified by a test purchase | Create the 6 products from `ops/PAYHIP-LISTINGS.md`, send the product links, then run test B1 |
 | 3 | **Attorney review** of *The Texting Rules* and template labels | 👤 | 🔴 | Send `ops/COMPLIANCE-REVIEW-PACKET.md`; get a flat-fee quote |
 | 4 | **Email platform:** MailerLite account + Payhip connection + automations loaded | 👤 (account) | 🔴 | `ops/OWNER-SETUP.md` Step 3. Sequences are written, not loaded |
 | 5 | **Legal details:** legal name/entity, mailing address, state | 👤 | 🔴 | Send to Claude; currently placeholders in `site/config.js` |
